@@ -1,0 +1,134 @@
+{
+  "case_id": "CASE029",
+  "true_network": [
+    "P0849",
+    "P0341",
+    "P0125",
+    "P0171",
+    "P0378",
+    "P0822",
+    "P0842",
+    "P0933",
+    "P0634",
+    "P0810",
+    "P0282",
+    "P0870",
+    "P0597",
+    "P0986",
+    "P0322",
+    "P0901",
+    "P0791",
+    "P0845",
+    "P0851"
+  ],
+  "key_entities": [
+    "P0849",
+    "P0341"
+  ],
+  "bridge_entities": [],
+  "false_leads": [
+    "P0901"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0849",
+      "target": "P0341",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0125",
+      "target": "P0171",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0378",
+      "target": "P0822",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0842",
+      "target": "P0933",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0634",
+      "target": "P0810",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0282",
+      "target": "P0870",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0597",
+      "target": "P0986",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0322",
+      "target": "P0901",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    },
+    {
+      "source": "P0791",
+      "target": "P0845",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0029"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX1336",
+    "TX1337",
+    "TX1338",
+    "CASE029-LE0146",
+    "CASE029-LE0147"
+  ],
+  "timeline": [
+    "CASE029-EVT001",
+    "CASE029-EVT002",
+    "CASE029-EVT003",
+    "CASE029-EVT004",
+    "CASE029-EVT005",
+    "CASE029-EVT006",
+    "CASE029-EVT007",
+    "CASE029-EVT008",
+    "CASE029-EVT009",
+    "CASE029-EVT010"
+  ]
+}

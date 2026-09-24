@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-09-09T16:10:18.857441",
+  "split": "test",
+  "case_count": 3,
+  "metrics": {
+    "entity_resolution": {
+      "precision": 0.9345,
+      "recall": 1.0,
+      "f1": 0.9662,
+      "false_merge_rate": 0.0655,
+      "total_pairs": 217,
+      "by_pair_type": {
+        "alias": {
+          "tp": 67
+        },
+        "spelling_variation": {
+          "tp": 90
+        },
+        "hard_negative_shared_surname": {
+          "fp": 11
+        }
+      }
+    },
+    "kingpin": {
+      "precision_at_1": 0.3333,
+      "precision_at_3": 0.3333,
+      "recall_at_3": 0.1765,
+      "mrr": 0.6111,
+      "total_cases_with_kingpins": 3,
+      "total_key_entities": 17
+    },
+    "financial_anomalies": {
+      "precision": 0.0293,
+      "recall": 0.2131,
+      "f1": 0.0515,
+      "false_positive_rate": 0.9707,
+      "gt_anomalous_count": 657,
+      "predicted_count": 4777,
+      "by_typology": {
+        "large_transfer": 142,
+        "fan_in": 85,
+        "fan_out": 85,
+        "layering|large_transfer": 85,
+        "round_tripping|large_transfer": 68,
+        "dormant_burst": 22,
+        "dormant_burst|large_transfer": 90,
+        "structuring": 80
+      }
+    },
+    "cdr_anomalies": {
+      "precision": 0.7668,
+      "recall": 0.3532,
+      "f1": 0.4837,
+      "false_positive_rate": 0.2332,
+      "gt_anomalous_count": 16465,
+      "predicted_count": 7585
+    },
+    "evidence_integrity": {
+      "accuracy": 0.5,
+      "correct": 200,
+      "total": 400,
+      "by_tamper_type": {
+        "none": 1.0,
+        "field 'transaction_id' altered after evidence capture": 0.0,
+        "field 'cdr_id' altered after evidence capture": 0.0,
+        "field 'event_id' altered after evidence capture": 0.0,
+        "field 'fir_id' altered after evidence capture": 0.0
+      }
+    },
+    "false_positive_control": {
+      "total_innocents": 0,
+      "high_risk_predictions": 0,
+      "wrongly_flagged_innocents": 0,
+      "wrongly_flagged_ids": [],
+      "false_positive_rate": 0.0,
+      "pass": true
+    }
+  },
+  "solve_evaluation": {
+    "total_cases": 3,
+    "solved": 0,
+    "solve_rate": 0.0,
+    "mean_solve_score": 0.1594,
+    "by_difficulty": {
+      "Advanced": 0.1612,
+      "Intermediate": 0.1558
+    },
+    "by_topology": {
+      "B_chain": 0.1625,
+      "E_hub_spoke": 0.1599,
+      "F_multi_hub": 0.1558
+    },
+    "per_case": [
+      {
+        "case_id": "CASE001",
+        "solve_score": 0.1625,
+        "is_solved": false,
+        "network_overlap": 0.0416,
+        "key_entity_hit": 0.0,
+        "bridge_hit": 0.0,
+        "false_lead_reject": 1.0,
+        "relationship_f1": 0.0
+      },
+      {
+        "case_id": "CASE002",
+        "solve_score": 0.1599,
+        "is_solved": false,
+        "network_overlap": 0.033,
+        "key_entity_hit": 0.0,
+        "bridge_hit": 0.0,
+        "false_lead_reject": 1.0,
+        "relationship_f1": 0.0
+      },
+      {
+        "case_id": "CASE003",
+        "solve_score": 0.1558,
+        "is_solved": false,
+        "network_overlap": 0.0192,
+        "key_entity_hit": 0.0,
+        "bridge_hit": 0.0,
+        "false_lead_reject": 1.0,
+        "relationship_f1": 0.0
+      }
+    ]
+  }
+}

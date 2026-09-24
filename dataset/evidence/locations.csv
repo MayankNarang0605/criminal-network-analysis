@@ -1,0 +1,301 @@
+location_id,city,area,location_name,latitude,longitude,location_type
+LOC0001,Chennai,Transport Nagar,Transport Nagar Railway Station,27.50494,74.387071,transport
+LOC0002,Ahmedabad,Phase 5 Industrial Estate,Phase 5 Industrial Estate Bus Terminal,26.129955,76.666269,transport
+LOC0003,Ludhiana,Sector 29,Sector 29 Storage Yard,23.811387,81.380271,warehouse
+LOC0004,Mumbai,Phase 7 Industrial Estate,Phase 7 Industrial Estate Public Ground,24.438417,73.023849,public
+LOC0005,Amritsar,New Township Sector 50,New Township Sector 50 Logistics Warehouse,22.509142,83.094452,warehouse
+LOC0006,Ludhiana,Commercial Block C,Commercial Block C Bus Terminal,21.016607,80.218799,transport
+LOC0007,Chandigarh,Commercial Block D,Commercial Block D Business Tower,28.676297,81.970373,office
+LOC0008,Jaipur,Civil Lines,Civil Lines Market,23.352385,80.04748,commercial
+LOC0009,Chandigarh,Housing Board Colony,Housing Board Colony Public Ground,23.476343,85.832773,public
+LOC0010,Lucknow,Housing Board Colony,Housing Board Colony Industrial Estate,23.002994,84.715888,industrial
+LOC0011,Bengaluru,Model Town Block D,Model Town Block D Public Ground,26.809181,81.177537,public
+LOC0012,Kolkata,Transport Nagar,Transport Nagar Housing Complex,22.979466,78.210365,residential
+LOC0013,Chennai,Housing Board Colony,Housing Board Colony Multi-level Parking,27.512382,79.886325,parking
+LOC0014,Delhi,Housing Board Colony,Housing Board Colony Dhaba,28.541407,84.005198,restaurant
+LOC0015,Surat,Railway Colony,Railway Colony Community Park,22.361249,74.622317,public
+LOC0016,Bhopal,New Township Sector 53,New Township Sector 53 Dhaba,25.13049,77.609914,restaurant
+LOC0017,Surat,Phase 8 Industrial Estate,Phase 8 Industrial Estate Trade Centre,21.23124,81.022333,commercial
+LOC0018,Hyderabad,Phase 27 Industrial Estate,Phase 27 Industrial Estate Multi-level Parking,23.106056,72.051589,parking
+LOC0019,Faridabad,Model Town Block D,Hotel Model Town Block D Regency,26.436461,84.400983,hotel
+LOC0020,Chandigarh,New Township Sector 22,New Township Sector 22 Public Parking,20.865953,75.55044,parking
+LOC0021,Mumbai,Phase 59 Industrial Estate,Phase 59 Industrial Estate Bus Terminal,20.911648,82.286289,transport
+LOC0022,Ludhiana,New Township Sector 32,New Township Sector 32 Trade Centre,24.755743,83.207715,commercial
+LOC0023,Gurugram,Model Town Block A,Model Town Block A Dhaba,27.128743,79.859659,restaurant
+LOC0024,Ludhiana,Old City Market,Old City Market Commercial Complex,26.025076,83.86809,commercial
+LOC0025,Kanpur,Phase 45 Industrial Estate,Phase 45 Industrial Estate Dhaba,29.326806,73.13714,restaurant
+LOC0026,Hyderabad,Transport Nagar,Transport Nagar Trade Centre,24.269242,81.224129,commercial
+LOC0027,Indore,Civil Lines,Civil Lines Logistics Warehouse,22.530586,80.332776,warehouse
+LOC0028,Kanpur,New Township Sector 19,New Township Sector 19 Multi-level Parking,22.079316,85.985952,parking
+LOC0029,Kolkata,New Township Sector 11,New Township Sector 11 Public Ground,29.526729,76.66938,public
+LOC0030,Bhopal,Sector 59,Sector 59 Corporate Plaza,26.971734,82.920074,office
+LOC0031,Hyderabad,Old City Market,Old City Market Market,24.617679,77.645048,commercial
+LOC0032,Noida,Railway Colony,Railway Colony Inn,25.693987,77.373927,hotel
+LOC0033,Patna,Railway Colony,Railway Colony Inn,27.823329,72.150305,hotel
+LOC0034,Ludhiana,Sector 39,Sector 39 Railway Station,25.403752,80.170396,transport
+LOC0035,Gurugram,Old City Market,Old City Market Trade Centre,23.000323,84.971465,commercial
+LOC0036,Chennai,Sector 14,Sector 14 Storage Yard,20.779063,74.648173,warehouse
+LOC0037,Chennai,Transport Nagar,Hotel Transport Nagar Regency,26.758429,80.048388,hotel
+LOC0038,Hyderabad,Sector 19,Sector 19 Community Park,28.741754,75.440728,public
+LOC0039,Chennai,Phase 51 Industrial Estate,Phase 51 Industrial Estate Market,28.743877,82.810356,commercial
+LOC0040,Gurugram,New Township Sector 54,New Township Sector 54 Warehouse Zone,24.089538,77.565101,industrial
+LOC0041,Bengaluru,Civil Lines,Civil Lines Railway Station,23.116309,76.012253,transport
+LOC0042,Surat,Transport Nagar,Transport Nagar Industrial Estate,24.533893,80.612028,industrial
+LOC0043,Bhubaneswar,New Township Sector 41,New Township Sector 41 Bus Terminal,22.874296,83.713824,transport
+LOC0044,Ranchi,Railway Colony,Railway Colony Warehouse Zone,25.238635,74.261166,industrial
+LOC0045,Dehradun,Commercial Block A,Commercial Block A Industrial Estate,24.663127,73.155893,industrial
+LOC0046,Amritsar,Sector 24,Sector 24 Trade Centre,25.524593,74.916358,commercial
+LOC0047,Kanpur,Commercial Block A,Commercial Block A Market,20.731578,75.377379,commercial
+LOC0048,Surat,Model Town Block B,Hotel Model Town Block B Regency,25.522946,82.246847,hotel
+LOC0049,Amritsar,Transport Nagar,Transport Nagar Logistics Warehouse,21.910609,83.40093,warehouse
+LOC0050,Haridwar,Phase 59 Industrial Estate,Phase 59 Industrial Estate Railway Station,27.983174,83.972635,transport
+LOC0051,Gurugram,Old City Market,Old City Market Multi-level Parking,24.73746,85.827594,parking
+LOC0052,Agra,Commercial Block D,Commercial Block D Industrial Estate,22.078278,73.85319,industrial
+LOC0053,Bengaluru,Phase 31 Industrial Estate,Phase 31 Industrial Estate Dhaba,22.986419,86.570924,restaurant
+LOC0054,Chennai,Phase 19 Industrial Estate,Phase 19 Industrial Estate Residency,28.761251,81.812471,residential
+LOC0055,Surat,Sector 21,Sector 21 Residency,26.261014,76.775918,residential
+LOC0056,Kanpur,Housing Board Colony,Housing Board Colony Railway Station,25.406119,81.233289,transport
+LOC0057,Gurugram,Transport Nagar,Transport Nagar Inn,26.89961,72.934376,hotel
+LOC0058,Hyderabad,Old City Market,Old City Market Inn,27.97607,80.059499,hotel
+LOC0059,Patna,Sector 28,Sector 28 Market,20.523109,80.975981,commercial
+LOC0060,Pune,New Township Sector 26,New Township Sector 26 Warehouse Zone,29.574409,75.963217,industrial
+LOC0061,Lucknow,Civil Lines,Civil Lines Dhaba,29.862074,78.902406,restaurant
+LOC0062,Bengaluru,Phase 3 Industrial Estate,Phase 3 Industrial Estate Apartments,21.726702,85.532844,residential
+LOC0063,Hyderabad,Civil Lines,Civil Lines Industrial Estate,23.077498,78.461974,industrial
+LOC0064,Ludhiana,Housing Board Colony,Housing Board Colony Family Restaurant,23.965416,84.740138,restaurant
+LOC0065,Chandigarh,Housing Board Colony,Housing Board Colony Public Ground,27.722611,86.676524,public
+LOC0066,Lucknow,Housing Board Colony,Housing Board Colony Inn,21.866294,78.899683,hotel
+LOC0067,Lucknow,Commercial Block D,Commercial Block D Corporate Plaza,28.416826,72.643742,office
+LOC0068,Kanpur,Phase 41 Industrial Estate,Phase 41 Industrial Estate Logistics Warehouse,28.335939,83.667791,warehouse
+LOC0069,Dehradun,Railway Colony,Railway Colony Market,23.144255,73.372631,commercial
+LOC0070,Chennai,Phase 46 Industrial Estate,Phase 46 Industrial Estate Storage Yard,22.471442,76.884616,warehouse
+LOC0071,Indore,Civil Lines,Hotel Civil Lines Regency,26.795352,85.655691,hotel
+LOC0072,Indore,New Township Sector 18,New Township Sector 18 Storage Yard,27.667833,73.932856,warehouse
+LOC0073,Ranchi,Railway Colony,Railway Colony Logistics Warehouse,29.631838,81.271938,warehouse
+LOC0074,Amritsar,Sector 48,Sector 48 Public Parking,20.547223,72.238661,parking
+LOC0075,Chennai,Old City Market,Old City Market Residency,20.210369,72.770351,residential
+LOC0076,Delhi,Phase 29 Industrial Estate,Phase 29 Industrial Estate Community Park,27.52136,80.915504,public
+LOC0077,Pune,Civil Lines,Civil Lines Corporate Plaza,20.328795,72.542869,office
+LOC0078,Ahmedabad,New Township Sector 29,New Township Sector 29 Multi-level Parking,29.663776,77.996936,parking
+LOC0079,Faridabad,Commercial Block B,Commercial Block B Trade Centre,20.836225,72.075262,commercial
+LOC0080,Delhi,Housing Board Colony,Housing Board Colony Business Tower,28.496242,72.084148,office
+LOC0081,Chandigarh,Sector 20,Sector 20 Apartments,21.968448,78.646639,residential
+LOC0082,Faridabad,New Township Sector 7,New Township Sector 7 Dhaba,21.782856,80.873663,restaurant
+LOC0083,Gurugram,Model Town Block D,Model Town Block D Commercial Complex,25.111858,73.403518,commercial
+LOC0084,Ghaziabad,New Township Sector 31,New Township Sector 31 Public Ground,27.867455,81.053269,public
+LOC0085,Jaipur,Transport Nagar,Transport Nagar Community Park,27.347379,85.450583,public
+LOC0086,Chandigarh,Sector 54,Sector 54 Railway Station,26.842738,73.511331,transport
+LOC0087,Ludhiana,Old City Market,Old City Market Commercial Complex,28.126652,84.901566,commercial
+LOC0088,Bhopal,Phase 59 Industrial Estate,Phase 59 Industrial Estate Public Ground,29.250746,81.977917,public
+LOC0089,Pune,Old City Market,Hotel Old City Market Regency,24.230728,86.521211,hotel
+LOC0090,Lucknow,Phase 26 Industrial Estate,Phase 26 Industrial Estate Inn,27.863225,79.773125,hotel
+LOC0091,Bhubaneswar,Transport Nagar,Transport Nagar Inn,25.488228,73.366525,hotel
+LOC0092,Kanpur,New Township Sector 58,New Township Sector 58 Trade Centre,22.655781,84.215465,commercial
+LOC0093,Kolkata,Railway Colony,Railway Colony Family Restaurant,25.725577,86.89847,restaurant
+LOC0094,Bhopal,Sector 34,Sector 34 Warehouse Zone,21.543418,74.321381,industrial
+LOC0095,Kolkata,Model Town Block B,Model Town Block B Storage Yard,29.448551,82.383397,warehouse
+LOC0096,Delhi,Old City Market,Old City Market Community Park,28.770253,81.70898,public
+LOC0097,Surat,Transport Nagar,Transport Nagar Public Parking,22.986332,76.692163,parking
+LOC0098,Mumbai,Sector 53,Sector 53 Public Parking,22.310261,81.378148,parking
+LOC0099,Dehradun,Railway Colony,Railway Colony Warehouse Zone,27.294023,74.918883,industrial
+LOC0100,Hyderabad,Housing Board Colony,Housing Board Colony Railway Station,23.95917,72.492706,transport
+LOC0101,Ahmedabad,Phase 45 Industrial Estate,Phase 45 Industrial Estate Industrial Estate,21.748527,74.855829,industrial
+LOC0102,Haridwar,Sector 30,Sector 30 Family Restaurant,21.664552,75.199072,restaurant
+LOC0103,Amritsar,Railway Colony,Railway Colony Community Park,22.601495,73.896981,public
+LOC0104,Agra,Old City Market,Old City Market Family Restaurant,20.657281,85.035813,restaurant
+LOC0105,Kolkata,Phase 4 Industrial Estate,Phase 4 Industrial Estate Inn,21.936808,85.219267,hotel
+LOC0106,Pune,New Township Sector 5,New Township Sector 5 Commercial Complex,27.624465,84.890685,commercial
+LOC0107,Lucknow,Old City Market,Old City Market Corporate Plaza,25.538911,72.5303,office
+LOC0108,Surat,Housing Board Colony,Housing Board Colony Dhaba,22.537091,73.62471,restaurant
+LOC0109,Faridabad,Civil Lines,Civil Lines Residency,21.769556,72.026285,residential
+LOC0110,Noida,Model Town Block C,Hotel Model Town Block C Regency,20.841423,79.976739,hotel
+LOC0111,Ghaziabad,Commercial Block A,Commercial Block A Community Park,22.888903,80.511002,public
+LOC0112,Ahmedabad,Civil Lines,Civil Lines Industrial Estate,28.261393,77.624218,industrial
+LOC0113,Ghaziabad,Model Town Block B,Model Town Block B Commercial Complex,27.018568,84.037917,commercial
+LOC0114,Bengaluru,Civil Lines,Civil Lines Dhaba,23.956586,76.336716,restaurant
+LOC0115,Delhi,Commercial Block B,Commercial Block B Inn,28.430951,79.794161,hotel
+LOC0116,Dehradun,Model Town Block B,Model Town Block B Logistics Warehouse,24.304556,84.517921,warehouse
+LOC0117,Faridabad,Transport Nagar,Transport Nagar Warehouse Zone,22.551117,81.489974,industrial
+LOC0118,Amritsar,Sector 18,Sector 18 Family Restaurant,22.23913,75.413371,restaurant
+LOC0119,Kolkata,Old City Market,Old City Market Apartments,25.74516,77.467556,residential
+LOC0120,Mumbai,Transport Nagar,Transport Nagar Apartments,24.271406,82.439181,residential
+LOC0121,Lucknow,Housing Board Colony,Housing Board Colony Corporate Plaza,25.437862,79.262269,office
+LOC0122,Noida,Transport Nagar,Transport Nagar Apartments,22.546202,77.992791,residential
+LOC0123,Bhopal,Sector 57,Sector 57 Logistics Warehouse,21.785434,76.700668,warehouse
+LOC0124,Surat,Model Town Block D,Model Town Block D Corporate Plaza,29.897164,85.772329,office
+LOC0125,Pune,Railway Colony,Railway Colony Inn,20.797855,82.900995,hotel
+LOC0126,Surat,New Township Sector 36,New Township Sector 36 Residency,26.614153,85.346389,residential
+LOC0127,Indore,Model Town Block B,Model Town Block B Family Restaurant,25.807212,79.991036,restaurant
+LOC0128,Mumbai,Transport Nagar,Transport Nagar Dhaba,20.884376,72.100551,restaurant
+LOC0129,Patna,Housing Board Colony,Housing Board Colony Public Ground,26.69084,72.441744,public
+LOC0130,Patna,Model Town Block A,Model Town Block A Multi-level Parking,20.168883,73.312171,parking
+LOC0131,Ranchi,Transport Nagar,Transport Nagar Dhaba,21.862982,79.473956,restaurant
+LOC0132,Ghaziabad,Railway Colony,Railway Colony Apartments,28.547385,75.259489,residential
+LOC0133,Mumbai,Commercial Block D,Commercial Block D Railway Station,22.100313,81.420728,transport
+LOC0134,Noida,New Township Sector 58,New Township Sector 58 Dhaba,25.961614,73.270219,restaurant
+LOC0135,Faridabad,Civil Lines,Civil Lines Inn,24.420726,83.849417,hotel
+LOC0136,Bengaluru,New Township Sector 9,New Township Sector 9 Family Restaurant,20.631091,85.810913,restaurant
+LOC0137,Indore,Civil Lines,Civil Lines Residency,21.272394,78.481559,residential
+LOC0138,Amritsar,Railway Colony,Railway Colony Public Parking,24.655001,73.344762,parking
+LOC0139,Ahmedabad,Phase 12 Industrial Estate,Phase 12 Industrial Estate Corporate Plaza,20.908018,81.972029,office
+LOC0140,Bengaluru,Transport Nagar,Transport Nagar Industrial Estate,20.560238,76.411609,industrial
+LOC0141,Dehradun,Old City Market,Old City Market Dhaba,20.975174,82.461353,restaurant
+LOC0142,Chandigarh,Old City Market,Old City Market Storage Yard,27.078993,85.413712,warehouse
+LOC0143,Kanpur,Sector 55,Hotel Sector 55 Regency,22.928197,81.17854,hotel
+LOC0144,Patna,Railway Colony,Railway Colony Logistics Warehouse,28.388659,79.997343,warehouse
+LOC0145,Dehradun,Sector 30,Sector 30 Housing Complex,25.21472,73.728673,residential
+LOC0146,Agra,Phase 1 Industrial Estate,Phase 1 Industrial Estate Public Parking,28.02305,72.959713,parking
+LOC0147,Ranchi,Railway Colony,Hotel Railway Colony Regency,25.542242,84.49588,hotel
+LOC0148,Mumbai,Phase 39 Industrial Estate,Phase 39 Industrial Estate Multi-level Parking,20.644754,86.836142,parking
+LOC0149,Faridabad,Phase 37 Industrial Estate,Phase 37 Industrial Estate Housing Complex,29.0262,76.28564,residential
+LOC0150,Kanpur,Railway Colony,Railway Colony Storage Yard,29.927391,86.059882,warehouse
+LOC0151,Haridwar,Transport Nagar,Transport Nagar Business Tower,20.496756,74.576522,office
+LOC0152,Agra,Sector 55,Sector 55 Community Park,25.500867,79.56061,public
+LOC0153,Bhubaneswar,Commercial Block C,Commercial Block C Residency,28.811278,83.849655,residential
+LOC0154,Jaipur,New Township Sector 41,New Township Sector 41 Business Tower,26.426171,81.686309,office
+LOC0155,Patna,Transport Nagar,Transport Nagar Railway Station,25.245443,85.408362,transport
+LOC0156,Agra,Commercial Block C,Commercial Block C Warehouse Zone,29.008657,79.624608,industrial
+LOC0157,Dehradun,Commercial Block A,Commercial Block A Public Ground,23.69296,79.828983,public
+LOC0158,Haridwar,Model Town Block C,Model Town Block C Family Restaurant,25.332262,76.847202,restaurant
+LOC0159,Patna,Phase 34 Industrial Estate,Phase 34 Industrial Estate Family Restaurant,22.61703,81.67495,restaurant
+LOC0160,Amritsar,Civil Lines,Civil Lines Trade Centre,20.229586,80.784894,commercial
+LOC0161,Agra,Railway Colony,Railway Colony Industrial Estate,26.465461,81.848738,industrial
+LOC0162,Lucknow,New Township Sector 40,New Township Sector 40 Trade Centre,22.217533,72.424226,commercial
+LOC0163,Kanpur,New Township Sector 29,New Township Sector 29 Bus Terminal,26.735975,83.735603,transport
+LOC0164,Ahmedabad,Transport Nagar,Transport Nagar Dhaba,27.41133,84.88575,restaurant
+LOC0165,Kanpur,Housing Board Colony,Housing Board Colony Commercial Complex,26.512605,81.769011,commercial
+LOC0166,Gurugram,Transport Nagar,Transport Nagar Dhaba,29.436937,73.570606,restaurant
+LOC0167,Kanpur,Transport Nagar,Transport Nagar Corporate Plaza,27.30137,86.816973,office
+LOC0168,Noida,Sector 47,Sector 47 Multi-level Parking,23.822903,79.97205,parking
+LOC0169,Pune,Commercial Block D,Commercial Block D Warehouse Zone,22.960672,74.557969,industrial
+LOC0170,Ghaziabad,Model Town Block C,Model Town Block C Housing Complex,23.369673,82.036336,residential
+LOC0171,Dehradun,Sector 52,Sector 52 Multi-level Parking,28.907273,78.987854,parking
+LOC0172,Bhopal,Housing Board Colony,Housing Board Colony Railway Station,25.168693,79.404669,transport
+LOC0173,Kanpur,Transport Nagar,Transport Nagar Community Park,24.899569,78.87592,public
+LOC0174,Hyderabad,Old City Market,Old City Market Inn,24.289092,83.220745,hotel
+LOC0175,Haridwar,Housing Board Colony,Housing Board Colony Logistics Warehouse,20.588381,80.193104,warehouse
+LOC0176,Pune,Old City Market,Old City Market Multi-level Parking,28.926618,75.919891,parking
+LOC0177,Agra,New Township Sector 5,New Township Sector 5 Multi-level Parking,22.603833,85.470216,parking
+LOC0178,Chandigarh,Commercial Block B,Commercial Block B Family Restaurant,20.130746,80.501847,restaurant
+LOC0179,Mumbai,Model Town Block A,Model Town Block A Industrial Estate,27.669455,78.844636,industrial
+LOC0180,Gurugram,Housing Board Colony,Housing Board Colony Inn,24.669343,86.650575,hotel
+LOC0181,Ranchi,Commercial Block D,Hotel Commercial Block D Regency,20.293403,86.644458,hotel
+LOC0182,Amritsar,Transport Nagar,Transport Nagar Community Park,21.405821,73.334315,public
+LOC0183,Pune,Old City Market,Old City Market Logistics Warehouse,22.116009,84.895717,warehouse
+LOC0184,Noida,Transport Nagar,Transport Nagar Inn,21.890849,78.068809,hotel
+LOC0185,Patna,New Township Sector 5,New Township Sector 5 Logistics Warehouse,21.954026,75.360079,warehouse
+LOC0186,Jaipur,Old City Market,Old City Market Logistics Warehouse,21.149422,74.604116,warehouse
+LOC0187,Mumbai,Commercial Block A,Commercial Block A Logistics Warehouse,22.22804,72.593665,warehouse
+LOC0188,Patna,Commercial Block B,Commercial Block B Dhaba,29.677607,85.297145,restaurant
+LOC0189,Chandigarh,Commercial Block B,Commercial Block B Commercial Complex,23.367857,73.397734,commercial
+LOC0190,Ranchi,Civil Lines,Civil Lines Multi-level Parking,26.957744,86.478176,parking
+LOC0191,Ranchi,Commercial Block C,Commercial Block C Bus Terminal,27.814664,76.894075,transport
+LOC0192,Surat,Railway Colony,Railway Colony Family Restaurant,29.772999,77.451822,restaurant
+LOC0193,Ghaziabad,Commercial Block B,Commercial Block B Apartments,23.688591,73.040433,residential
+LOC0194,Bhubaneswar,Model Town Block C,Model Town Block C Family Restaurant,23.585305,85.959186,restaurant
+LOC0195,Bhopal,Model Town Block A,Model Town Block A Residency,29.96019,77.413007,residential
+LOC0196,Surat,Old City Market,Old City Market Dhaba,20.19665,77.186754,restaurant
+LOC0197,Bhubaneswar,Civil Lines,Civil Lines Public Parking,24.53116,76.681812,parking
+LOC0198,Amritsar,Old City Market,Hotel Old City Market Regency,27.02009,75.082954,hotel
+LOC0199,Kanpur,Housing Board Colony,Housing Board Colony Public Parking,29.353723,74.550469,parking
+LOC0200,Amritsar,Commercial Block A,Hotel Commercial Block A Regency,22.198785,79.539104,hotel
+LOC0201,Kanpur,Sector 51,Sector 51 Business Tower,26.936084,73.715264,office
+LOC0202,Bhopal,Model Town Block D,Model Town Block D Warehouse Zone,23.250447,85.102924,industrial
+LOC0203,Agra,Civil Lines,Civil Lines Multi-level Parking,24.98177,76.621762,parking
+LOC0204,Haridwar,Transport Nagar,Transport Nagar Market,28.732958,81.311383,commercial
+LOC0205,Chandigarh,Model Town Block A,Model Town Block A Public Ground,20.453897,83.118269,public
+LOC0206,Chennai,Phase 41 Industrial Estate,Phase 41 Industrial Estate Dhaba,22.116388,81.819887,restaurant
+LOC0207,Mumbai,Model Town Block D,Hotel Model Town Block D Regency,23.159103,79.826733,hotel
+LOC0208,Ludhiana,Old City Market,Old City Market Housing Complex,28.043665,80.317991,residential
+LOC0209,Patna,Railway Colony,Railway Colony Railway Station,22.384527,84.099395,transport
+LOC0210,Ranchi,Old City Market,Old City Market Industrial Estate,24.54138,82.910292,industrial
+LOC0211,Pune,Sector 33,Sector 33 Business Tower,25.377625,86.422304,office
+LOC0212,Mumbai,Civil Lines,Civil Lines Railway Station,28.20285,76.90742,transport
+LOC0213,Pune,Civil Lines,Civil Lines Logistics Warehouse,22.057608,72.687677,warehouse
+LOC0214,Chennai,New Township Sector 11,New Township Sector 11 Commercial Complex,22.755627,82.196867,commercial
+LOC0215,Jaipur,Phase 21 Industrial Estate,Hotel Phase 21 Industrial Estate Regency,23.961112,81.693037,hotel
+LOC0216,Pune,New Township Sector 48,New Township Sector 48 Family Restaurant,29.581891,72.315919,restaurant
+LOC0217,Surat,Housing Board Colony,Housing Board Colony Market,27.79981,83.561428,commercial
+LOC0218,Ahmedabad,Model Town Block A,Model Town Block A Corporate Plaza,24.756572,81.042521,office
+LOC0219,Lucknow,New Township Sector 22,New Township Sector 22 Commercial Complex,29.404586,85.344488,commercial
+LOC0220,Gurugram,Railway Colony,Railway Colony Trade Centre,29.709618,76.565805,commercial
+LOC0221,Kanpur,Transport Nagar,Transport Nagar Railway Station,24.310629,80.712692,transport
+LOC0222,Patna,New Township Sector 48,New Township Sector 48 Market,24.319902,72.937061,commercial
+LOC0223,Agra,Civil Lines,Civil Lines Warehouse Zone,29.58497,77.682499,industrial
+LOC0224,Jaipur,Housing Board Colony,Housing Board Colony Dhaba,22.666901,78.88489,restaurant
+LOC0225,Noida,Commercial Block D,Hotel Commercial Block D Regency,22.17879,74.81669,hotel
+LOC0226,Agra,Railway Colony,Railway Colony Business Tower,20.137916,84.243794,office
+LOC0227,Agra,Railway Colony,Railway Colony Storage Yard,28.29434,84.284287,warehouse
+LOC0228,Lucknow,Phase 31 Industrial Estate,Phase 31 Industrial Estate Business Tower,23.189212,72.113263,office
+LOC0229,Kolkata,Transport Nagar,Transport Nagar Storage Yard,21.804739,78.226439,warehouse
+LOC0230,Ahmedabad,Sector 30,Sector 30 Railway Station,26.945137,81.93367,transport
+LOC0231,Bhubaneswar,New Township Sector 15,New Township Sector 15 Trade Centre,23.512112,83.991138,commercial
+LOC0232,Patna,Model Town Block C,Model Town Block C Railway Station,27.259186,82.195009,transport
+LOC0233,Dehradun,New Township Sector 20,New Township Sector 20 Commercial Complex,27.284469,84.54192,commercial
+LOC0234,Gurugram,Model Town Block B,Model Town Block B Trade Centre,23.896435,74.784651,commercial
+LOC0235,Bhopal,Civil Lines,Civil Lines Railway Station,23.921359,78.402918,transport
+LOC0236,Pune,Railway Colony,Railway Colony Commercial Complex,20.704154,76.084292,commercial
+LOC0237,Indore,Transport Nagar,Transport Nagar Commercial Complex,26.182766,80.95633,commercial
+LOC0238,Ranchi,Transport Nagar,Transport Nagar Railway Station,26.108946,85.243642,transport
+LOC0239,Ghaziabad,Old City Market,Old City Market Storage Yard,22.536822,73.710452,warehouse
+LOC0240,Patna,Commercial Block A,Commercial Block A Multi-level Parking,28.093163,74.408172,parking
+LOC0241,Ranchi,Old City Market,Old City Market Public Ground,22.158591,83.665829,public
+LOC0242,Pune,Commercial Block B,Commercial Block B Logistics Warehouse,21.671023,80.536586,warehouse
+LOC0243,Gurugram,Railway Colony,Railway Colony Railway Station,22.154884,73.662134,transport
+LOC0244,Bhopal,Commercial Block A,Commercial Block A Housing Complex,27.915903,78.74248,residential
+LOC0245,Ludhiana,Civil Lines,Civil Lines Commercial Complex,22.527175,83.452159,commercial
+LOC0246,Bengaluru,New Township Sector 45,New Township Sector 45 Public Ground,21.684272,81.906354,public
+LOC0247,Amritsar,Commercial Block B,Commercial Block B Industrial Estate,26.617747,83.745502,industrial
+LOC0248,Delhi,Housing Board Colony,Housing Board Colony Railway Station,23.380973,75.954099,transport
+LOC0249,Bengaluru,Housing Board Colony,Housing Board Colony Warehouse Zone,21.27638,74.468682,industrial
+LOC0250,Hyderabad,Sector 41,Hotel Sector 41 Regency,27.510553,73.265645,hotel
+LOC0251,Indore,Railway Colony,Railway Colony Railway Station,21.963438,75.115246,transport
+LOC0252,Faridabad,Model Town Block A,Model Town Block A Railway Station,28.980301,74.885997,transport
+LOC0253,Bhopal,Railway Colony,Railway Colony Inn,29.721939,73.163824,hotel
+LOC0254,Delhi,Housing Board Colony,Housing Board Colony Storage Yard,29.155891,84.229693,warehouse
+LOC0255,Agra,Housing Board Colony,Housing Board Colony Bus Terminal,20.372586,77.280402,transport
+LOC0256,Jaipur,New Township Sector 53,New Township Sector 53 Public Ground,24.514918,79.599899,public
+LOC0257,Pune,Phase 3 Industrial Estate,Phase 3 Industrial Estate Public Parking,25.047229,72.662799,parking
+LOC0258,Chandigarh,Sector 40,Sector 40 Industrial Estate,24.304458,83.881687,industrial
+LOC0259,Pune,Phase 9 Industrial Estate,Phase 9 Industrial Estate Railway Station,27.807558,74.397146,transport
+LOC0260,Bhubaneswar,New Township Sector 54,New Township Sector 54 Public Parking,26.890302,77.271861,parking
+LOC0261,Bhubaneswar,Civil Lines,Civil Lines Corporate Plaza,21.149091,80.299416,office
+LOC0262,Kanpur,Civil Lines,Civil Lines Logistics Warehouse,28.084105,72.238316,warehouse
+LOC0263,Faridabad,Phase 12 Industrial Estate,Phase 12 Industrial Estate Warehouse Zone,23.835163,78.423318,industrial
+LOC0264,Ghaziabad,Old City Market,Old City Market Housing Complex,21.518843,73.977215,residential
+LOC0265,Bhubaneswar,New Township Sector 44,New Township Sector 44 Residency,22.513151,77.459803,residential
+LOC0266,Ludhiana,Model Town Block D,Model Town Block D Trade Centre,26.992247,75.755007,commercial
+LOC0267,Faridabad,Housing Board Colony,Housing Board Colony Corporate Plaza,27.183495,82.56312,office
+LOC0268,Bengaluru,Sector 14,Sector 14 Warehouse Zone,27.676624,86.560806,industrial
+LOC0269,Patna,Civil Lines,Civil Lines Multi-level Parking,20.978532,86.809343,parking
+LOC0270,Kolkata,Civil Lines,Civil Lines Corporate Plaza,21.087901,86.480137,office
+LOC0271,Jaipur,Commercial Block B,Commercial Block B Public Ground,23.011737,86.866281,public
+LOC0272,Kanpur,Phase 51 Industrial Estate,Phase 51 Industrial Estate Corporate Plaza,29.402164,82.94706,office
+LOC0273,Ghaziabad,Sector 51,Sector 51 Market,27.86949,78.75658,commercial
+LOC0274,Patna,Transport Nagar,Transport Nagar Community Park,29.718649,84.719181,public
+LOC0275,Dehradun,Sector 39,Sector 39 Corporate Plaza,21.433752,73.772229,office
+LOC0276,Hyderabad,Phase 50 Industrial Estate,Phase 50 Industrial Estate Trade Centre,25.097286,82.395241,commercial
+LOC0277,Surat,Commercial Block A,Commercial Block A Inn,28.940278,78.915861,hotel
+LOC0278,Noida,Phase 5 Industrial Estate,Phase 5 Industrial Estate Family Restaurant,29.562257,82.887781,restaurant
+LOC0279,Amritsar,Commercial Block C,Commercial Block C Multi-level Parking,25.525375,86.068437,parking
+LOC0280,Kanpur,Transport Nagar,Transport Nagar Commercial Complex,25.213301,74.836927,commercial
+LOC0281,Bhubaneswar,Transport Nagar,Transport Nagar Housing Complex,29.14203,85.056315,residential
+LOC0282,Agra,Transport Nagar,Transport Nagar Business Tower,25.915628,79.336405,office
+LOC0283,Faridabad,New Township Sector 35,New Township Sector 35 Storage Yard,20.339633,85.016446,warehouse
+LOC0284,Delhi,Transport Nagar,Transport Nagar Logistics Warehouse,26.757283,75.491415,warehouse
+LOC0285,Kolkata,Phase 37 Industrial Estate,Phase 37 Industrial Estate Housing Complex,27.842114,76.731615,residential
+LOC0286,Gurugram,Civil Lines,Civil Lines Apartments,25.272851,74.321973,residential
+LOC0287,Chandigarh,Sector 49,Sector 49 Logistics Warehouse,22.857954,77.456999,warehouse
+LOC0288,Agra,New Township Sector 54,New Township Sector 54 Community Park,23.353358,75.465841,public
+LOC0289,Dehradun,Model Town Block A,Model Town Block A Family Restaurant,21.119163,73.439017,restaurant
+LOC0290,Surat,Old City Market,Old City Market Railway Station,29.429584,83.34645,transport
+LOC0291,Ranchi,Phase 23 Industrial Estate,Phase 23 Industrial Estate Apartments,26.048664,86.988217,residential
+LOC0292,Noida,Phase 29 Industrial Estate,Phase 29 Industrial Estate Apartments,21.238587,79.023907,residential
+LOC0293,Ghaziabad,Old City Market,Old City Market Storage Yard,22.777446,74.122933,warehouse
+LOC0294,Chennai,Phase 51 Industrial Estate,Phase 51 Industrial Estate Business Tower,21.960083,86.536144,office
+LOC0295,Delhi,Railway Colony,Railway Colony Industrial Estate,26.311834,73.73715,industrial
+LOC0296,Ludhiana,Old City Market,Old City Market Public Ground,20.364293,77.706662,public
+LOC0297,Amritsar,Civil Lines,Civil Lines Market,27.241157,83.759045,commercial
+LOC0298,Hyderabad,Railway Colony,Railway Colony Inn,26.25633,78.887154,hotel
+LOC0299,Kanpur,Commercial Block B,Commercial Block B Family Restaurant,27.230606,79.48244,restaurant
+LOC0300,Mumbai,Old City Market,Old City Market Warehouse Zone,27.960031,86.771352,industrial

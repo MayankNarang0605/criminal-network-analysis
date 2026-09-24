@@ -1,0 +1,218 @@
+pair_id,mention_a,mention_b,entity_a_id,entity_b_id,label,pair_type
+ERP0001,Tarun Malhotra,Tarun M.,P0001,P0001,1,alias
+ERP0002,Ritu Mishra,R. Mishra,P0003,P0003,1,alias
+ERP0003,Charu Tiwari,Charu T.,P0004,P0004,1,alias
+ERP0004,Aditya Malhotra,Adityi Malhotra,P0017,P0017,1,spelling_variation
+ERP0005,Bhavna Yadav,"""Bhau""",P0027,P0027,1,alias
+ERP0006,Kajal Mehta,Kajal Kumar Mehta,P0028,P0028,1,alias
+ERP0007,Vidya Yadav,"""Vidu""",P0037,P0037,1,alias
+ERP0008,Rajat Tiwari,Rajau Tiwari,P0047,P0047,1,spelling_variation
+ERP0009,Anil Rawat,A. Rawat,P0052,P0052,1,alias
+ERP0010,Gaurav Rathore,Gaurae Rathore,P0053,P0053,1,spelling_variation
+ERP0011,Pankaj Gupta,Pankao Gupta,P0055,P0055,1,spelling_variation
+ERP0012,Pooja Bansal,P. Bansal,P0057,P0057,1,alias
+ERP0013,Ritu Aggarwal,Rite Aggarwal,P0060,P0060,1,spelling_variation
+ERP0014,Priya Gupta,"""Priu""",P0080,P0080,1,alias
+ERP0015,Priya Gupta,Priyu Gupta,P0080,P0080,1,spelling_variation
+ERP0016,Rajat Kohli,Rajae Kohli,P0084,P0084,1,spelling_variation
+ERP0017,Kirti Mishra,Kirte Mishra,P0096,P0096,1,spelling_variation
+ERP0018,Amit Rathore,Amit R.,P0105,P0105,1,alias
+ERP0019,Meera Chawla,Meera C.,P0123,P0123,1,alias
+ERP0020,Rajesh Bhatia,Rajesu Bhatia,P0138,P0138,1,spelling_variation
+ERP0021,Priya Chopra,Priyo Chopra,P0150,P0150,1,spelling_variation
+ERP0022,Tanya Bansal,"""Tanu""",P0153,P0153,1,alias
+ERP0023,Tanya Bansal,Tanyu Bansal,P0153,P0153,1,spelling_variation
+ERP0024,Simran Joshi,S. Joshi,P0154,P0154,1,alias
+ERP0025,Swati Saxena,"""Swau""",P0159,P0159,1,alias
+ERP0026,Simran Bhalla,Simran Kumar Bhalla,P0162,P0162,1,alias
+ERP0027,Aakash Kohli,A. Kohli,P0164,P0164,1,alias
+ERP0028,Komal Kapoor,Komau Kapoor,P0166,P0166,1,spelling_variation
+ERP0029,Ritu Tiwari,Ritu Kumar Tiwari,P0169,P0169,1,alias
+ERP0030,Aditya Reddy,Aditya Kumar Reddy,P0174,P0174,1,alias
+ERP0031,Anil Sharma,Ania Sharma,P0184,P0184,1,spelling_variation
+ERP0032,Aarti Reddy,Aarti R.,P0187,P0187,1,alias
+ERP0033,Divya Verma,Divye Verma,P0216,P0216,1,spelling_variation
+ERP0034,Karan Sharma,Karan S.,P0217,P0217,1,alias
+ERP0035,Sameer Joshi,Sameeo Joshi,P0218,P0218,1,spelling_variation
+ERP0036,Tarun Mehta,Tarue Mehta,P0225,P0225,1,spelling_variation
+ERP0037,Deepak Arora,Deepao Arora,P0242,P0242,1,spelling_variation
+ERP0038,Nidhi Pandey,Nidha Pandey,P0252,P0252,1,spelling_variation
+ERP0039,Sanjay Kapoor,S. Kapoor,P0259,P0259,1,alias
+ERP0040,Naveen Nair,Naveen N.,P0263,P0263,1,alias
+ERP0041,Ravi Gupta,Ravi G.,P0272,P0272,1,alias
+ERP0042,Divya Kapoor,Divya K.,P0287,P0287,1,alias
+ERP0043,Shruti Arora,Shrute Arora,P0288,P0288,1,spelling_variation
+ERP0044,Amit Kohli,"""Amiu""",P0324,P0324,1,alias
+ERP0045,Suresh Joshi,Sureso Joshi,P0330,P0330,1,spelling_variation
+ERP0046,Neha Aggarwal,Neho Aggarwal,P0336,P0336,1,spelling_variation
+ERP0047,Swati Pandey,Swata Pandey,P0338,P0338,1,spelling_variation
+ERP0048,Sunita Mishra,Sunitu Mishra,P0352,P0352,1,spelling_variation
+ERP0049,Sunita Kohli,S. Kohli,P0353,P0353,1,alias
+ERP0050,Gaurav Sethi,Gaurai Sethi,P0356,P0356,1,spelling_variation
+ERP0051,Manish Nair,Manisi Nair,P0358,P0358,1,spelling_variation
+ERP0052,Rajat Sharma,Rajao Sharma,P0370,P0370,1,spelling_variation
+ERP0053,Mohit Joshi,"""Mohu""",P0373,P0373,1,alias
+ERP0054,Mohit Arora,"""Mohu""",P0378,P0378,1,alias
+ERP0055,Neha Kohli,Neha Kumar Kohli,P0381,P0381,1,alias
+ERP0056,Manju Bhatia,Manju B.,P0382,P0382,1,alias
+ERP0057,Komal Joshi,Komau Joshi,P0388,P0388,1,spelling_variation
+ERP0058,Meera Kohli,"""Meeu""",P0389,P0389,1,alias
+ERP0059,Meera Mishra,Meeru Mishra,P0398,P0398,1,spelling_variation
+ERP0060,Rajat Yadav,Rajat Kumar Yadav,P0400,P0400,1,alias
+ERP0061,Payal Bhalla,Payau Bhalla,P0404,P0404,1,spelling_variation
+ERP0062,Vivek Grover,"""Vivu""",P0408,P0408,1,alias
+ERP0063,Anjali Rawat,Anjale Rawat,P0427,P0427,1,spelling_variation
+ERP0064,Gaurav Malhotra,Gaurae Malhotra,P0431,P0431,1,spelling_variation
+ERP0065,Aditya Chawla,Aditya C.,P0432,P0432,1,alias
+ERP0066,Ravi Sethi,R. Sethi,P0435,P0435,1,alias
+ERP0067,Rohit Saxena,Rohit S.,P0440,P0440,1,alias
+ERP0068,Rohit Sharma,Rohit S.,P0442,P0442,1,alias
+ERP0069,Divya Chawla,"""Divu""",P0445,P0445,1,alias
+ERP0070,Siddharth Mehta,Siddhartu Mehta,P0466,P0466,1,spelling_variation
+ERP0071,Anil Kapoor,"""Aniu""",P0467,P0467,1,alias
+ERP0072,Manju Reddy,Manjo Reddy,P0468,P0468,1,spelling_variation
+ERP0073,Mohit Arora,Mohio Arora,P0469,P0469,1,spelling_variation
+ERP0074,Isha Kohli,Isha K.,P0476,P0476,1,alias
+ERP0075,Arjun Iyer,Arjuu Iyer,P0479,P0479,1,spelling_variation
+ERP0076,Meera Rathore,Meere Rathore,P0488,P0488,1,spelling_variation
+ERP0077,Ramesh Tiwari,Ramesi Tiwari,P0497,P0497,1,spelling_variation
+ERP0078,Manish Sethi,"""Manu""",P0505,P0505,1,alias
+ERP0079,Preeti Chopra,Preeta Chopra,P0506,P0506,1,spelling_variation
+ERP0080,Jyoti Bhatia,"""Jyou""",P0509,P0509,1,alias
+ERP0081,Jyoti Bhatia,Jyote Bhatia,P0509,P0509,1,spelling_variation
+ERP0082,Karan Yadav,Karau Yadav,P0523,P0523,1,spelling_variation
+ERP0083,Ashok Choudhary,Ashoo Choudhary,P0529,P0529,1,spelling_variation
+ERP0084,Swati Bhalla,Swato Bhalla,P0542,P0542,1,spelling_variation
+ERP0085,Gaurav Iyer,Gaurae Iyer,P0550,P0550,1,spelling_variation
+ERP0086,Bhavna Chopra,"""Bhau""",P0557,P0557,1,alias
+ERP0087,Nikhil Kohli,Nikhio Kohli,P0580,P0580,1,spelling_variation
+ERP0088,Naveen Choudhary,Naveee Choudhary,P0585,P0585,1,spelling_variation
+ERP0089,Payal Saxena,P. Saxena,P0598,P0598,1,alias
+ERP0090,Shruti Rathore,Shrute Rathore,P0606,P0606,1,spelling_variation
+ERP0091,Vivek Yadav,Vivee Yadav,P0619,P0619,1,spelling_variation
+ERP0092,Charu Bhalla,Charo Bhalla,P0629,P0629,1,spelling_variation
+ERP0093,Deepak Tiwari,Deepak Kumar Tiwari,P0633,P0633,1,alias
+ERP0094,Harish Singh,Harise Singh,P0646,P0646,1,spelling_variation
+ERP0095,Vikram Chopra,Vikrau Chopra,P0656,P0656,1,spelling_variation
+ERP0096,Shruti Bhalla,Shruta Bhalla,P0662,P0662,1,spelling_variation
+ERP0097,Rajesh Singh,"""Raju""",P0664,P0664,1,alias
+ERP0098,Komal Bhatia,Komai Bhatia,P0670,P0670,1,spelling_variation
+ERP0099,Vikram Chawla,V. Chawla,P0674,P0674,1,alias
+ERP0100,Sunita Saxena,Sunite Saxena,P0681,P0681,1,spelling_variation
+ERP0101,Harish Kohli,Hariso Kohli,P0683,P0683,1,spelling_variation
+ERP0102,Kavya Kapoor,"""Kavu""",P0684,P0684,1,alias
+ERP0103,Rekha Gupta,Rekhe Gupta,P0688,P0688,1,spelling_variation
+ERP0104,Rajat Joshi,Rajaa Joshi,P0691,P0691,1,spelling_variation
+ERP0105,Preeti Chopra,Preetu Chopra,P0699,P0699,1,spelling_variation
+ERP0106,Vivek Khanna,Viveo Khanna,P0712,P0712,1,spelling_variation
+ERP0107,Isha Saxena,Isho Saxena,P0714,P0714,1,spelling_variation
+ERP0108,Neha Bhatia,Nehi Bhatia,P0716,P0716,1,spelling_variation
+ERP0109,Rekha Sharma,Rekha S.,P0718,P0718,1,alias
+ERP0110,Preeti Kapoor,Preeto Kapoor,P0723,P0723,1,spelling_variation
+ERP0111,Ashok Mishra,Ashoo Mishra,P0732,P0732,1,spelling_variation
+ERP0112,Ashok Joshi,Ashoe Joshi,P0734,P0734,1,spelling_variation
+ERP0113,Tanya Pandey,Tanya Kumar Pandey,P0751,P0751,1,alias
+ERP0114,Deepak Yadav,Deepae Yadav,P0752,P0752,1,spelling_variation
+ERP0115,Swati Kohli,Swatu Kohli,P0756,P0756,1,spelling_variation
+ERP0116,Pooja Kapoor,Pooja K.,P0757,P0757,1,alias
+ERP0117,Rajesh Bhalla,"""Raju""",P0763,P0763,1,alias
+ERP0118,Ashok Saxena,A. Saxena,P0766,P0766,1,alias
+ERP0119,Rohan Sharma,Rohan S.,P0775,P0775,1,alias
+ERP0120,Sneha Bansal,Sneha B.,P0776,P0776,1,alias
+ERP0121,Siddharth Kohli,Siddhartu Kohli,P0780,P0780,1,spelling_variation
+ERP0122,Meera Pandey,Meero Pandey,P0783,P0783,1,spelling_variation
+ERP0123,Radha Chawla,Radho Chawla,P0789,P0789,1,spelling_variation
+ERP0124,Ramesh Pandey,Ramesa Pandey,P0807,P0807,1,spelling_variation
+ERP0125,Pankaj Nair,Pankai Nair,P0815,P0815,1,spelling_variation
+ERP0126,Kajal Chopra,Kajal C.,P0823,P0823,1,alias
+ERP0127,Neha Rathore,Neho Rathore,P0837,P0837,1,spelling_variation
+ERP0128,Ravi Mehta,Ravo Mehta,P0840,P0840,1,spelling_variation
+ERP0129,Arjun Yadav,Arjua Yadav,P0842,P0842,1,spelling_variation
+ERP0130,Divya Saxena,Divyi Saxena,P0848,P0848,1,spelling_variation
+ERP0131,Nikhil Bhalla,Nikhil B.,P0850,P0850,1,alias
+ERP0132,Manish Kapoor,Manise Kapoor,P0853,P0853,1,spelling_variation
+ERP0133,Ananya Bhalla,Ananya B.,P0854,P0854,1,alias
+ERP0134,Payal Tiwari,Payao Tiwari,P0855,P0855,1,spelling_variation
+ERP0135,Kavya Rawat,Kavyo Rawat,P0859,P0859,1,spelling_variation
+ERP0136,Tanya Chawla,Tanya Kumar Chawla,P0882,P0882,1,alias
+ERP0137,Anjali Khanna,"""Anju""",P0893,P0893,1,alias
+ERP0138,Karan Sethi,K. Sethi,P0894,P0894,1,alias
+ERP0139,Karan Sethi,Karau Sethi,P0894,P0894,1,spelling_variation
+ERP0140,Deepak Kohli,Deepai Kohli,P0895,P0895,1,spelling_variation
+ERP0141,Divya Yadav,"""Divu""",P0903,P0903,1,alias
+ERP0142,Siddharth Choudhary,Siddharto Choudhary,P0904,P0904,1,spelling_variation
+ERP0143,Preeti Khanna,Preetu Khanna,P0915,P0915,1,spelling_variation
+ERP0144,Aditya Malhotra,Aditye Malhotra,P0919,P0919,1,spelling_variation
+ERP0145,Anjali Mishra,Anjalu Mishra,P0921,P0921,1,spelling_variation
+ERP0146,Rohit Malhotra,R. Malhotra,P0932,P0932,1,alias
+ERP0147,Divya Aggarwal,Divyo Aggarwal,P0933,P0933,1,spelling_variation
+ERP0148,Swati Choudhary,Swati C.,P0934,P0934,1,alias
+ERP0149,Jyoti Rathore,Jyoti Kumar Rathore,P0937,P0937,1,alias
+ERP0150,Simran Bansal,Simrao Bansal,P0947,P0947,1,spelling_variation
+ERP0151,Mohit Joshi,Mohio Joshi,P0958,P0958,1,spelling_variation
+ERP0152,Shruti Tiwari,"""Shru""",P0961,P0961,1,alias
+ERP0153,Divya Iyer,Divyi Iyer,P0965,P0965,1,spelling_variation
+ERP0154,Shruti Pandey,Shrutu Pandey,P0968,P0968,1,spelling_variation
+ERP0155,Kajal Sharma,"""Kaju""",P0969,P0969,1,alias
+ERP0156,Ashok Chopra,Ashoa Chopra,P0975,P0975,1,spelling_variation
+ERP0157,Sunita Kapoor,Suniti Kapoor,P0994,P0994,1,spelling_variation
+ERP0158,Tarun Malhotra,Aditya Malhotra,P0001,P0017,0,hard_negative_shared_surname
+ERP0159,Tarun Malhotra,Nidhi Malhotra,P0001,P0049,0,hard_negative_shared_surname
+ERP0160,Sneha Iyer,Divya Iyer,P0002,P0051,0,hard_negative_shared_surname
+ERP0161,Sneha Iyer,Anil Iyer,P0002,P0118,0,hard_negative_shared_surname
+ERP0162,Ritu Mishra,Vivek Mishra,P0003,P0008,0,hard_negative_shared_surname
+ERP0163,Ritu Mishra,Shruti Mishra,P0003,P0012,0,hard_negative_shared_surname
+ERP0164,Charu Tiwari,Divya Tiwari,P0004,P0032,0,hard_negative_shared_surname
+ERP0165,Charu Tiwari,Rajat Tiwari,P0004,P0047,0,hard_negative_shared_surname
+ERP0166,Karan Kohli,Ravi Kohli,P0005,P0046,0,hard_negative_shared_surname
+ERP0167,Karan Kohli,Manish Kohli,P0005,P0068,0,hard_negative_shared_surname
+ERP0168,Rajat Bhalla,Preeti Bhalla,P0006,P0013,0,hard_negative_shared_surname
+ERP0169,Rajat Bhalla,Nidhi Bhalla,P0006,P0018,0,hard_negative_shared_surname
+ERP0170,Rekha Gupta,Aakash Gupta,P0007,P0034,0,hard_negative_shared_surname
+ERP0171,Rekha Gupta,Preeti Gupta,P0007,P0050,0,hard_negative_shared_surname
+ERP0172,Neeraj Saxena,Nikhil Saxena,P0009,P0064,0,hard_negative_shared_surname
+ERP0173,Neeraj Saxena,Swati Saxena,P0009,P0159,0,hard_negative_shared_surname
+ERP0174,Kajal Choudhary,Vivek Choudhary,P0010,P0022,0,hard_negative_shared_surname
+ERP0175,Kajal Choudhary,Manju Choudhary,P0010,P0041,0,hard_negative_shared_surname
+ERP0176,Anil Rathore,Tanya Rathore,P0011,P0019,0,hard_negative_shared_surname
+ERP0177,Anil Rathore,Manish Rathore,P0011,P0035,0,hard_negative_shared_surname
+ERP0178,Aditya Bansal,Pooja Bansal,P0014,P0057,0,hard_negative_shared_surname
+ERP0179,Aditya Bansal,Aditya Bansal,P0014,P0126,0,hard_negative_shared_surname
+ERP0180,Ashok Aggarwal,Ritu Aggarwal,P0015,P0039,0,hard_negative_shared_surname
+ERP0181,Ashok Aggarwal,Ritu Aggarwal,P0015,P0060,0,hard_negative_shared_surname
+ERP0182,Manju Khanna,Swati Khanna,P0016,P0056,0,hard_negative_shared_surname
+ERP0183,Manju Khanna,Sneha Khanna,P0016,P0151,0,hard_negative_shared_surname
+ERP0184,Shruti Yadav,Bhavna Yadav,P0020,P0027,0,hard_negative_shared_surname
+ERP0185,Shruti Yadav,Vidya Yadav,P0020,P0037,0,hard_negative_shared_surname
+ERP0186,Preeti Pandey,Nidhi Pandey,P0021,P0030,0,hard_negative_shared_surname
+ERP0187,Preeti Pandey,Shruti Pandey,P0021,P0171,0,hard_negative_shared_surname
+ERP0188,Vidya Mehta,Kajal Mehta,P0023,P0028,0,hard_negative_shared_surname
+ERP0189,Vidya Mehta,Kajal Mehta,P0023,P0069,0,hard_negative_shared_surname
+ERP0190,Vivek Chawla,Neeraj Chawla,P0025,P0033,0,hard_negative_shared_surname
+ERP0191,Vivek Chawla,Nidhi Chawla,P0025,P0066,0,hard_negative_shared_surname
+ERP0192,Deepak Rawat,Mohit Rawat,P0026,P0036,0,hard_negative_shared_surname
+ERP0193,Deepak Rawat,Anil Rawat,P0026,P0052,0,hard_negative_shared_surname
+ERP0194,Harish Nair,Nikhil Nair,P0029,P0079,0,hard_negative_shared_surname
+ERP0195,Harish Nair,Anjali Nair,P0029,P0094,0,hard_negative_shared_surname
+ERP0196,Ritu Singh,Isha Singh,P0031,P0086,0,hard_negative_shared_surname
+ERP0197,Ritu Singh,Aakash Singh,P0031,P0103,0,hard_negative_shared_surname
+ERP0198,Siddharth Arora,Manish Arora,P0040,P0077,0,hard_negative_shared_surname
+ERP0199,Siddharth Arora,Sanjay Arora,P0040,P0088,0,hard_negative_shared_surname
+ERP0200,Sameer Bhatia,Simran Bhatia,P0042,P0081,0,hard_negative_shared_surname
+ERP0201,Sameer Bhatia,Harish Bhatia,P0042,P0082,0,hard_negative_shared_surname
+ERP0202,Manish Chopra,Vidya Chopra,P0043,P0045,0,hard_negative_shared_surname
+ERP0203,Manish Chopra,Suresh Chopra,P0043,P0111,0,hard_negative_shared_surname
+ERP0204,Jyoti Grover,Tarun Grover,P0044,P0054,0,hard_negative_shared_surname
+ERP0205,Jyoti Grover,Yash Grover,P0044,P0092,0,hard_negative_shared_surname
+ERP0206,Simran Kapoor,Karan Kapoor,P0058,P0067,0,hard_negative_shared_surname
+ERP0207,Simran Kapoor,Tarun Kapoor,P0058,P0109,0,hard_negative_shared_surname
+ERP0208,Suresh Sethi,Tanya Sethi,P0059,P0089,0,hard_negative_shared_surname
+ERP0209,Suresh Sethi,Naveen Sethi,P0059,P0108,0,hard_negative_shared_surname
+ERP0210,Arjun Verma,Sanjay Verma,P0063,P0202,0,hard_negative_shared_surname
+ERP0211,Arjun Verma,Pooja Verma,P0063,P0206,0,hard_negative_shared_surname
+ERP0212,Ananya Reddy,Manju Reddy,P0076,P0083,0,hard_negative_shared_surname
+ERP0213,Ananya Reddy,Sunita Reddy,P0076,P0129,0,hard_negative_shared_surname
+ERP0214,Ashok Sharma,Arjun Sharma,P0078,P0091,0,hard_negative_shared_surname
+ERP0215,Ashok Sharma,Kajal Sharma,P0078,P0101,0,hard_negative_shared_surname
+ERP0216,Vikram Joshi,Charu Joshi,P0100,P0115,0,hard_negative_shared_surname
+ERP0217,Vikram Joshi,Neha Joshi,P0100,P0116,0,hard_negative_shared_surname

@@ -1,0 +1,301 @@
+vehicle_id,registration_id,vehicle_type,make,model,color,owner_person_id,registration_city
+VEH0001,CH-48-VF-0001,Motorcycle,Bajaj,Platina,Black,P0203,Chennai
+VEH0002,BH-28-UC-0002,SUV,Tata,Nexon,Black,P0703,Bhubaneswar
+VEH0003,HY-34-RI-0003,Car,Hyundai,i20,Grey,P0781,Hyderabad
+VEH0004,DE-54-DD-0004,Motorcycle,Royal Enfield,Bullet,Red,P0310,Delhi
+VEH0005,AG-22-NF-0005,Pickup Truck,Tata,Nexon,Grey,P0426,Agra
+VEH0006,HA-60-YR-0006,Van,Force,Traveller,White,P0563,Haridwar
+VEH0007,AG-81-KV-0007,Motorcycle,Hero,Passion,Grey,P0774,Agra
+VEH0008,NO-58-JA-0008,Car,Tata,Nexon,Red,P0711,Noida
+VEH0009,FA-59-DE-0009,Car,Honda,Amaze,Grey,P0332,Faridabad
+VEH0010,PU-73-CY-0010,SUV,Mahindra,Scorpio,Red,P0150,Pune
+VEH0011,NO-81-CP-0011,Motorcycle,Royal Enfield,Bullet,Red,P0075,Noida
+VEH0012,FA-30-UY-0012,Motorcycle,Hero,Passion,Silver,P0608,Faridabad
+VEH0013,LU-89-OR-0013,Motorcycle,Bajaj,Pulsar,Grey,P0557,Ludhiana
+VEH0014,GU-69-EX-0014,SUV,Tata,Ace,Silver,P0651,Gurugram
+VEH0015,KO-18-AJ-0015,Car,Honda,City,White,P0860,Kolkata
+VEH0016,CH-22-EG-0016,Car,Hyundai,i20,White,P0848,Chandigarh
+VEH0017,JA-76-SV-0017,Car,Honda,Amaze,Blue,P0127,Jaipur
+VEH0018,KO-69-SE-0018,Motorcycle,Royal Enfield,Classic 350,Silver,P0890,Kolkata
+VEH0019,GH-99-DO-0019,Pickup Truck,Mahindra,Scorpio,Grey,P0699,Ghaziabad
+VEH0020,AH-98-YU-0020,SUV,Mahindra,Scorpio,Silver,P0181,Ahmedabad
+VEH0021,DE-58-LW-0021,Pickup Truck,Tata,Ace,White,P0465,Delhi
+VEH0022,AG-52-CH-0022,Motorcycle,Royal Enfield,Bullet,White,P0926,Agra
+VEH0023,GH-41-DE-0023,Car,Tata,Tiago,White,P0497,Ghaziabad
+VEH0024,NO-16-WF-0024,Van,Maruti Suzuki,Dzire,Red,P0641,Noida
+VEH0025,KA-30-DZ-0025,SUV,Tata,Ace,White,P0634,Kanpur
+VEH0026,GH-50-DE-0026,Van,Maruti Suzuki,Dzire,Red,P0561,Ghaziabad
+VEH0027,HA-92-PB-0027,Motorcycle,Royal Enfield,Bullet,White,P0706,Haridwar
+VEH0028,KA-78-VP-0028,Car,Hyundai,i20,White,P0694,Kanpur
+VEH0029,HY-34-TK-0029,Car,Honda,Amaze,Black,P0212,Hyderabad
+VEH0030,RA-14-GH-0030,Van,Maruti Suzuki,Swift,Blue,P0666,Ranchi
+VEH0031,RA-43-PO-0031,Motorcycle,Hero,Splendor,Grey,P0595,Ranchi
+VEH0032,DE-53-WN-0032,Pickup Truck,Tata,Tiago,White,P0190,Dehradun
+VEH0033,AH-99-GC-0033,SUV,Toyota,Fortuner,Red,P0964,Ahmedabad
+VEH0034,KO-88-BH-0034,Motorcycle,Royal Enfield,Classic 350,Grey,P0680,Kolkata
+VEH0035,KA-12-UK-0035,Pickup Truck,Tata,Ace,Grey,P0901,Kanpur
+VEH0036,PU-60-PZ-0036,Motorcycle,Hero,Passion,Blue,P0736,Pune
+VEH0037,LU-27-MF-0037,Car,Hyundai,Creta,Black,P0113,Ludhiana
+VEH0038,BH-58-RJ-0038,Pickup Truck,Tata,Ace,Black,P0242,Bhopal
+VEH0039,BH-57-FE-0039,Motorcycle,Royal Enfield,Bullet,Red,P0618,Bhubaneswar
+VEH0040,AG-58-EG-0040,Pickup Truck,Tata,Tiago,White,P0030,Agra
+VEH0041,DE-49-YZ-0041,SUV,Toyota,Fortuner,Black,P0963,Dehradun
+VEH0042,AG-67-NN-0042,Van,Force,Traveller,Black,P0346,Agra
+VEH0043,PA-46-IK-0043,SUV,Mahindra,Bolero,Red,P0877,Patna
+VEH0044,GU-29-TD-0044,Motorcycle,Bajaj,Pulsar,Silver,P0974,Gurugram
+VEH0045,BE-45-WN-0045,Motorcycle,Hero,Passion,Silver,P0752,Bengaluru
+VEH0046,AH-74-IL-0046,SUV,Toyota,Innova,Black,P0542,Ahmedabad
+VEH0047,LU-79-DX-0047,Car,Honda,City,Blue,P0728,Lucknow
+VEH0048,GU-69-GD-0048,Motorcycle,Hero,Splendor,Red,P0143,Gurugram
+VEH0049,BH-37-DO-0049,Pickup Truck,Ashok Leyland,Dost,Blue,P0304,Bhubaneswar
+VEH0050,BH-45-CD-0050,Van,Maruti Suzuki,Swift,Blue,P0249,Bhopal
+VEH0051,GU-44-DH-0051,Car,Honda,Amaze,Red,P0818,Gurugram
+VEH0052,NO-53-OV-0052,Motorcycle,Hero,Passion,Silver,P0278,Noida
+VEH0053,BE-31-FH-0053,Pickup Truck,Mahindra,XUV500,Grey,P0133,Bengaluru
+VEH0054,CH-17-NB-0054,Van,Maruti Suzuki,Swift,Black,P0294,Chandigarh
+VEH0055,KA-10-VU-0055,Car,Maruti Suzuki,Ertiga,Grey,P0486,Kanpur
+VEH0056,LU-35-YL-0056,Van,Tata,Nexon,Grey,P0060,Ludhiana
+VEH0057,HA-46-SZ-0057,Van,Tata,Ace,Blue,P0233,Haridwar
+VEH0058,DE-11-CE-0058,Car,Honda,Amaze,Black,P0502,Dehradun
+VEH0059,JA-38-AV-0059,SUV,Toyota,Fortuner,Red,P0415,Jaipur
+VEH0060,IN-69-IG-0060,Pickup Truck,Mahindra,Bolero,Red,P0482,Indore
+VEH0061,BE-19-LV-0061,SUV,Toyota,Fortuner,Black,P0889,Bengaluru
+VEH0062,NO-52-NK-0062,Pickup Truck,Ashok Leyland,Dost,Blue,P0207,Noida
+VEH0063,AG-41-FW-0063,Car,Hyundai,i20,Silver,P0338,Agra
+VEH0064,RA-20-TO-0064,Car,Honda,City,Silver,P0918,Ranchi
+VEH0065,LU-18-YU-0065,Van,Tata,Tiago,Red,P0934,Ludhiana
+VEH0066,KA-15-QG-0066,Car,Honda,Amaze,Red,P0132,Kanpur
+VEH0067,AH-40-ZD-0067,Van,Tata,Ace,Grey,P0422,Ahmedabad
+VEH0068,PU-77-JM-0068,Van,Force,Traveller,White,P0142,Pune
+VEH0069,CH-86-KW-0069,Van,Tata,Tiago,Black,P0923,Chennai
+VEH0070,BH-84-KP-0070,SUV,Mahindra,Scorpio,Grey,P0725,Bhopal
+VEH0071,LU-74-VF-0071,SUV,Toyota,Innova,Silver,P0527,Lucknow
+VEH0072,PA-12-CY-0072,Pickup Truck,Ashok Leyland,Dost,Red,P0600,Patna
+VEH0073,MU-46-QL-0073,Van,Force,Traveller,Silver,P0276,Mumbai
+VEH0074,GH-35-PI-0074,Motorcycle,Royal Enfield,Classic 350,Blue,P0804,Ghaziabad
+VEH0075,RA-66-BH-0075,Car,Honda,City,Grey,P0741,Ranchi
+VEH0076,LU-80-HK-0076,Van,Tata,Tiago,Silver,P0780,Ludhiana
+VEH0077,GH-65-JY-0077,Pickup Truck,Ashok Leyland,Dost,Blue,P0159,Ghaziabad
+VEH0078,HA-31-VS-0078,Motorcycle,Hero,Passion,Black,P0110,Haridwar
+VEH0079,NO-28-FL-0079,Pickup Truck,Ashok Leyland,Dost,Silver,P0336,Noida
+VEH0080,GH-45-AM-0080,Car,Honda,Amaze,Grey,P0969,Ghaziabad
+VEH0081,GH-36-KH-0081,Motorcycle,Bajaj,Pulsar,Grey,P0521,Ghaziabad
+VEH0082,KO-32-ED-0082,SUV,Tata,Tiago,Red,P0254,Kolkata
+VEH0083,KO-88-BW-0083,Van,Tata,Tiago,Red,P0386,Kolkata
+VEH0084,SU-31-ZI-0084,Car,Honda,City,Blue,P0200,Surat
+VEH0085,KO-39-BT-0085,Van,Maruti Suzuki,Ertiga,Grey,P0507,Kolkata
+VEH0086,AH-86-AY-0086,Pickup Truck,Mahindra,XUV500,Black,P0101,Ahmedabad
+VEH0087,KA-79-DV-0087,Pickup Truck,Mahindra,Scorpio,Black,P0624,Kanpur
+VEH0088,DE-22-PV-0088,Car,Maruti Suzuki,Swift,Grey,P0710,Delhi
+VEH0089,NO-21-DR-0089,Motorcycle,Bajaj,Pulsar,Blue,P0137,Noida
+VEH0090,BH-86-IH-0090,Motorcycle,Bajaj,Pulsar,Black,P0712,Bhubaneswar
+VEH0091,AG-98-VY-0091,Car,Hyundai,i20,Silver,P0289,Agra
+VEH0092,CH-57-EU-0092,Pickup Truck,Ashok Leyland,Dost,Silver,P0537,Chandigarh
+VEH0093,SU-88-FR-0093,Car,Tata,Nexon,Silver,P0266,Surat
+VEH0094,CH-14-WW-0094,SUV,Tata,Ace,Silver,P0817,Chennai
+VEH0095,DE-52-VW-0095,Van,Force,Traveller,Grey,P0183,Dehradun
+VEH0096,CH-81-TC-0096,Van,Tata,Tiago,Grey,P0337,Chandigarh
+VEH0097,HY-83-WZ-0097,Car,Hyundai,Venue,Blue,P0493,Hyderabad
+VEH0098,GH-14-CG-0098,SUV,Toyota,Innova,White,P0081,Ghaziabad
+VEH0099,AG-67-VE-0099,Motorcycle,TVS,Apache,Silver,P0430,Agra
+VEH0100,CH-56-SD-0100,SUV,Tata,Tiago,Silver,P0099,Chandigarh
+VEH0101,GU-66-QG-0101,SUV,Tata,Nexon,Blue,P0920,Gurugram
+VEH0102,LU-89-RC-0102,SUV,Toyota,Fortuner,Grey,P0166,Lucknow
+VEH0103,HY-92-LH-0103,Car,Hyundai,i20,Silver,P0645,Hyderabad
+VEH0104,MU-57-LM-0104,Van,Tata,Ace,Grey,P0994,Mumbai
+VEH0105,BH-96-ZD-0105,Car,Maruti Suzuki,Dzire,Grey,P0598,Bhopal
+VEH0106,BH-20-ZL-0106,Car,Honda,City,Grey,P0955,Bhopal
+VEH0107,CH-10-TX-0107,Pickup Truck,Mahindra,Scorpio,Silver,P0379,Chandigarh
+VEH0108,PU-76-XQ-0108,SUV,Mahindra,XUV500,Black,P0325,Pune
+VEH0109,HY-70-PH-0109,SUV,Tata,Tiago,White,P0762,Hyderabad
+VEH0110,AM-71-DK-0110,Van,Maruti Suzuki,Swift,Blue,P0323,Amritsar
+VEH0111,HY-55-AE-0111,Van,Force,Traveller,Red,P0327,Hyderabad
+VEH0112,SU-27-FW-0112,Motorcycle,TVS,Apache,Silver,P0687,Surat
+VEH0113,CH-90-NZ-0113,Car,Hyundai,i20,Grey,P0362,Chennai
+VEH0114,PU-22-YM-0114,Van,Force,Traveller,White,P0468,Pune
+VEH0115,KO-31-ST-0115,Motorcycle,Bajaj,Pulsar,White,P0107,Kolkata
+VEH0116,BE-77-PY-0116,Motorcycle,Hero,Passion,White,P0922,Bengaluru
+VEH0117,GH-12-UB-0117,Pickup Truck,Mahindra,Scorpio,Red,P0518,Ghaziabad
+VEH0118,BH-45-AO-0118,SUV,Tata,Ace,Black,P0474,Bhopal
+VEH0119,NO-60-IG-0119,Motorcycle,Royal Enfield,Bullet,Silver,P0377,Noida
+VEH0120,DE-72-ZH-0120,Motorcycle,Royal Enfield,Classic 350,Red,P0263,Delhi
+VEH0121,PU-21-FU-0121,Car,Hyundai,Creta,Red,P0584,Pune
+VEH0122,CH-45-DH-0122,SUV,Mahindra,Scorpio,Red,P0241,Chandigarh
+VEH0123,PA-20-OX-0123,Pickup Truck,Ashok Leyland,Dost,Red,P0940,Patna
+VEH0124,LU-22-JS-0124,SUV,Tata,Nexon,White,P0324,Lucknow
+VEH0125,DE-95-NK-0125,Van,Force,Traveller,Silver,P0231,Dehradun
+VEH0126,PU-85-KP-0126,Car,Hyundai,i20,Silver,P0470,Pune
+VEH0127,BH-56-OA-0127,Pickup Truck,Mahindra,XUV500,Silver,P0349,Bhubaneswar
+VEH0128,KO-81-NU-0128,SUV,Toyota,Innova,Grey,P0707,Kolkata
+VEH0129,NO-11-KX-0129,Car,Hyundai,i20,Grey,P0756,Noida
+VEH0130,HY-38-ZL-0130,SUV,Toyota,Fortuner,Blue,P0217,Hyderabad
+VEH0131,NO-56-QD-0131,Car,Hyundai,Venue,Silver,P0669,Noida
+VEH0132,MU-50-RE-0132,Van,Maruti Suzuki,Dzire,Silver,P0639,Mumbai
+VEH0133,MU-94-BU-0133,SUV,Tata,Tiago,Blue,P0357,Mumbai
+VEH0134,KO-56-NI-0134,SUV,Toyota,Innova,Blue,P0516,Kolkata
+VEH0135,AG-58-EA-0135,Pickup Truck,Ashok Leyland,Dost,Black,P0126,Agra
+VEH0136,JA-45-TT-0136,SUV,Tata,Nexon,White,P0849,Jaipur
+VEH0137,AH-99-MX-0137,Pickup Truck,Mahindra,XUV500,Black,P0114,Ahmedabad
+VEH0138,BH-50-GI-0138,SUV,Tata,Tiago,Black,P0984,Bhubaneswar
+VEH0139,KA-31-SP-0139,SUV,Mahindra,Scorpio,Red,P0844,Kanpur
+VEH0140,HY-76-MY-0140,Pickup Truck,Tata,Ace,Grey,P0549,Hyderabad
+VEH0141,PU-40-IK-0141,Car,Honda,Amaze,Grey,P0331,Pune
+VEH0142,KA-26-BS-0142,Van,Force,Traveller,White,P0177,Kanpur
+VEH0143,AG-95-GW-0143,Car,Honda,Amaze,Silver,P0067,Agra
+VEH0144,GH-60-LD-0144,Van,Force,Traveller,White,P0221,Ghaziabad
+VEH0145,DE-70-AX-0145,Pickup Truck,Mahindra,Scorpio,White,P0481,Dehradun
+VEH0146,KO-86-KX-0146,SUV,Mahindra,XUV500,Blue,P0044,Kolkata
+VEH0147,KO-83-VY-0147,Pickup Truck,Ashok Leyland,Dost,Black,P0147,Kolkata
+VEH0148,AH-78-LH-0148,Van,Maruti Suzuki,Dzire,Silver,P0015,Ahmedabad
+VEH0149,CH-95-YO-0149,Motorcycle,Royal Enfield,Bullet,White,P0296,Chandigarh
+VEH0150,AM-86-MM-0150,Van,Tata,Nexon,Blue,P0570,Amritsar
+VEH0151,FA-56-KT-0151,Car,Hyundai,Venue,Grey,P0335,Faridabad
+VEH0152,AG-65-FX-0152,Pickup Truck,Tata,Nexon,Black,P0726,Agra
+VEH0153,KA-38-SC-0153,Van,Tata,Tiago,Grey,P0819,Kanpur
+VEH0154,KA-77-UF-0154,Car,Honda,City,Grey,P0508,Kanpur
+VEH0155,AM-10-LD-0155,Pickup Truck,Tata,Nexon,Black,P0695,Amritsar
+VEH0156,CH-24-MQ-0156,Car,Tata,Ace,Blue,P0381,Chandigarh
+VEH0157,KA-53-DD-0157,SUV,Toyota,Innova,White,P0054,Kanpur
+VEH0158,BE-13-TO-0158,Motorcycle,Royal Enfield,Classic 350,White,P0565,Bengaluru
+VEH0159,IN-53-EF-0159,SUV,Mahindra,Scorpio,Blue,P0287,Indore
+VEH0160,AG-74-BP-0160,SUV,Toyota,Fortuner,Grey,P0875,Agra
+VEH0161,CH-39-ZI-0161,SUV,Mahindra,Bolero,Grey,P0318,Chennai
+VEH0162,MU-34-SZ-0162,Car,Maruti Suzuki,Dzire,Silver,P0388,Mumbai
+VEH0163,AG-57-UO-0163,SUV,Tata,Tiago,Red,P0573,Agra
+VEH0164,AG-61-GV-0164,Car,Tata,Tiago,Black,P0438,Agra
+VEH0165,BH-94-HO-0165,Car,Honda,City,Blue,P0292,Bhopal
+VEH0166,MU-69-WW-0166,Van,Maruti Suzuki,Ertiga,Black,P0104,Mumbai
+VEH0167,CH-34-XE-0167,Car,Tata,Tiago,White,P0178,Chennai
+VEH0168,CH-93-SD-0168,Van,Tata,Nexon,Red,P0640,Chennai
+VEH0169,BH-34-CL-0169,Pickup Truck,Mahindra,XUV500,Blue,P0748,Bhopal
+VEH0170,NO-13-RT-0170,Van,Maruti Suzuki,Ertiga,Silver,P0765,Noida
+VEH0171,KA-67-RU-0171,Pickup Truck,Mahindra,Bolero,Blue,P0709,Kanpur
+VEH0172,AG-50-HV-0172,Car,Tata,Nexon,Blue,P0003,Agra
+VEH0173,PA-52-GI-0173,SUV,Tata,Nexon,White,P0163,Patna
+VEH0174,RA-62-MH-0174,SUV,Mahindra,XUV500,Grey,P0293,Ranchi
+VEH0175,BH-92-KH-0175,Pickup Truck,Mahindra,Bolero,Red,P0886,Bhubaneswar
+VEH0176,GU-86-LS-0176,Motorcycle,Hero,Splendor,Grey,P0462,Gurugram
+VEH0177,DE-26-SB-0177,Pickup Truck,Ashok Leyland,Dost,Black,P0445,Delhi
+VEH0178,PA-83-ZR-0178,Motorcycle,TVS,Star City,Black,P0087,Patna
+VEH0179,AM-25-BV-0179,Motorcycle,Royal Enfield,Classic 350,Silver,P0808,Amritsar
+VEH0180,CH-50-SR-0180,Motorcycle,Hero,Splendor,Red,P0405,Chandigarh
+VEH0181,HY-63-XS-0181,SUV,Tata,Ace,Black,P0839,Hyderabad
+VEH0182,GU-49-GK-0182,Pickup Truck,Ashok Leyland,Dost,White,P0112,Gurugram
+VEH0183,BH-10-MA-0183,Van,Maruti Suzuki,Dzire,Silver,P0776,Bhubaneswar
+VEH0184,PA-30-DY-0184,Pickup Truck,Mahindra,Scorpio,Blue,P0842,Patna
+VEH0185,KO-47-FI-0185,Car,Tata,Ace,Black,P0494,Kolkata
+VEH0186,LU-90-QX-0186,Motorcycle,Hero,Splendor,Silver,P0418,Ludhiana
+VEH0187,LU-95-EB-0187,Motorcycle,TVS,Star City,White,P0356,Ludhiana
+VEH0188,PA-31-AA-0188,Pickup Truck,Mahindra,XUV500,Grey,P0135,Patna
+VEH0189,FA-13-WW-0189,Van,Tata,Nexon,Grey,P0887,Faridabad
+VEH0190,HY-27-ZZ-0190,Car,Honda,Amaze,Grey,P0345,Hyderabad
+VEH0191,GU-37-ZZ-0191,Pickup Truck,Ashok Leyland,Dost,Red,P0341,Gurugram
+VEH0192,PA-76-OC-0192,Pickup Truck,Mahindra,Scorpio,Silver,P0958,Patna
+VEH0193,BE-27-BN-0193,Motorcycle,Bajaj,Pulsar,White,P0202,Bengaluru
+VEH0194,KA-24-XX-0194,Car,Hyundai,Creta,Blue,P0906,Kanpur
+VEH0195,MU-14-NL-0195,SUV,Mahindra,Scorpio,White,P0603,Mumbai
+VEH0196,BE-22-SD-0196,Pickup Truck,Tata,Nexon,Red,P0102,Bengaluru
+VEH0197,NO-14-QF-0197,SUV,Toyota,Innova,Blue,P0170,Noida
+VEH0198,MU-27-PH-0198,Motorcycle,TVS,Star City,Blue,P0002,Mumbai
+VEH0199,KO-52-WL-0199,Motorcycle,Hero,Splendor,Grey,P0607,Kolkata
+VEH0200,PA-13-ME-0200,Van,Tata,Tiago,Red,P0649,Patna
+VEH0201,LU-43-IJ-0201,Car,Hyundai,Creta,White,P0455,Ludhiana
+VEH0202,HY-93-HK-0202,Car,Tata,Nexon,Silver,P0622,Hyderabad
+VEH0203,KA-54-TJ-0203,Car,Tata,Nexon,Blue,P0827,Kanpur
+VEH0204,AH-37-YS-0204,Car,Honda,City,Red,P0321,Ahmedabad
+VEH0205,AM-73-CL-0205,Pickup Truck,Tata,Tiago,White,P0411,Amritsar
+VEH0206,JA-86-XM-0206,Car,Tata,Ace,White,P0382,Jaipur
+VEH0207,RA-30-BD-0207,Van,Maruti Suzuki,Ertiga,White,P0688,Ranchi
+VEH0208,DE-17-YP-0208,SUV,Mahindra,XUV500,Black,P0813,Dehradun
+VEH0209,HA-95-VU-0209,SUV,Mahindra,Scorpio,White,P0659,Haridwar
+VEH0210,AH-69-CG-0210,Motorcycle,Hero,Splendor,Blue,P0731,Ahmedabad
+VEH0211,PA-12-KO-0211,Car,Honda,Amaze,Red,P0317,Patna
+VEH0212,FA-28-JX-0212,SUV,Mahindra,Scorpio,Grey,P0443,Faridabad
+VEH0213,AG-90-XM-0213,Pickup Truck,Ashok Leyland,Dost,Silver,P0440,Agra
+VEH0214,MU-37-AJ-0214,Van,Force,Traveller,Silver,P0156,Mumbai
+VEH0215,SU-13-XT-0215,SUV,Mahindra,Scorpio,Blue,P0213,Surat
+VEH0216,GU-15-PI-0216,Pickup Truck,Ashok Leyland,Dost,Blue,P0929,Gurugram
+VEH0217,SU-97-NP-0217,Car,Maruti Suzuki,Dzire,Grey,P0383,Surat
+VEH0218,PA-64-VU-0218,Car,Maruti Suzuki,Swift,Red,P0031,Patna
+VEH0219,DE-65-ZZ-0219,Car,Honda,Amaze,White,P1000,Delhi
+VEH0220,KO-89-GE-0220,Car,Hyundai,Venue,Silver,P0052,Kolkata
+VEH0221,NO-87-HA-0221,Motorcycle,TVS,Apache,Blue,P0348,Noida
+VEH0222,SU-81-PW-0222,Pickup Truck,Tata,Ace,White,P0749,Surat
+VEH0223,KA-61-DH-0223,Motorcycle,Hero,Passion,White,P0847,Kanpur
+VEH0224,GU-66-YH-0224,Van,Maruti Suzuki,Ertiga,Blue,P0684,Gurugram
+VEH0225,GH-11-CA-0225,Car,Honda,City,Black,P0399,Ghaziabad
+VEH0226,GH-72-VD-0226,Van,Tata,Tiago,Black,P0120,Ghaziabad
+VEH0227,MU-59-WK-0227,Van,Force,Traveller,Grey,P0587,Mumbai
+VEH0228,CH-48-MY-0228,Pickup Truck,Ashok Leyland,Dost,Blue,P0850,Chandigarh
+VEH0229,LU-35-JC-0229,Car,Maruti Suzuki,Swift,White,P0469,Ludhiana
+VEH0230,BE-89-YB-0230,Van,Maruti Suzuki,Swift,Blue,P0442,Bengaluru
+VEH0231,LU-45-WK-0231,Van,Force,Traveller,Red,P0647,Ludhiana
+VEH0232,HY-94-IL-0232,Pickup Truck,Tata,Tiago,Red,P0301,Hyderabad
+VEH0233,SU-65-OV-0233,Pickup Truck,Ashok Leyland,Dost,Grey,P0938,Surat
+VEH0234,AG-96-MY-0234,SUV,Mahindra,XUV500,White,P0464,Agra
+VEH0235,BE-39-VF-0235,Pickup Truck,Ashok Leyland,Dost,Silver,P0753,Bengaluru
+VEH0236,DE-50-NR-0236,SUV,Toyota,Fortuner,Black,P0871,Delhi
+VEH0237,NO-88-NE-0237,Pickup Truck,Ashok Leyland,Dost,Silver,P0197,Noida
+VEH0238,IN-14-IK-0238,Pickup Truck,Mahindra,Bolero,Silver,P0285,Indore
+VEH0239,KO-89-EE-0239,Motorcycle,TVS,Apache,Black,P0833,Kolkata
+VEH0240,BE-93-CI-0240,Pickup Truck,Tata,Nexon,Silver,P0378,Bengaluru
+VEH0241,GU-49-GE-0241,Motorcycle,TVS,Apache,Black,P0720,Gurugram
+VEH0242,NO-45-RR-0242,Car,Hyundai,i20,Grey,P0185,Noida
+VEH0243,GU-11-IU-0243,Car,Honda,City,Red,P0972,Gurugram
+VEH0244,DE-83-YX-0244,Van,Force,Traveller,Red,P0767,Dehradun
+VEH0245,KA-59-BW-0245,Car,Tata,Ace,Red,P0933,Kanpur
+VEH0246,BH-37-EM-0246,Pickup Truck,Mahindra,Scorpio,Black,P0105,Bhubaneswar
+VEH0247,FA-37-RI-0247,Motorcycle,Hero,Passion,Red,P0475,Faridabad
+VEH0248,JA-34-WJ-0248,Car,Maruti Suzuki,Swift,Black,P0424,Jaipur
+VEH0249,BH-90-JZ-0249,SUV,Mahindra,XUV500,Red,P0845,Bhubaneswar
+VEH0250,MU-71-CK-0250,Van,Force,Traveller,Red,P0519,Mumbai
+VEH0251,CH-81-FN-0251,Motorcycle,Bajaj,Platina,White,P0139,Chennai
+VEH0252,BE-29-NI-0252,SUV,Toyota,Innova,Blue,P0770,Bengaluru
+VEH0253,RA-75-IY-0253,Pickup Truck,Mahindra,Bolero,Grey,P0286,Ranchi
+VEH0254,LU-20-XD-0254,Pickup Truck,Tata,Nexon,Blue,P0164,Ludhiana
+VEH0255,IN-99-PG-0255,Motorcycle,Hero,Passion,Red,P0928,Indore
+VEH0256,NO-80-WA-0256,Pickup Truck,Mahindra,Scorpio,Red,P0907,Noida
+VEH0257,MU-70-TU-0257,Van,Force,Traveller,White,P0328,Mumbai
+VEH0258,BH-46-DK-0258,Motorcycle,Bajaj,Platina,White,P0103,Bhopal
+VEH0259,DE-38-IP-0259,Motorcycle,Royal Enfield,Classic 350,Grey,P0769,Delhi
+VEH0260,GH-12-ZL-0260,Car,Hyundai,Creta,White,P0396,Ghaziabad
+VEH0261,GU-82-DZ-0261,Car,Maruti Suzuki,Ertiga,Blue,P0121,Gurugram
+VEH0262,HA-80-VJ-0262,Pickup Truck,Tata,Nexon,Blue,P0489,Haridwar
+VEH0263,KA-71-EA-0263,Motorcycle,Hero,Passion,Red,P0941,Kanpur
+VEH0264,KA-77-BT-0264,Van,Force,Traveller,Grey,P0636,Kanpur
+VEH0265,LU-31-WZ-0265,Motorcycle,Hero,Splendor,White,P0976,Lucknow
+VEH0266,BH-91-AS-0266,Car,Hyundai,Creta,Grey,P0429,Bhopal
+VEH0267,SU-70-JR-0267,Car,Hyundai,i20,Silver,P0466,Surat
+VEH0268,BE-74-NI-0268,Pickup Truck,Mahindra,XUV500,Silver,P0229,Bengaluru
+VEH0269,MU-23-IG-0269,Pickup Truck,Ashok Leyland,Dost,Black,P0244,Mumbai
+VEH0270,GU-12-SY-0270,SUV,Mahindra,XUV500,Silver,P0737,Gurugram
+VEH0271,BH-80-WK-0271,Car,Hyundai,i20,Blue,P0186,Bhopal
+VEH0272,AM-10-AE-0272,Car,Honda,City,White,P0199,Amritsar
+VEH0273,LU-78-YM-0273,Van,Force,Traveller,Black,P0509,Ludhiana
+VEH0274,GH-34-KN-0274,Van,Tata,Tiago,Black,P0176,Ghaziabad
+VEH0275,BH-27-EV-0275,Pickup Truck,Tata,Nexon,White,P0652,Bhubaneswar
+VEH0276,KO-15-OY-0276,SUV,Toyota,Fortuner,White,P0740,Kolkata
+VEH0277,AH-23-JK-0277,Motorcycle,Bajaj,Platina,White,P0668,Ahmedabad
+VEH0278,RA-29-WB-0278,Pickup Truck,Ashok Leyland,Dost,Red,P0071,Ranchi
+VEH0279,LU-74-EX-0279,Pickup Truck,Ashok Leyland,Dost,White,P0914,Lucknow
+VEH0280,NO-21-FV-0280,Pickup Truck,Tata,Tiago,Black,P0885,Noida
+VEH0281,PA-29-FA-0281,SUV,Mahindra,Scorpio,Red,P0028,Patna
+VEH0282,PU-81-MA-0282,Pickup Truck,Tata,Nexon,Black,P0037,Pune
+VEH0283,CH-61-XF-0283,Motorcycle,Hero,Passion,Silver,P0761,Chandigarh
+VEH0284,CH-51-DD-0284,Motorcycle,Bajaj,Platina,Silver,P0802,Chennai
+VEH0285,KO-78-JG-0285,Van,Force,Traveller,Silver,P0273,Kolkata
+VEH0286,CH-69-JO-0286,SUV,Tata,Ace,Grey,P0962,Chandigarh
+VEH0287,AH-79-GY-0287,Van,Tata,Nexon,Blue,P0815,Ahmedabad
+VEH0288,AG-18-QQ-0288,Pickup Truck,Tata,Nexon,White,P0778,Agra
+VEH0289,FA-94-KB-0289,Motorcycle,Hero,Splendor,Blue,P0773,Faridabad
+VEH0290,BE-74-RJ-0290,Van,Tata,Ace,Grey,P0535,Bengaluru
+VEH0291,PU-36-ME-0291,Van,Force,Traveller,Black,P0939,Pune
+VEH0292,NO-36-MQ-0292,Car,Honda,Amaze,Black,P0524,Noida
+VEH0293,CH-71-YD-0293,Car,Maruti Suzuki,Dzire,Silver,P0300,Chennai
+VEH0294,KO-78-QI-0294,SUV,Toyota,Innova,White,P0128,Kolkata
+VEH0295,KO-66-SK-0295,SUV,Mahindra,Bolero,Silver,P0530,Kolkata
+VEH0296,RA-23-KS-0296,Motorcycle,Bajaj,Platina,Silver,P0936,Ranchi
+VEH0297,PA-47-IA-0297,SUV,Tata,Nexon,Red,P0098,Patna
+VEH0298,HY-11-IF-0298,Pickup Truck,Ashok Leyland,Dost,Black,P0677,Hyderabad
+VEH0299,NO-86-LG-0299,Car,Hyundai,Venue,Blue,P0096,Noida
+VEH0300,CH-85-TK-0300,Pickup Truck,Mahindra,XUV500,Black,P0431,Chennai

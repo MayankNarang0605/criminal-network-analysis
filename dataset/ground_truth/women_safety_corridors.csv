@@ -1,0 +1,12 @@
+location_id,area,city,incident_count,risk_score
+LOC0214,New Township Sector 11,Chennai,2,1.0
+LOC0019,Model Town Block D,Faridabad,1,0.5
+LOC0113,Model Town Block B,Ghaziabad,1,0.5
+LOC0152,Sector 55,Agra,1,0.5
+LOC0253,Railway Colony,Bhopal,1,0.5
+LOC0102,Sector 30,Haridwar,1,0.5
+LOC0195,Model Town Block A,Bhopal,1,0.5
+LOC0177,New Township Sector 5,Agra,1,0.5
+LOC0123,Sector 57,Bhopal,1,0.5
+LOC0266,Model Town Block D,Ludhiana,1,0.5
+LOC0280,Transport Nagar,Kanpur,1,0.5

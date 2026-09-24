@@ -1,0 +1,101 @@
+case_id:ID(Case),case_title
+CASE001,The Courier-based Criminal Network in Ghaziabad
+CASE002,The Smuggling-style Network in Amritsar
+CASE003,The Financial Fraud in Ranchi
+CASE004,The Warehouse Theft in Kanpur
+CASE005,The Missing-person Investigation in Agra
+CASE006,The Procurement Fraud in Noida
+CASE007,The Organized Theft in Bengaluru
+CASE008,The Courier-based Criminal Network in Ranchi
+CASE009,The Insurance Fraud in Noida
+CASE010,The Cyber-enabled Fraud in Surat
+CASE011,The Investment Fraud in Lucknow
+CASE012,The Illegal Goods Distribution in Noida
+CASE013,The Courier-based Criminal Network in Pune
+CASE014,The Insurance Fraud in Hyderabad
+CASE015,The Warehouse Theft in Mumbai
+CASE016,The Vehicle Theft Network in Bhubaneswar
+CASE017,The Document Forgery in Noida
+CASE018,The Missing-person Investigation in Pune
+CASE019,The Procurement Fraud in Ranchi
+CASE020,The Document Forgery in Faridabad
+CASE021,The Investment Fraud in Lucknow
+CASE022,The Warehouse Theft in Jaipur
+CASE023,The Fake-company Network in Bhubaneswar
+CASE024,The Organized Theft in Bengaluru
+CASE025,The Identity Fraud in Ahmedabad
+CASE026,The Warehouse Theft in Gurugram
+CASE027,The Multi-city Fraud Network in Bhopal
+CASE028,The Insurance Fraud in Indore
+CASE029,The Financial Fraud in Chandigarh
+CASE030,The Robbery Network in Faridabad
+CASE031,The Insurance Fraud in Pune
+CASE032,The Document Forgery in Hyderabad
+CASE033,The Money-laundering-style Financial Network in Kanpur
+CASE034,The Identity Fraud in Jaipur
+CASE035,The Multi-city Fraud Network in Bengaluru
+CASE036,The Money-laundering-style Financial Network in Ludhiana
+CASE037,The Document Forgery in Amritsar
+CASE038,The Courier-based Criminal Network in Surat
+CASE039,The Cyber-enabled Fraud in Jaipur
+CASE040,The Multi-city Fraud Network in Agra
+CASE041,The Robbery Network in Chennai
+CASE042,The Insurance Fraud in Mumbai
+CASE043,The Fake-company Network in Faridabad
+CASE044,The Vehicle Theft Network in Lucknow
+CASE045,The Procurement Fraud in Amritsar
+CASE046,The Document Forgery in Lucknow
+CASE047,The Identity Fraud in Surat
+CASE048,The Missing-person Investigation in Ahmedabad
+CASE049,The Robbery Network in Chennai
+CASE050,The Insurance Fraud in Dehradun
+CASE051,The Courier-based Criminal Network in Lucknow
+CASE052,The Vehicle Theft Network in Indore
+CASE053,The Vehicle Theft Network in Ludhiana
+CASE054,The Fake-company Network in Haridwar
+CASE055,The Investment Fraud in Surat
+CASE056,The Investment Fraud in Amritsar
+CASE057,The Missing-person Investigation in Surat
+CASE058,The Illegal Goods Distribution in Dehradun
+CASE059,The Warehouse Theft in Mumbai
+CASE060,The Fake-company Network in Mumbai
+CASE061,The Robbery Network in Pune
+CASE062,The Illegal Goods Distribution in Chennai
+CASE063,The Organized Theft in Indore
+CASE064,The Corporate Fraud in Pune
+CASE065,The Illegal Goods Distribution in Jaipur
+CASE066,The Smuggling-style Network in Amritsar
+CASE067,The Illegal Goods Distribution in Lucknow
+CASE068,The Insurance Fraud in Surat
+CASE069,The Organized Theft in Haridwar
+CASE070,The Fake-company Network in Indore
+CASE071,The Robbery Network in Delhi
+CASE072,The Identity Fraud in Indore
+CASE073,The Robbery Network in Ahmedabad
+CASE074,The Procurement Fraud in Chennai
+CASE075,The Identity Fraud in Kolkata
+CASE076,The Illegal Goods Distribution in Ghaziabad
+CASE077,The Corporate Fraud in Ranchi
+CASE078,The Missing-person Investigation in Ghaziabad
+CASE079,The Robbery Network in Haridwar
+CASE080,The Cyber-enabled Fraud in Hyderabad
+CASE081,The Missing-person Investigation in Ghaziabad
+CASE082,The Money-laundering-style Financial Network in Lucknow
+CASE083,The Cyber-enabled Fraud in Agra
+CASE084,The Extortion in Chandigarh
+CASE085,The Robbery Network in Bhubaneswar
+CASE086,The Multi-city Fraud Network in Noida
+CASE087,The Money-laundering-style Financial Network in Hyderabad
+CASE088,The Smuggling-style Network in Ahmedabad
+CASE089,The Document Forgery in Chandigarh
+CASE090,The Corporate Fraud in Kolkata
+CASE091,The Cyber-enabled Fraud in Haridwar
+CASE092,The Document Forgery in Indore
+CASE093,The Multi-city Fraud Network in Delhi
+CASE094,The Insurance Fraud in Lucknow
+CASE095,The Missing-person Investigation in Noida
+CASE096,The Illegal Goods Distribution in Surat
+CASE097,The Corporate Fraud in Ahmedabad
+CASE098,The Organized Theft in Kanpur
+CASE099,The Extortion in Chennai
+CASE100,The Missing-person Investigation in Ahmedabad

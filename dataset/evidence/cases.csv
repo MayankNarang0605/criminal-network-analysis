@@ -1,0 +1,101 @@
+case_id,case_title,crime_type,date_range_start,date_range_end,primary_location,difficulty,topology,n_network_entities
+CASE001,The Courier-based Criminal Network in Ghaziabad,Courier-based Criminal Network,2026-05-22,2026-06-11,Ghaziabad,Advanced,B_chain,39
+CASE002,The Smuggling-style Network in Amritsar,Smuggling-style Network,2026-04-02,2026-04-22,Amritsar,Advanced,E_hub_spoke,31
+CASE003,The Financial Fraud in Ranchi,Financial Fraud,2025-12-20,2026-01-09,Ranchi,Intermediate,F_multi_hub,18
+CASE004,The Warehouse Theft in Kanpur,Warehouse Theft,2026-07-10,2026-07-30,Kanpur,Intermediate,A_hierarchical,12
+CASE005,The Missing-person Investigation in Agra,Missing-person Investigation,2026-03-24,2026-04-13,Agra,Intermediate,E_hub_spoke,11
+CASE006,The Procurement Fraud in Noida,Procurement Fraud,2025-10-14,2025-11-03,Noida,Basic,B_chain,3
+CASE007,The Organized Theft in Bengaluru,Organized Theft,2026-05-10,2026-05-30,Bengaluru,Intermediate,G_hidden_bridge,8
+CASE008,The Courier-based Criminal Network in Ranchi,Courier-based Criminal Network,2025-07-24,2025-08-13,Ranchi,Expert,A_hierarchical,74
+CASE009,The Insurance Fraud in Noida,Insurance Fraud,2026-07-01,2026-07-21,Noida,Expert,C_dense_cluster,79
+CASE010,The Cyber-enabled Fraud in Surat,Cyber-enabled Fraud,2025-09-19,2025-10-09,Surat,Advanced,E_hub_spoke,46
+CASE011,The Investment Fraud in Lucknow,Investment Fraud,2025-09-08,2025-09-28,Lucknow,Intermediate,C_dense_cluster,13
+CASE012,The Illegal Goods Distribution in Noida,Illegal Goods Distribution,2026-05-04,2026-05-24,Noida,Intermediate,D_two_communities_broker,8
+CASE013,The Courier-based Criminal Network in Pune,Courier-based Criminal Network,2025-09-18,2025-10-08,Pune,Intermediate,H_layered,8
+CASE014,The Insurance Fraud in Hyderabad,Insurance Fraud,2026-01-28,2026-02-17,Hyderabad,Advanced,B_chain,29
+CASE015,The Warehouse Theft in Mumbai,Warehouse Theft,2026-04-19,2026-05-09,Mumbai,Basic,B_chain,5
+CASE016,The Vehicle Theft Network in Bhubaneswar,Vehicle Theft Network,2025-11-03,2025-11-23,Bhubaneswar,Advanced,E_hub_spoke,44
+CASE017,The Document Forgery in Noida,Document Forgery,2025-12-22,2026-01-11,Noida,Advanced,C_dense_cluster,44
+CASE018,The Missing-person Investigation in Pune,Missing-person Investigation,2025-07-07,2025-07-27,Pune,Expert,E_hub_spoke,54
+CASE019,The Procurement Fraud in Ranchi,Procurement Fraud,2025-07-08,2025-07-28,Ranchi,Expert,I_cross_case,58
+CASE020,The Document Forgery in Faridabad,Document Forgery,2025-11-22,2025-12-12,Faridabad,Expert,D_two_communities_broker,75
+CASE021,The Investment Fraud in Lucknow,Investment Fraud,2026-01-07,2026-01-27,Lucknow,Advanced,D_two_communities_broker,26
+CASE022,The Warehouse Theft in Jaipur,Warehouse Theft,2025-08-21,2025-09-10,Jaipur,Intermediate,H_layered,8
+CASE023,The Fake-company Network in Bhubaneswar,Fake-company Network,2025-06-07,2025-06-27,Bhubaneswar,Expert,D_two_communities_broker,77
+CASE024,The Organized Theft in Bengaluru,Organized Theft,2025-06-24,2025-07-14,Bengaluru,Expert,H_layered,79
+CASE025,The Identity Fraud in Ahmedabad,Identity Fraud,2026-02-16,2026-03-08,Ahmedabad,Intermediate,C_dense_cluster,8
+CASE026,The Warehouse Theft in Gurugram,Warehouse Theft,2026-05-14,2026-06-03,Gurugram,Advanced,I_cross_case,27
+CASE027,The Multi-city Fraud Network in Bhopal,Multi-city Fraud Network,2026-05-25,2026-06-14,Bhopal,Advanced,B_chain,32
+CASE028,The Insurance Fraud in Indore,Insurance Fraud,2025-08-27,2025-09-16,Indore,Intermediate,D_two_communities_broker,13
+CASE029,The Financial Fraud in Chandigarh,Financial Fraud,2025-09-01,2025-09-21,Chandigarh,Intermediate,J_decoy_heavy,19
+CASE030,The Robbery Network in Faridabad,Robbery Network,2025-05-29,2025-06-18,Faridabad,Advanced,J_decoy_heavy,34
+CASE031,The Insurance Fraud in Pune,Insurance Fraud,2026-01-02,2026-01-22,Pune,Expert,J_decoy_heavy,77
+CASE032,The Document Forgery in Hyderabad,Document Forgery,2025-12-11,2025-12-31,Hyderabad,Intermediate,H_layered,18
+CASE033,The Money-laundering-style Financial Network in Kanpur,Money-laundering-style Financial Network,2025-06-12,2025-07-02,Kanpur,Intermediate,I_cross_case,14
+CASE034,The Identity Fraud in Jaipur,Identity Fraud,2026-06-16,2026-07-06,Jaipur,Basic,B_chain,3
+CASE035,The Multi-city Fraud Network in Bengaluru,Multi-city Fraud Network,2025-10-05,2025-10-25,Bengaluru,Expert,E_hub_spoke,52
+CASE036,The Money-laundering-style Financial Network in Ludhiana,Money-laundering-style Financial Network,2025-07-10,2025-07-30,Ludhiana,Intermediate,B_chain,8
+CASE037,The Document Forgery in Amritsar,Document Forgery,2026-05-30,2026-06-19,Amritsar,Intermediate,F_multi_hub,17
+CASE038,The Courier-based Criminal Network in Surat,Courier-based Criminal Network,2026-05-30,2026-06-19,Surat,Basic,B_chain,8
+CASE039,The Cyber-enabled Fraud in Jaipur,Cyber-enabled Fraud,2025-12-04,2025-12-24,Jaipur,Expert,C_dense_cluster,51
+CASE040,The Multi-city Fraud Network in Agra,Multi-city Fraud Network,2025-11-23,2025-12-13,Agra,Basic,B_chain,3
+CASE041,The Robbery Network in Chennai,Robbery Network,2025-05-17,2025-06-06,Chennai,Advanced,C_dense_cluster,26
+CASE042,The Insurance Fraud in Mumbai,Insurance Fraud,2025-07-11,2025-07-31,Mumbai,Intermediate,A_hierarchical,19
+CASE043,The Fake-company Network in Faridabad,Fake-company Network,2026-01-23,2026-02-12,Faridabad,Basic,A_hierarchical,5
+CASE044,The Vehicle Theft Network in Lucknow,Vehicle Theft Network,2025-12-28,2026-01-17,Lucknow,Intermediate,F_multi_hub,19
+CASE045,The Procurement Fraud in Amritsar,Procurement Fraud,2025-11-13,2025-12-03,Amritsar,Intermediate,G_hidden_bridge,14
+CASE046,The Document Forgery in Lucknow,Document Forgery,2025-08-06,2025-08-26,Lucknow,Basic,F_multi_hub,4
+CASE047,The Identity Fraud in Surat,Identity Fraud,2025-06-16,2025-07-06,Surat,Basic,B_chain,4
+CASE048,The Missing-person Investigation in Ahmedabad,Missing-person Investigation,2026-03-11,2026-03-31,Ahmedabad,Advanced,H_layered,37
+CASE049,The Robbery Network in Chennai,Robbery Network,2025-12-30,2026-01-19,Chennai,Advanced,J_decoy_heavy,27
+CASE050,The Insurance Fraud in Dehradun,Insurance Fraud,2025-05-12,2025-06-01,Dehradun,Advanced,A_hierarchical,44
+CASE051,The Courier-based Criminal Network in Lucknow,Courier-based Criminal Network,2026-01-27,2026-02-16,Lucknow,Basic,A_hierarchical,3
+CASE052,The Vehicle Theft Network in Indore,Vehicle Theft Network,2026-02-28,2026-03-20,Indore,Basic,H_layered,4
+CASE053,The Vehicle Theft Network in Ludhiana,Vehicle Theft Network,2026-04-14,2026-05-04,Ludhiana,Intermediate,I_cross_case,12
+CASE054,The Fake-company Network in Haridwar,Fake-company Network,2026-03-28,2026-04-17,Haridwar,Basic,H_layered,8
+CASE055,The Investment Fraud in Surat,Investment Fraud,2026-02-10,2026-03-02,Surat,Intermediate,J_decoy_heavy,17
+CASE056,The Investment Fraud in Amritsar,Investment Fraud,2025-05-26,2025-06-15,Amritsar,Advanced,C_dense_cluster,31
+CASE057,The Missing-person Investigation in Surat,Missing-person Investigation,2026-03-11,2026-03-31,Surat,Basic,B_chain,3
+CASE058,The Illegal Goods Distribution in Dehradun,Illegal Goods Distribution,2025-06-10,2025-06-30,Dehradun,Intermediate,G_hidden_bridge,14
+CASE059,The Warehouse Theft in Mumbai,Warehouse Theft,2025-07-06,2025-07-26,Mumbai,Advanced,D_two_communities_broker,48
+CASE060,The Fake-company Network in Mumbai,Fake-company Network,2025-07-05,2025-07-25,Mumbai,Advanced,A_hierarchical,39
+CASE061,The Robbery Network in Pune,Robbery Network,2026-05-13,2026-06-02,Pune,Expert,B_chain,74
+CASE062,The Illegal Goods Distribution in Chennai,Illegal Goods Distribution,2025-12-08,2025-12-28,Chennai,Advanced,I_cross_case,44
+CASE063,The Organized Theft in Indore,Organized Theft,2025-10-25,2025-11-14,Indore,Expert,F_multi_hub,58
+CASE064,The Corporate Fraud in Pune,Corporate Fraud,2025-05-19,2025-06-08,Pune,Basic,A_hierarchical,7
+CASE065,The Illegal Goods Distribution in Jaipur,Illegal Goods Distribution,2025-06-20,2025-07-10,Jaipur,Basic,F_multi_hub,7
+CASE066,The Smuggling-style Network in Amritsar,Smuggling-style Network,2025-12-03,2025-12-23,Amritsar,Expert,B_chain,71
+CASE067,The Illegal Goods Distribution in Lucknow,Illegal Goods Distribution,2025-12-21,2026-01-10,Lucknow,Basic,J_decoy_heavy,3
+CASE068,The Insurance Fraud in Surat,Insurance Fraud,2026-06-16,2026-07-06,Surat,Advanced,B_chain,31
+CASE069,The Organized Theft in Haridwar,Organized Theft,2025-05-12,2025-06-01,Haridwar,Intermediate,E_hub_spoke,16
+CASE070,The Fake-company Network in Indore,Fake-company Network,2025-08-24,2025-09-13,Indore,Advanced,B_chain,24
+CASE071,The Robbery Network in Delhi,Robbery Network,2026-03-09,2026-03-29,Delhi,Advanced,I_cross_case,43
+CASE072,The Identity Fraud in Indore,Identity Fraud,2025-08-05,2025-08-25,Indore,Expert,E_hub_spoke,68
+CASE073,The Robbery Network in Ahmedabad,Robbery Network,2026-05-26,2026-06-15,Ahmedabad,Advanced,G_hidden_bridge,39
+CASE074,The Procurement Fraud in Chennai,Procurement Fraud,2025-09-28,2025-10-18,Chennai,Expert,D_two_communities_broker,72
+CASE075,The Identity Fraud in Kolkata,Identity Fraud,2026-02-02,2026-02-22,Kolkata,Basic,H_layered,7
+CASE076,The Illegal Goods Distribution in Ghaziabad,Illegal Goods Distribution,2026-04-10,2026-04-30,Ghaziabad,Basic,J_decoy_heavy,6
+CASE077,The Corporate Fraud in Ranchi,Corporate Fraud,2025-07-02,2025-07-22,Ranchi,Advanced,C_dense_cluster,26
+CASE078,The Missing-person Investigation in Ghaziabad,Missing-person Investigation,2026-06-21,2026-07-11,Ghaziabad,Expert,D_two_communities_broker,56
+CASE079,The Robbery Network in Haridwar,Robbery Network,2025-11-13,2025-12-03,Haridwar,Advanced,E_hub_spoke,33
+CASE080,The Cyber-enabled Fraud in Hyderabad,Cyber-enabled Fraud,2025-09-30,2025-10-20,Hyderabad,Intermediate,A_hierarchical,15
+CASE081,The Missing-person Investigation in Ghaziabad,Missing-person Investigation,2025-10-13,2025-11-02,Ghaziabad,Advanced,C_dense_cluster,39
+CASE082,The Money-laundering-style Financial Network in Lucknow,Money-laundering-style Financial Network,2025-09-02,2025-09-22,Lucknow,Advanced,I_cross_case,31
+CASE083,The Cyber-enabled Fraud in Agra,Cyber-enabled Fraud,2026-06-14,2026-07-04,Agra,Advanced,E_hub_spoke,28
+CASE084,The Extortion in Chandigarh,Extortion,2026-05-13,2026-06-02,Chandigarh,Advanced,C_dense_cluster,26
+CASE085,The Robbery Network in Bhubaneswar,Robbery Network,2026-05-09,2026-05-29,Bhubaneswar,Intermediate,I_cross_case,9
+CASE086,The Multi-city Fraud Network in Noida,Multi-city Fraud Network,2026-01-11,2026-01-31,Noida,Intermediate,B_chain,14
+CASE087,The Money-laundering-style Financial Network in Hyderabad,Money-laundering-style Financial Network,2025-11-19,2025-12-09,Hyderabad,Basic,D_two_communities_broker,7
+CASE088,The Smuggling-style Network in Ahmedabad,Smuggling-style Network,2025-06-07,2025-06-27,Ahmedabad,Intermediate,G_hidden_bridge,13
+CASE089,The Document Forgery in Chandigarh,Document Forgery,2026-03-15,2026-04-04,Chandigarh,Basic,G_hidden_bridge,5
+CASE090,The Corporate Fraud in Kolkata,Corporate Fraud,2026-04-01,2026-04-21,Kolkata,Expert,D_two_communities_broker,75
+CASE091,The Cyber-enabled Fraud in Haridwar,Cyber-enabled Fraud,2025-12-24,2026-01-13,Haridwar,Intermediate,I_cross_case,8
+CASE092,The Document Forgery in Indore,Document Forgery,2025-10-08,2025-10-28,Indore,Intermediate,D_two_communities_broker,13
+CASE093,The Multi-city Fraud Network in Delhi,Multi-city Fraud Network,2025-07-23,2025-08-12,Delhi,Intermediate,F_multi_hub,8
+CASE094,The Insurance Fraud in Lucknow,Insurance Fraud,2026-04-28,2026-05-18,Lucknow,Expert,B_chain,53
+CASE095,The Missing-person Investigation in Noida,Missing-person Investigation,2026-06-30,2026-07-20,Noida,Advanced,F_multi_hub,22
+CASE096,The Illegal Goods Distribution in Surat,Illegal Goods Distribution,2025-12-28,2026-01-17,Surat,Expert,B_chain,67
+CASE097,The Corporate Fraud in Ahmedabad,Corporate Fraud,2026-01-01,2026-01-21,Ahmedabad,Advanced,I_cross_case,22
+CASE098,The Organized Theft in Kanpur,Organized Theft,2025-11-24,2025-12-14,Kanpur,Basic,C_dense_cluster,4
+CASE099,The Extortion in Chennai,Extortion,2026-05-29,2026-06-18,Chennai,Expert,F_multi_hub,78
+CASE100,The Missing-person Investigation in Ahmedabad,Missing-person Investigation,2026-05-08,2026-05-28,Ahmedabad,Intermediate,I_cross_case,16

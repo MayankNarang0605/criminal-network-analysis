@@ -1,0 +1,2850 @@
+case_id,person_id,true_role,is_innocent
+CASE001,P0981,Coordinator,N
+CASE001,P0520,Financial Intermediary,N
+CASE001,P0607,False Lead,Y
+CASE001,P0236,False Lead,Y
+CASE001,P0038,False Lead,Y
+CASE001,P0536,Recruiter,N
+CASE001,P0624,Unrelated Person,Y
+CASE001,P0144,Vehicle Provider,N
+CASE001,P0887,Operational Member,N
+CASE001,P0201,Operational Member,N
+CASE001,P0914,Unrelated Person,Y
+CASE001,P0469,Recruiter,N
+CASE001,P0163,Vehicle Provider,N
+CASE001,P0019,Operational Member,N
+CASE001,P0635,Operational Member,N
+CASE001,P0745,Vehicle Provider,N
+CASE001,P0107,Unrelated Person,Y
+CASE001,P0076,Associate,N
+CASE001,P0270,Communicator,N
+CASE001,P0493,Associate,N
+CASE001,P0824,Communicator,N
+CASE001,P0980,Document Handler,N
+CASE001,P0013,Communicator,N
+CASE001,P0269,Vehicle Provider,N
+CASE001,P0867,Operational Member,N
+CASE001,P0344,Associate,N
+CASE001,P0172,Logistics Coordinator,N
+CASE001,P0508,Logistics Coordinator,N
+CASE001,P0119,Operational Member,N
+CASE001,P0212,Operational Member,N
+CASE001,P0338,Communicator,N
+CASE001,P0083,Communicator,N
+CASE001,P0286,Logistics Coordinator,N
+CASE001,P0321,Vehicle Provider,N
+CASE001,P0861,Recruiter,N
+CASE001,P0967,Associate,N
+CASE001,P0475,Communicator,N
+CASE001,P0907,Document Handler,N
+CASE001,P0006,Communicator,N
+CASE002,P0905,Coordinator,N
+CASE002,P0555,Financial Intermediary,N
+CASE002,P0904,False Lead,Y
+CASE002,P0665,False Lead,Y
+CASE002,P0552,False Lead,Y
+CASE002,P0017,Logistics Coordinator,N
+CASE002,P0029,Operational Member,N
+CASE002,P0417,Document Handler,N
+CASE002,P0082,Unrelated Person,Y
+CASE002,P0925,Associate,N
+CASE002,P0920,Vehicle Provider,N
+CASE002,P0325,Operational Member,N
+CASE002,P0917,Logistics Coordinator,N
+CASE002,P0060,Associate,N
+CASE002,P0063,Recruiter,N
+CASE002,P0919,Logistics Coordinator,N
+CASE002,P0524,Document Handler,N
+CASE002,P0677,Associate,N
+CASE002,P0730,Associate,N
+CASE002,P0003,Logistics Coordinator,N
+CASE002,P0320,Communicator,N
+CASE002,P0125,Communicator,N
+CASE002,P0916,Unrelated Person,Y
+CASE002,P0844,Logistics Coordinator,N
+CASE002,P0964,Unrelated Person,Y
+CASE002,P0949,Unrelated Person,Y
+CASE002,P0049,Document Handler,N
+CASE002,P0773,Document Handler,N
+CASE002,P0234,Recruiter,N
+CASE002,P0663,Associate,N
+CASE002,P0182,Logistics Coordinator,N
+CASE003,P0037,Coordinator,N
+CASE003,P0217,Financial Intermediary,N
+CASE003,P1000,False Lead,Y
+CASE003,P0154,Recruiter,N
+CASE003,P0605,Logistics Coordinator,N
+CASE003,P0990,Vehicle Provider,N
+CASE003,P0423,Communicator,N
+CASE003,P0019,Unrelated Person,Y
+CASE003,P0539,Recruiter,N
+CASE003,P0584,Vehicle Provider,N
+CASE003,P0001,Logistics Coordinator,N
+CASE003,P0894,Communicator,N
+CASE003,P0351,Associate,N
+CASE003,P0421,Unrelated Person,Y
+CASE003,P0173,Document Handler,N
+CASE003,P0523,Operational Member,N
+CASE003,P0607,Operational Member,N
+CASE003,P0784,Communicator,N
+CASE004,P0662,Coordinator,N
+CASE004,P0595,Financial Intermediary,N
+CASE004,P0307,False Lead,Y
+CASE004,P0257,Logistics Coordinator,N
+CASE004,P0726,Logistics Coordinator,N
+CASE004,P0841,Communicator,N
+CASE004,P0976,Communicator,N
+CASE004,P0081,Communicator,N
+CASE004,P0179,Recruiter,N
+CASE004,P0792,Document Handler,N
+CASE004,P0775,Logistics Coordinator,N
+CASE004,P0964,Logistics Coordinator,N
+CASE005,P0509,Coordinator,N
+CASE005,P0765,Financial Intermediary,N
+CASE005,P0327,False Lead,Y
+CASE005,P0639,Communicator,N
+CASE005,P0450,Associate,N
+CASE005,P0705,Vehicle Provider,N
+CASE005,P0414,Unrelated Person,Y
+CASE005,P0432,Document Handler,N
+CASE005,P0782,Logistics Coordinator,N
+CASE005,P0093,Vehicle Provider,N
+CASE005,P0622,Logistics Coordinator,N
+CASE006,P0575,Coordinator,N
+CASE006,P0036,Financial Intermediary,N
+CASE006,P0095,False Lead,Y
+CASE007,P0207,Coordinator,N
+CASE007,P0303,Financial Intermediary,N
+CASE007,P0586,False Lead,Y
+CASE007,P0158,Bridge / Communicator,N
+CASE007,P0918,Communicator,N
+CASE007,P0267,Operational Member,N
+CASE007,P0584,Associate,N
+CASE007,P0053,Vehicle Provider,N
+CASE008,P0922,Coordinator,N
+CASE008,P0913,Financial Intermediary,N
+CASE008,P0229,False Lead,Y
+CASE008,P0788,False Lead,Y
+CASE008,P0667,False Lead,Y
+CASE008,P0408,False Lead,Y
+CASE008,P0505,False Lead,Y
+CASE008,P0043,False Lead,Y
+CASE008,P0085,False Lead,Y
+CASE008,P0220,Associate,N
+CASE008,P0004,Associate,N
+CASE008,P0066,Associate,N
+CASE008,P0414,Vehicle Provider,N
+CASE008,P0954,Unrelated Person,Y
+CASE008,P0722,Logistics Coordinator,N
+CASE008,P0463,Operational Member,N
+CASE008,P0945,Communicator,N
+CASE008,P0662,Operational Member,N
+CASE008,P0298,Vehicle Provider,N
+CASE008,P0876,Communicator,N
+CASE008,P0941,Operational Member,N
+CASE008,P0593,Vehicle Provider,N
+CASE008,P0885,Associate,N
+CASE008,P0459,Vehicle Provider,N
+CASE008,P0736,Unrelated Person,Y
+CASE008,P0218,Document Handler,N
+CASE008,P0108,Operational Member,N
+CASE008,P0377,Associate,N
+CASE008,P0844,Recruiter,N
+CASE008,P0490,Communicator,N
+CASE008,P0205,Operational Member,N
+CASE008,P0351,Vehicle Provider,N
+CASE008,P0135,Recruiter,N
+CASE008,P0001,Document Handler,N
+CASE008,P0902,Vehicle Provider,N
+CASE008,P0926,Communicator,N
+CASE008,P0154,Logistics Coordinator,N
+CASE008,P0966,Associate,N
+CASE008,P0763,Recruiter,N
+CASE008,P0195,Vehicle Provider,N
+CASE008,P0447,Vehicle Provider,N
+CASE008,P0470,Logistics Coordinator,N
+CASE008,P0188,Document Handler,N
+CASE008,P0806,Recruiter,N
+CASE008,P0774,Vehicle Provider,N
+CASE008,P0023,Vehicle Provider,N
+CASE008,P0555,Vehicle Provider,N
+CASE008,P0996,Logistics Coordinator,N
+CASE008,P0661,Operational Member,N
+CASE008,P0760,Vehicle Provider,N
+CASE008,P0212,Recruiter,N
+CASE008,P0746,Vehicle Provider,N
+CASE008,P0333,Unrelated Person,Y
+CASE008,P0669,Logistics Coordinator,N
+CASE008,P0908,Document Handler,N
+CASE008,P0777,Unrelated Person,Y
+CASE008,P0528,Vehicle Provider,N
+CASE008,P0586,Recruiter,N
+CASE008,P0451,Logistics Coordinator,N
+CASE008,P0617,Unrelated Person,Y
+CASE008,P0318,Associate,N
+CASE008,P0035,Operational Member,N
+CASE008,P0674,Vehicle Provider,N
+CASE008,P0375,Document Handler,N
+CASE008,P0148,Vehicle Provider,N
+CASE008,P0860,Unrelated Person,Y
+CASE008,P0964,Associate,N
+CASE008,P0424,Communicator,N
+CASE008,P0289,Operational Member,N
+CASE008,P0293,Communicator,N
+CASE008,P0805,Associate,N
+CASE008,P0049,Operational Member,N
+CASE008,P0301,Communicator,N
+CASE008,P0171,Associate,N
+CASE009,P0763,Coordinator,N
+CASE009,P0399,Financial Intermediary,N
+CASE009,P0029,False Lead,Y
+CASE009,P0440,False Lead,Y
+CASE009,P0008,False Lead,Y
+CASE009,P0798,False Lead,Y
+CASE009,P0083,False Lead,Y
+CASE009,P0247,False Lead,Y
+CASE009,P0228,False Lead,Y
+CASE009,P0967,Associate,N
+CASE009,P0979,Recruiter,N
+CASE009,P0013,Recruiter,N
+CASE009,P0351,Vehicle Provider,N
+CASE009,P0838,Logistics Coordinator,N
+CASE009,P0016,Operational Member,N
+CASE009,P0472,Document Handler,N
+CASE009,P0529,Recruiter,N
+CASE009,P0137,Unrelated Person,Y
+CASE009,P0141,Recruiter,N
+CASE009,P0858,Associate,N
+CASE009,P0012,Recruiter,N
+CASE009,P0871,Document Handler,N
+CASE009,P0055,Unrelated Person,Y
+CASE009,P0725,Logistics Coordinator,N
+CASE009,P0208,Operational Member,N
+CASE009,P0124,Logistics Coordinator,N
+CASE009,P0430,Logistics Coordinator,N
+CASE009,P0547,Unrelated Person,Y
+CASE009,P0225,Logistics Coordinator,N
+CASE009,P0125,Operational Member,N
+CASE009,P0670,Operational Member,N
+CASE009,P0340,Vehicle Provider,N
+CASE009,P0282,Associate,N
+CASE009,P0374,Communicator,N
+CASE009,P0517,Vehicle Provider,N
+CASE009,P0814,Logistics Coordinator,N
+CASE009,P0599,Communicator,N
+CASE009,P0905,Unrelated Person,Y
+CASE009,P0426,Recruiter,N
+CASE009,P0380,Associate,N
+CASE009,P0103,Recruiter,N
+CASE009,P0964,Vehicle Provider,N
+CASE009,P0076,Recruiter,N
+CASE009,P0315,Vehicle Provider,N
+CASE009,P0255,Operational Member,N
+CASE009,P0740,Communicator,N
+CASE009,P0505,Associate,N
+CASE009,P0332,Recruiter,N
+CASE009,P0445,Associate,N
+CASE009,P0140,Operational Member,N
+CASE009,P0400,Communicator,N
+CASE009,P0886,Operational Member,N
+CASE009,P0538,Logistics Coordinator,N
+CASE009,P0164,Unrelated Person,Y
+CASE009,P0709,Document Handler,N
+CASE009,P0397,Associate,N
+CASE009,P0248,Associate,N
+CASE009,P0609,Operational Member,N
+CASE009,P0436,Associate,N
+CASE009,P0200,Communicator,N
+CASE009,P0133,Logistics Coordinator,N
+CASE009,P0567,Recruiter,N
+CASE009,P0323,Communicator,N
+CASE009,P0755,Document Handler,N
+CASE009,P0041,Vehicle Provider,N
+CASE009,P0250,Recruiter,N
+CASE009,P0826,Logistics Coordinator,N
+CASE009,P0840,Logistics Coordinator,N
+CASE009,P0990,Unrelated Person,Y
+CASE009,P0421,Recruiter,N
+CASE009,P0787,Document Handler,N
+CASE009,P0376,Recruiter,N
+CASE009,P0572,Associate,N
+CASE009,P0651,Document Handler,N
+CASE009,P0153,Associate,N
+CASE009,P0658,Unrelated Person,Y
+CASE009,P0294,Recruiter,N
+CASE009,P0861,Logistics Coordinator,N
+CASE009,P0827,Communicator,N
+CASE010,P0288,Coordinator,N
+CASE010,P0534,Financial Intermediary,N
+CASE010,P0440,False Lead,Y
+CASE010,P0746,False Lead,Y
+CASE010,P0141,False Lead,Y
+CASE010,P0960,False Lead,Y
+CASE010,P0978,Recruiter,N
+CASE010,P0730,Logistics Coordinator,N
+CASE010,P0231,Associate,N
+CASE010,P0794,Recruiter,N
+CASE010,P0353,Associate,N
+CASE010,P0210,Associate,N
+CASE010,P0006,Vehicle Provider,N
+CASE010,P0720,Associate,N
+CASE010,P0815,Vehicle Provider,N
+CASE010,P0694,Associate,N
+CASE010,P0319,Operational Member,N
+CASE010,P0129,Logistics Coordinator,N
+CASE010,P0510,Vehicle Provider,N
+CASE010,P0967,Unrelated Person,Y
+CASE010,P0486,Document Handler,N
+CASE010,P0061,Vehicle Provider,N
+CASE010,P0124,Logistics Coordinator,N
+CASE010,P0809,Logistics Coordinator,N
+CASE010,P0159,Unrelated Person,Y
+CASE010,P0506,Communicator,N
+CASE010,P0814,Operational Member,N
+CASE010,P0436,Document Handler,N
+CASE010,P0499,Recruiter,N
+CASE010,P0832,Logistics Coordinator,N
+CASE010,P0076,Operational Member,N
+CASE010,P0594,Document Handler,N
+CASE010,P0428,Operational Member,N
+CASE010,P0280,Logistics Coordinator,N
+CASE010,P0144,Logistics Coordinator,N
+CASE010,P0999,Document Handler,N
+CASE010,P0983,Unrelated Person,Y
+CASE010,P0939,Logistics Coordinator,N
+CASE010,P0028,Unrelated Person,Y
+CASE010,P0830,Associate,N
+CASE010,P0085,Vehicle Provider,N
+CASE010,P0416,Recruiter,N
+CASE010,P0840,Unrelated Person,Y
+CASE010,P0807,Vehicle Provider,N
+CASE010,P0565,Communicator,N
+CASE010,P0904,Recruiter,N
+CASE011,P0649,Coordinator,N
+CASE011,P0510,Financial Intermediary,N
+CASE011,P0437,False Lead,Y
+CASE011,P0137,Communicator,N
+CASE011,P0361,Document Handler,N
+CASE011,P0705,Logistics Coordinator,N
+CASE011,P0402,Communicator,N
+CASE011,P0842,Communicator,N
+CASE011,P0549,Associate,N
+CASE011,P0587,Operational Member,N
+CASE011,P0794,Document Handler,N
+CASE011,P0416,Logistics Coordinator,N
+CASE011,P0034,Associate,N
+CASE012,P0174,Coordinator,N
+CASE012,P0927,Financial Intermediary,N
+CASE012,P0096,False Lead,Y
+CASE012,P0235,Unrelated Person,Y
+CASE012,P0670,Vehicle Provider,N
+CASE012,P0715,Vehicle Provider,N
+CASE012,P0637,Recruiter,N
+CASE012,P0257,Recruiter,N
+CASE013,P0196,Coordinator,N
+CASE013,P0325,Financial Intermediary,N
+CASE013,P0759,False Lead,Y
+CASE013,P0309,Document Handler,N
+CASE013,P0383,Associate,N
+CASE013,P0344,Recruiter,N
+CASE013,P0443,Unrelated Person,Y
+CASE013,P0517,Operational Member,N
+CASE014,P0454,Coordinator,N
+CASE014,P0801,Financial Intermediary,N
+CASE014,P0807,False Lead,Y
+CASE014,P0843,False Lead,Y
+CASE014,P0233,Operational Member,N
+CASE014,P0754,Unrelated Person,Y
+CASE014,P0842,Logistics Coordinator,N
+CASE014,P0026,Communicator,N
+CASE014,P0234,Logistics Coordinator,N
+CASE014,P0666,Communicator,N
+CASE014,P0610,Operational Member,N
+CASE014,P0332,Logistics Coordinator,N
+CASE014,P0889,Recruiter,N
+CASE014,P0703,Associate,N
+CASE014,P0643,Logistics Coordinator,N
+CASE014,P0414,Communicator,N
+CASE014,P0861,Communicator,N
+CASE014,P0266,Unrelated Person,Y
+CASE014,P0627,Operational Member,N
+CASE014,P0342,Recruiter,N
+CASE014,P0168,Unrelated Person,Y
+CASE014,P0697,Communicator,N
+CASE014,P0171,Vehicle Provider,N
+CASE014,P0001,Communicator,N
+CASE014,P0691,Unrelated Person,Y
+CASE014,P0116,Recruiter,N
+CASE014,P0616,Operational Member,N
+CASE014,P0449,Document Handler,N
+CASE014,P0502,Operational Member,N
+CASE015,P0930,Coordinator,N
+CASE015,P0261,Financial Intermediary,N
+CASE015,P0611,False Lead,Y
+CASE015,P0587,Logistics Coordinator,N
+CASE015,P0046,Recruiter,N
+CASE016,P0486,Coordinator,N
+CASE016,P0704,Financial Intermediary,N
+CASE016,P0547,False Lead,Y
+CASE016,P0343,False Lead,Y
+CASE016,P0452,False Lead,Y
+CASE016,P0730,False Lead,Y
+CASE016,P0099,Vehicle Provider,N
+CASE016,P0130,Recruiter,N
+CASE016,P0550,Operational Member,N
+CASE016,P0979,Operational Member,N
+CASE016,P0591,Logistics Coordinator,N
+CASE016,P0319,Vehicle Provider,N
+CASE016,P0566,Logistics Coordinator,N
+CASE016,P0926,Operational Member,N
+CASE016,P0875,Operational Member,N
+CASE016,P0962,Vehicle Provider,N
+CASE016,P0861,Associate,N
+CASE016,P0859,Associate,N
+CASE016,P0801,Associate,N
+CASE016,P0913,Communicator,N
+CASE016,P0729,Operational Member,N
+CASE016,P0355,Document Handler,N
+CASE016,P0092,Operational Member,N
+CASE016,P0826,Operational Member,N
+CASE016,P0737,Unrelated Person,Y
+CASE016,P0521,Logistics Coordinator,N
+CASE016,P0786,Associate,N
+CASE016,P0909,Unrelated Person,Y
+CASE016,P0029,Unrelated Person,Y
+CASE016,P0150,Logistics Coordinator,N
+CASE016,P0189,Operational Member,N
+CASE016,P0384,Associate,N
+CASE016,P0002,Operational Member,N
+CASE016,P0906,Operational Member,N
+CASE016,P0534,Recruiter,N
+CASE016,P0489,Associate,N
+CASE016,P0889,Associate,N
+CASE016,P0447,Operational Member,N
+CASE016,P0956,Unrelated Person,Y
+CASE016,P0210,Associate,N
+CASE016,P0829,Associate,N
+CASE016,P0076,Communicator,N
+CASE016,P0732,Recruiter,N
+CASE016,P0032,Document Handler,N
+CASE017,P0186,Coordinator,N
+CASE017,P0723,Financial Intermediary,N
+CASE017,P0026,False Lead,Y
+CASE017,P0870,False Lead,Y
+CASE017,P0511,False Lead,Y
+CASE017,P0219,False Lead,Y
+CASE017,P0695,Operational Member,N
+CASE017,P0727,Vehicle Provider,N
+CASE017,P0139,Document Handler,N
+CASE017,P0862,Vehicle Provider,N
+CASE017,P0318,Operational Member,N
+CASE017,P0624,Vehicle Provider,N
+CASE017,P0313,Communicator,N
+CASE017,P0730,Recruiter,N
+CASE017,P0579,Communicator,N
+CASE017,P1000,Logistics Coordinator,N
+CASE017,P0600,Recruiter,N
+CASE017,P0450,Associate,N
+CASE017,P0196,Recruiter,N
+CASE017,P0359,Logistics Coordinator,N
+CASE017,P0397,Document Handler,N
+CASE017,P0953,Logistics Coordinator,N
+CASE017,P0463,Communicator,N
+CASE017,P0404,Vehicle Provider,N
+CASE017,P0693,Unrelated Person,Y
+CASE017,P0748,Associate,N
+CASE017,P0728,Logistics Coordinator,N
+CASE017,P0029,Document Handler,N
+CASE017,P0198,Logistics Coordinator,N
+CASE017,P0970,Communicator,N
+CASE017,P0356,Unrelated Person,Y
+CASE017,P0009,Document Handler,N
+CASE017,P0775,Logistics Coordinator,N
+CASE017,P0520,Operational Member,N
+CASE017,P0043,Operational Member,N
+CASE017,P0785,Associate,N
+CASE017,P0456,Vehicle Provider,N
+CASE017,P0806,Associate,N
+CASE017,P0249,Logistics Coordinator,N
+CASE017,P0287,Vehicle Provider,N
+CASE017,P0550,Operational Member,N
+CASE017,P0178,Unrelated Person,Y
+CASE017,P0814,Recruiter,N
+CASE017,P0307,Recruiter,N
+CASE018,P0772,Coordinator,N
+CASE018,P0613,Financial Intermediary,N
+CASE018,P0273,False Lead,Y
+CASE018,P0596,False Lead,Y
+CASE018,P0986,False Lead,Y
+CASE018,P0448,False Lead,Y
+CASE018,P0930,False Lead,Y
+CASE018,P0970,Communicator,N
+CASE018,P0664,Communicator,N
+CASE018,P0103,Communicator,N
+CASE018,P0021,Vehicle Provider,N
+CASE018,P0810,Unrelated Person,Y
+CASE018,P0728,Associate,N
+CASE018,P0893,Vehicle Provider,N
+CASE018,P0148,Vehicle Provider,N
+CASE018,P0663,Document Handler,N
+CASE018,P0732,Operational Member,N
+CASE018,P0355,Associate,N
+CASE018,P0552,Recruiter,N
+CASE018,P0239,Document Handler,N
+CASE018,P0277,Document Handler,N
+CASE018,P0589,Operational Member,N
+CASE018,P0585,Communicator,N
+CASE018,P0120,Logistics Coordinator,N
+CASE018,P0745,Vehicle Provider,N
+CASE018,P0326,Vehicle Provider,N
+CASE018,P0778,Recruiter,N
+CASE018,P0535,Recruiter,N
+CASE018,P0757,Communicator,N
+CASE018,P0921,Document Handler,N
+CASE018,P0924,Unrelated Person,Y
+CASE018,P0036,Recruiter,N
+CASE018,P0248,Operational Member,N
+CASE018,P0786,Communicator,N
+CASE018,P0789,Associate,N
+CASE018,P0918,Recruiter,N
+CASE018,P0219,Operational Member,N
+CASE018,P0673,Logistics Coordinator,N
+CASE018,P0680,Unrelated Person,Y
+CASE018,P0393,Vehicle Provider,N
+CASE018,P0012,Recruiter,N
+CASE018,P0991,Logistics Coordinator,N
+CASE018,P0776,Vehicle Provider,N
+CASE018,P0665,Operational Member,N
+CASE018,P0931,Associate,N
+CASE018,P0246,Vehicle Provider,N
+CASE018,P0005,Associate,N
+CASE018,P0531,Document Handler,N
+CASE018,P0466,Associate,N
+CASE018,P0584,Associate,N
+CASE018,P0163,Communicator,N
+CASE018,P0746,Document Handler,N
+CASE018,P0168,Vehicle Provider,N
+CASE018,P0854,Document Handler,N
+CASE019,P0888,Coordinator,N
+CASE019,P0333,Financial Intermediary,N
+CASE019,P0894,False Lead,Y
+CASE019,P0528,False Lead,Y
+CASE019,P0587,False Lead,Y
+CASE019,P0635,False Lead,Y
+CASE019,P0270,False Lead,Y
+CASE019,P0625,Bridge / Communicator,N
+CASE019,P0406,Associate,N
+CASE019,P0538,Logistics Coordinator,N
+CASE019,P0283,Recruiter,N
+CASE019,P0215,Unrelated Person,Y
+CASE019,P0498,Unrelated Person,Y
+CASE019,P0354,Logistics Coordinator,N
+CASE019,P0772,Operational Member,N
+CASE019,P0222,Operational Member,N
+CASE019,P0547,Vehicle Provider,N
+CASE019,P0257,Recruiter,N
+CASE019,P0816,Vehicle Provider,N
+CASE019,P0723,Logistics Coordinator,N
+CASE019,P0242,Recruiter,N
+CASE019,P0722,Communicator,N
+CASE019,P0431,Operational Member,N
+CASE019,P0458,Associate,N
+CASE019,P0929,Recruiter,N
+CASE019,P0404,Vehicle Provider,N
+CASE019,P0052,Communicator,N
+CASE019,P0228,Associate,N
+CASE019,P0050,Communicator,N
+CASE019,P0613,Associate,N
+CASE019,P0582,Operational Member,N
+CASE019,P0710,Recruiter,N
+CASE019,P0703,Communicator,N
+CASE019,P0998,Document Handler,N
+CASE019,P0313,Operational Member,N
+CASE019,P0759,Vehicle Provider,N
+CASE019,P0741,Communicator,N
+CASE019,P0933,Document Handler,N
+CASE019,P0762,Logistics Coordinator,N
+CASE019,P0734,Communicator,N
+CASE019,P0777,Operational Member,N
+CASE019,P0912,Unrelated Person,Y
+CASE019,P0295,Vehicle Provider,N
+CASE019,P0438,Document Handler,N
+CASE019,P0850,Unrelated Person,Y
+CASE019,P0990,Communicator,N
+CASE019,P0687,Unrelated Person,Y
+CASE019,P0755,Logistics Coordinator,N
+CASE019,P0733,Associate,N
+CASE019,P0107,Unrelated Person,Y
+CASE019,P0823,Communicator,N
+CASE019,P0532,Communicator,N
+CASE019,P0463,Unrelated Person,Y
+CASE019,P0343,Associate,N
+CASE019,P0291,Recruiter,N
+CASE019,P0062,Unrelated Person,Y
+CASE019,P0649,Operational Member,N
+CASE019,P0407,Vehicle Provider,N
+CASE020,P0985,Coordinator,N
+CASE020,P0820,Financial Intermediary,N
+CASE020,P0572,False Lead,Y
+CASE020,P0023,False Lead,Y
+CASE020,P0826,False Lead,Y
+CASE020,P0494,False Lead,Y
+CASE020,P0038,False Lead,Y
+CASE020,P0674,False Lead,Y
+CASE020,P0543,False Lead,Y
+CASE020,P0850,Operational Member,N
+CASE020,P0541,Communicator,N
+CASE020,P0435,Operational Member,N
+CASE020,P0565,Logistics Coordinator,N
+CASE020,P0911,Unrelated Person,Y
+CASE020,P0714,Recruiter,N
+CASE020,P0693,Associate,N
+CASE020,P0951,Communicator,N
+CASE020,P0273,Communicator,N
+CASE020,P0065,Recruiter,N
+CASE020,P0132,Vehicle Provider,N
+CASE020,P0443,Document Handler,N
+CASE020,P0214,Document Handler,N
+CASE020,P0239,Vehicle Provider,N
+CASE020,P1000,Document Handler,N
+CASE020,P0041,Operational Member,N
+CASE020,P0669,Logistics Coordinator,N
+CASE020,P0206,Document Handler,N
+CASE020,P0010,Document Handler,N
+CASE020,P0817,Associate,N
+CASE020,P0345,Vehicle Provider,N
+CASE020,P0964,Communicator,N
+CASE020,P0048,Recruiter,N
+CASE020,P0763,Document Handler,N
+CASE020,P0203,Document Handler,N
+CASE020,P0397,Vehicle Provider,N
+CASE020,P0789,Vehicle Provider,N
+CASE020,P0950,Recruiter,N
+CASE020,P0606,Communicator,N
+CASE020,P0296,Recruiter,N
+CASE020,P0487,Logistics Coordinator,N
+CASE020,P0411,Unrelated Person,Y
+CASE020,P0949,Recruiter,N
+CASE020,P0767,Communicator,N
+CASE020,P0742,Operational Member,N
+CASE020,P0975,Document Handler,N
+CASE020,P0007,Unrelated Person,Y
+CASE020,P0502,Communicator,N
+CASE020,P0191,Document Handler,N
+CASE020,P0621,Document Handler,N
+CASE020,P0930,Communicator,N
+CASE020,P0125,Document Handler,N
+CASE020,P0927,Logistics Coordinator,N
+CASE020,P0707,Logistics Coordinator,N
+CASE020,P0127,Communicator,N
+CASE020,P0670,Associate,N
+CASE020,P0842,Operational Member,N
+CASE020,P0561,Associate,N
+CASE020,P0195,Logistics Coordinator,N
+CASE020,P0651,Associate,N
+CASE020,P0066,Unrelated Person,Y
+CASE020,P0302,Document Handler,N
+CASE020,P0255,Document Handler,N
+CASE020,P0076,Recruiter,N
+CASE020,P0406,Recruiter,N
+CASE020,P0107,Operational Member,N
+CASE020,P0448,Document Handler,N
+CASE020,P0708,Unrelated Person,Y
+CASE020,P0802,Operational Member,N
+CASE020,P0177,Logistics Coordinator,N
+CASE020,P0071,Document Handler,N
+CASE020,P0544,Recruiter,N
+CASE020,P0620,Unrelated Person,Y
+CASE020,P0421,Recruiter,N
+CASE020,P0907,Associate,N
+CASE020,P0812,Associate,N
+CASE021,P0801,Coordinator,N
+CASE021,P0038,Financial Intermediary,N
+CASE021,P0585,False Lead,Y
+CASE021,P0954,False Lead,Y
+CASE021,P0127,Recruiter,N
+CASE021,P0113,Operational Member,N
+CASE021,P0401,Communicator,N
+CASE021,P0624,Recruiter,N
+CASE021,P0591,Document Handler,N
+CASE021,P0738,Associate,N
+CASE021,P0328,Document Handler,N
+CASE021,P0483,Logistics Coordinator,N
+CASE021,P0132,Unrelated Person,Y
+CASE021,P0616,Recruiter,N
+CASE021,P0431,Document Handler,N
+CASE021,P0187,Operational Member,N
+CASE021,P0922,Associate,N
+CASE021,P0840,Document Handler,N
+CASE021,P0090,Recruiter,N
+CASE021,P0974,Logistics Coordinator,N
+CASE021,P0938,Communicator,N
+CASE021,P0942,Associate,N
+CASE021,P0200,Communicator,N
+CASE021,P0806,Unrelated Person,Y
+CASE021,P0763,Document Handler,N
+CASE021,P0358,Logistics Coordinator,N
+CASE022,P0875,Coordinator,N
+CASE022,P0184,Financial Intermediary,N
+CASE022,P0346,False Lead,Y
+CASE022,P0364,Associate,N
+CASE022,P0277,Communicator,N
+CASE022,P0498,Unrelated Person,Y
+CASE022,P0908,Associate,N
+CASE022,P0504,Logistics Coordinator,N
+CASE023,P0933,Coordinator,N
+CASE023,P0760,Financial Intermediary,N
+CASE023,P0060,False Lead,Y
+CASE023,P0191,False Lead,Y
+CASE023,P0084,False Lead,Y
+CASE023,P0101,False Lead,Y
+CASE023,P0334,False Lead,Y
+CASE023,P0431,False Lead,Y
+CASE023,P0992,False Lead,Y
+CASE023,P0892,Document Handler,N
+CASE023,P0393,Recruiter,N
+CASE023,P0246,Logistics Coordinator,N
+CASE023,P0093,Logistics Coordinator,N
+CASE023,P0536,Associate,N
+CASE023,P0063,Unrelated Person,Y
+CASE023,P0678,Recruiter,N
+CASE023,P0925,Document Handler,N
+CASE023,P0624,Associate,N
+CASE023,P0358,Recruiter,N
+CASE023,P0315,Unrelated Person,Y
+CASE023,P0444,Communicator,N
+CASE023,P0679,Communicator,N
+CASE023,P0149,Vehicle Provider,N
+CASE023,P0878,Communicator,N
+CASE023,P0058,Logistics Coordinator,N
+CASE023,P0434,Document Handler,N
+CASE023,P0575,Associate,N
+CASE023,P0915,Associate,N
+CASE023,P0756,Unrelated Person,Y
+CASE023,P0048,Document Handler,N
+CASE023,P0176,Unrelated Person,Y
+CASE023,P0346,Unrelated Person,Y
+CASE023,P0479,Document Handler,N
+CASE023,P0182,Operational Member,N
+CASE023,P0172,Communicator,N
+CASE023,P0843,Operational Member,N
+CASE023,P0245,Vehicle Provider,N
+CASE023,P0596,Unrelated Person,Y
+CASE023,P0630,Communicator,N
+CASE023,P0905,Unrelated Person,Y
+CASE023,P0081,Logistics Coordinator,N
+CASE023,P0531,Associate,N
+CASE023,P0714,Vehicle Provider,N
+CASE023,P0857,Logistics Coordinator,N
+CASE023,P0699,Operational Member,N
+CASE023,P0024,Associate,N
+CASE023,P0665,Operational Member,N
+CASE023,P0526,Vehicle Provider,N
+CASE023,P0303,Vehicle Provider,N
+CASE023,P0123,Document Handler,N
+CASE023,P0644,Vehicle Provider,N
+CASE023,P0166,Vehicle Provider,N
+CASE023,P0098,Logistics Coordinator,N
+CASE023,P0380,Recruiter,N
+CASE023,P0340,Recruiter,N
+CASE023,P0397,Unrelated Person,Y
+CASE023,P0970,Document Handler,N
+CASE023,P0386,Logistics Coordinator,N
+CASE023,P0602,Operational Member,N
+CASE023,P0914,Vehicle Provider,N
+CASE023,P0518,Operational Member,N
+CASE023,P0167,Associate,N
+CASE023,P0208,Operational Member,N
+CASE023,P0731,Unrelated Person,Y
+CASE023,P0594,Vehicle Provider,N
+CASE023,P0898,Unrelated Person,Y
+CASE023,P0803,Recruiter,N
+CASE023,P0522,Logistics Coordinator,N
+CASE023,P0932,Operational Member,N
+CASE023,P0675,Document Handler,N
+CASE023,P0832,Operational Member,N
+CASE023,P0827,Associate,N
+CASE023,P0661,Logistics Coordinator,N
+CASE023,P0552,Document Handler,N
+CASE023,P0351,Document Handler,N
+CASE023,P0629,Vehicle Provider,N
+CASE023,P0353,Recruiter,N
+CASE024,P0436,Coordinator,N
+CASE024,P0429,Financial Intermediary,N
+CASE024,P0352,False Lead,Y
+CASE024,P0364,False Lead,Y
+CASE024,P0565,False Lead,Y
+CASE024,P0878,False Lead,Y
+CASE024,P0404,False Lead,Y
+CASE024,P0967,False Lead,Y
+CASE024,P0787,False Lead,Y
+CASE024,P0236,Document Handler,N
+CASE024,P0630,Document Handler,N
+CASE024,P0162,Unrelated Person,Y
+CASE024,P0288,Logistics Coordinator,N
+CASE024,P0366,Unrelated Person,Y
+CASE024,P0384,Operational Member,N
+CASE024,P0544,Vehicle Provider,N
+CASE024,P0212,Associate,N
+CASE024,P0169,Document Handler,N
+CASE024,P0070,Associate,N
+CASE024,P0038,Operational Member,N
+CASE024,P0318,Communicator,N
+CASE024,P0882,Unrelated Person,Y
+CASE024,P0772,Document Handler,N
+CASE024,P0206,Associate,N
+CASE024,P0241,Logistics Coordinator,N
+CASE024,P0482,Vehicle Provider,N
+CASE024,P0263,Communicator,N
+CASE024,P0684,Recruiter,N
+CASE024,P0590,Operational Member,N
+CASE024,P0666,Document Handler,N
+CASE024,P0780,Associate,N
+CASE024,P0221,Associate,N
+CASE024,P0635,Operational Member,N
+CASE024,P0960,Associate,N
+CASE024,P0205,Communicator,N
+CASE024,P0063,Logistics Coordinator,N
+CASE024,P0266,Recruiter,N
+CASE024,P0391,Communicator,N
+CASE024,P0963,Vehicle Provider,N
+CASE024,P0219,Logistics Coordinator,N
+CASE024,P0250,Communicator,N
+CASE024,P0249,Vehicle Provider,N
+CASE024,P0297,Vehicle Provider,N
+CASE024,P0337,Vehicle Provider,N
+CASE024,P0885,Unrelated Person,Y
+CASE024,P0736,Document Handler,N
+CASE024,P0865,Vehicle Provider,N
+CASE024,P0824,Associate,N
+CASE024,P0451,Recruiter,N
+CASE024,P0529,Unrelated Person,Y
+CASE024,P0240,Associate,N
+CASE024,P0491,Document Handler,N
+CASE024,P0353,Communicator,N
+CASE024,P0850,Associate,N
+CASE024,P0806,Unrelated Person,Y
+CASE024,P0245,Logistics Coordinator,N
+CASE024,P0557,Document Handler,N
+CASE024,P0158,Document Handler,N
+CASE024,P0310,Unrelated Person,Y
+CASE024,P0537,Associate,N
+CASE024,P0421,Logistics Coordinator,N
+CASE024,P0925,Associate,N
+CASE024,P0903,Unrelated Person,Y
+CASE024,P0302,Unrelated Person,Y
+CASE024,P0223,Operational Member,N
+CASE024,P0438,Document Handler,N
+CASE024,P0155,Logistics Coordinator,N
+CASE024,P0880,Communicator,N
+CASE024,P0702,Associate,N
+CASE024,P0182,Associate,N
+CASE024,P0074,Associate,N
+CASE024,P0778,Document Handler,N
+CASE024,P0541,Recruiter,N
+CASE024,P0387,Vehicle Provider,N
+CASE024,P0422,Operational Member,N
+CASE024,P0402,Operational Member,N
+CASE024,P0731,Document Handler,N
+CASE024,P0447,Document Handler,N
+CASE024,P0328,Operational Member,N
+CASE025,P0510,Coordinator,N
+CASE025,P0603,Financial Intermediary,N
+CASE025,P0751,False Lead,Y
+CASE025,P0625,Bridge / Communicator,N
+CASE025,P0711,Document Handler,N
+CASE025,P0223,Vehicle Provider,N
+CASE025,P0550,Associate,N
+CASE025,P0900,Associate,N
+CASE026,P0689,Coordinator,N
+CASE026,P0759,Financial Intermediary,N
+CASE026,P0992,False Lead,Y
+CASE026,P0095,False Lead,Y
+CASE026,P0094,Bridge / Communicator,N
+CASE026,P0734,Recruiter,N
+CASE026,P0903,Vehicle Provider,N
+CASE026,P0290,Logistics Coordinator,N
+CASE026,P0069,Unrelated Person,Y
+CASE026,P0577,Operational Member,N
+CASE026,P0162,Communicator,N
+CASE026,P0034,Recruiter,N
+CASE026,P0843,Vehicle Provider,N
+CASE026,P0397,Operational Member,N
+CASE026,P0187,Recruiter,N
+CASE026,P0946,Document Handler,N
+CASE026,P0473,Document Handler,N
+CASE026,P0979,Communicator,N
+CASE026,P0767,Communicator,N
+CASE026,P0895,Operational Member,N
+CASE026,P0431,Logistics Coordinator,N
+CASE026,P0851,Vehicle Provider,N
+CASE026,P0773,Document Handler,N
+CASE026,P0394,Vehicle Provider,N
+CASE026,P0153,Document Handler,N
+CASE026,P0849,Recruiter,N
+CASE026,P0883,Unrelated Person,Y
+CASE027,P0627,Coordinator,N
+CASE027,P0126,Financial Intermediary,N
+CASE027,P0899,False Lead,Y
+CASE027,P0995,False Lead,Y
+CASE027,P0586,False Lead,Y
+CASE027,P0158,Bridge / Communicator,N
+CASE027,P0811,Operational Member,N
+CASE027,P0937,Communicator,N
+CASE027,P0203,Document Handler,N
+CASE027,P0943,Communicator,N
+CASE027,P0532,Recruiter,N
+CASE027,P0292,Associate,N
+CASE027,P0149,Vehicle Provider,N
+CASE027,P0153,Logistics Coordinator,N
+CASE027,P0547,Communicator,N
+CASE027,P0068,Associate,N
+CASE027,P0558,Unrelated Person,Y
+CASE027,P0688,Logistics Coordinator,N
+CASE027,P0870,Associate,N
+CASE027,P0327,Unrelated Person,Y
+CASE027,P0218,Associate,N
+CASE027,P0823,Associate,N
+CASE027,P0692,Unrelated Person,Y
+CASE027,P0971,Vehicle Provider,N
+CASE027,P0975,Recruiter,N
+CASE027,P0154,Unrelated Person,Y
+CASE027,P0664,Vehicle Provider,N
+CASE027,P0258,Vehicle Provider,N
+CASE027,P0066,Associate,N
+CASE027,P0541,Vehicle Provider,N
+CASE027,P0259,Unrelated Person,Y
+CASE027,P0467,Associate,N
+CASE028,P0813,Coordinator,N
+CASE028,P0054,Financial Intermediary,N
+CASE028,P0146,False Lead,Y
+CASE028,P0250,Logistics Coordinator,N
+CASE028,P0648,Recruiter,N
+CASE028,P0502,Recruiter,N
+CASE028,P0431,Recruiter,N
+CASE028,P0430,Unrelated Person,Y
+CASE028,P0588,Document Handler,N
+CASE028,P0226,Associate,N
+CASE028,P0414,Recruiter,N
+CASE028,P0003,Associate,N
+CASE028,P0170,Recruiter,N
+CASE029,P0849,Coordinator,N
+CASE029,P0341,Financial Intermediary,N
+CASE029,P0901,False Lead,Y
+CASE029,P0125,Operational Member,N
+CASE029,P0171,Vehicle Provider,N
+CASE029,P0378,Associate,N
+CASE029,P0822,Logistics Coordinator,N
+CASE029,P0842,Associate,N
+CASE029,P0933,Vehicle Provider,N
+CASE029,P0634,Logistics Coordinator,N
+CASE029,P0810,Vehicle Provider,N
+CASE029,P0282,Document Handler,N
+CASE029,P0870,Communicator,N
+CASE029,P0597,Vehicle Provider,N
+CASE029,P0986,Logistics Coordinator,N
+CASE029,P0322,Recruiter,N
+CASE029,P0791,Recruiter,N
+CASE029,P0845,Operational Member,N
+CASE029,P0851,Logistics Coordinator,N
+CASE030,P0026,Coordinator,N
+CASE030,P0501,Financial Intermediary,N
+CASE030,P0069,False Lead,Y
+CASE030,P0184,False Lead,Y
+CASE030,P0810,False Lead,Y
+CASE030,P0374,Unrelated Person,Y
+CASE030,P0320,Communicator,N
+CASE030,P0477,Operational Member,N
+CASE030,P0327,Logistics Coordinator,N
+CASE030,P0813,Logistics Coordinator,N
+CASE030,P0375,Communicator,N
+CASE030,P0740,Logistics Coordinator,N
+CASE030,P0011,Associate,N
+CASE030,P0857,Document Handler,N
+CASE030,P0354,Operational Member,N
+CASE030,P0411,Logistics Coordinator,N
+CASE030,P0027,Document Handler,N
+CASE030,P0269,Document Handler,N
+CASE030,P0818,Unrelated Person,Y
+CASE030,P0984,Document Handler,N
+CASE030,P0883,Vehicle Provider,N
+CASE030,P0355,Document Handler,N
+CASE030,P0055,Recruiter,N
+CASE030,P0697,Unrelated Person,Y
+CASE030,P0716,Document Handler,N
+CASE030,P0478,Communicator,N
+CASE030,P0880,Operational Member,N
+CASE030,P0409,Operational Member,N
+CASE030,P0489,Operational Member,N
+CASE030,P0016,Associate,N
+CASE030,P0758,Unrelated Person,Y
+CASE030,P0920,Communicator,N
+CASE030,P0266,Document Handler,N
+CASE030,P0596,Associate,N
+CASE031,P0323,Coordinator,N
+CASE031,P0805,Financial Intermediary,N
+CASE031,P0514,False Lead,Y
+CASE031,P0260,False Lead,Y
+CASE031,P0160,False Lead,Y
+CASE031,P0585,False Lead,Y
+CASE031,P0635,False Lead,Y
+CASE031,P0495,False Lead,Y
+CASE031,P0629,False Lead,Y
+CASE031,P0117,Logistics Coordinator,N
+CASE031,P0170,Unrelated Person,Y
+CASE031,P0978,Operational Member,N
+CASE031,P0694,Associate,N
+CASE031,P0595,Unrelated Person,Y
+CASE031,P0139,Logistics Coordinator,N
+CASE031,P0999,Vehicle Provider,N
+CASE031,P0998,Vehicle Provider,N
+CASE031,P0211,Document Handler,N
+CASE031,P0533,Unrelated Person,Y
+CASE031,P0440,Vehicle Provider,N
+CASE031,P0778,Operational Member,N
+CASE031,P0927,Communicator,N
+CASE031,P0770,Associate,N
+CASE031,P0016,Unrelated Person,Y
+CASE031,P0494,Document Handler,N
+CASE031,P0107,Recruiter,N
+CASE031,P0603,Operational Member,N
+CASE031,P0539,Operational Member,N
+CASE031,P0898,Logistics Coordinator,N
+CASE031,P0997,Unrelated Person,Y
+CASE031,P0723,Logistics Coordinator,N
+CASE031,P0466,Operational Member,N
+CASE031,P0541,Communicator,N
+CASE031,P0480,Operational Member,N
+CASE031,P0492,Operational Member,N
+CASE031,P0885,Document Handler,N
+CASE031,P0922,Document Handler,N
+CASE031,P0940,Communicator,N
+CASE031,P0656,Communicator,N
+CASE031,P0034,Document Handler,N
+CASE031,P0055,Logistics Coordinator,N
+CASE031,P0593,Operational Member,N
+CASE031,P0611,Unrelated Person,Y
+CASE031,P0780,Associate,N
+CASE031,P0022,Communicator,N
+CASE031,P0575,Unrelated Person,Y
+CASE031,P0269,Communicator,N
+CASE031,P0263,Operational Member,N
+CASE031,P0327,Unrelated Person,Y
+CASE031,P0423,Unrelated Person,Y
+CASE031,P0243,Operational Member,N
+CASE031,P0929,Unrelated Person,Y
+CASE031,P0788,Operational Member,N
+CASE031,P0058,Unrelated Person,Y
+CASE031,P0484,Associate,N
+CASE031,P0100,Vehicle Provider,N
+CASE031,P0353,Vehicle Provider,N
+CASE031,P0763,Unrelated Person,Y
+CASE031,P0869,Logistics Coordinator,N
+CASE031,P0787,Recruiter,N
+CASE031,P0481,Logistics Coordinator,N
+CASE031,P0802,Unrelated Person,Y
+CASE031,P0883,Vehicle Provider,N
+CASE031,P0919,Recruiter,N
+CASE031,P0094,Operational Member,N
+CASE031,P0738,Associate,N
+CASE031,P0120,Unrelated Person,Y
+CASE031,P0207,Vehicle Provider,N
+CASE031,P0948,Recruiter,N
+CASE031,P0281,Communicator,N
+CASE031,P0033,Recruiter,N
+CASE031,P0512,Associate,N
+CASE031,P0192,Logistics Coordinator,N
+CASE031,P0887,Recruiter,N
+CASE031,P0557,Communicator,N
+CASE031,P0054,Vehicle Provider,N
+CASE031,P0989,Document Handler,N
+CASE032,P0019,Coordinator,N
+CASE032,P0791,Financial Intermediary,N
+CASE032,P0832,False Lead,Y
+CASE032,P0918,Operational Member,N
+CASE032,P0615,Communicator,N
+CASE032,P0716,Logistics Coordinator,N
+CASE032,P0210,Vehicle Provider,N
+CASE032,P0614,Associate,N
+CASE032,P0207,Logistics Coordinator,N
+CASE032,P0773,Associate,N
+CASE032,P0994,Vehicle Provider,N
+CASE032,P0649,Document Handler,N
+CASE032,P0843,Document Handler,N
+CASE032,P0138,Operational Member,N
+CASE032,P0583,Logistics Coordinator,N
+CASE032,P0631,Document Handler,N
+CASE032,P0332,Document Handler,N
+CASE032,P0866,Logistics Coordinator,N
+CASE033,P0535,Coordinator,N
+CASE033,P0490,Financial Intermediary,N
+CASE033,P0752,False Lead,Y
+CASE033,P0094,Bridge / Communicator,N
+CASE033,P0979,Unrelated Person,Y
+CASE033,P0095,Communicator,N
+CASE033,P0059,Logistics Coordinator,N
+CASE033,P0844,Document Handler,N
+CASE033,P0560,Vehicle Provider,N
+CASE033,P0675,Vehicle Provider,N
+CASE033,P0642,Associate,N
+CASE033,P0823,Unrelated Person,Y
+CASE033,P0799,Communicator,N
+CASE033,P0388,Logistics Coordinator,N
+CASE034,P0287,Coordinator,N
+CASE034,P0216,Financial Intermediary,N
+CASE034,P0251,False Lead,Y
+CASE035,P0414,Coordinator,N
+CASE035,P0894,Financial Intermediary,N
+CASE035,P0587,False Lead,Y
+CASE035,P0628,False Lead,Y
+CASE035,P0124,False Lead,Y
+CASE035,P0193,False Lead,Y
+CASE035,P0856,False Lead,Y
+CASE035,P0418,Communicator,N
+CASE035,P0770,Vehicle Provider,N
+CASE035,P0180,Operational Member,N
+CASE035,P0483,Associate,N
+CASE035,P0938,Communicator,N
+CASE035,P0064,Unrelated Person,Y
+CASE035,P0660,Unrelated Person,Y
+CASE035,P0076,Unrelated Person,Y
+CASE035,P0235,Vehicle Provider,N
+CASE035,P0387,Operational Member,N
+CASE035,P0925,Vehicle Provider,N
+CASE035,P0299,Unrelated Person,Y
+CASE035,P0244,Associate,N
+CASE035,P0291,Operational Member,N
+CASE035,P0530,Logistics Coordinator,N
+CASE035,P0243,Logistics Coordinator,N
+CASE035,P0261,Associate,N
+CASE035,P0727,Document Handler,N
+CASE035,P0832,Unrelated Person,Y
+CASE035,P0210,Document Handler,N
+CASE035,P0070,Document Handler,N
+CASE035,P0537,Associate,N
+CASE035,P0968,Associate,N
+CASE035,P0930,Document Handler,N
+CASE035,P0741,Logistics Coordinator,N
+CASE035,P0236,Operational Member,N
+CASE035,P0361,Recruiter,N
+CASE035,P0569,Associate,N
+CASE035,P0276,Vehicle Provider,N
+CASE035,P0931,Vehicle Provider,N
+CASE035,P0100,Vehicle Provider,N
+CASE035,P0839,Document Handler,N
+CASE035,P0428,Document Handler,N
+CASE035,P0729,Document Handler,N
+CASE035,P0564,Communicator,N
+CASE035,P0001,Communicator,N
+CASE035,P0423,Operational Member,N
+CASE035,P0252,Associate,N
+CASE035,P0590,Recruiter,N
+CASE035,P0278,Associate,N
+CASE035,P0306,Recruiter,N
+CASE035,P0972,Vehicle Provider,N
+CASE035,P0020,Logistics Coordinator,N
+CASE035,P0300,Communicator,N
+CASE035,P0634,Operational Member,N
+CASE036,P0970,Coordinator,N
+CASE036,P0954,Financial Intermediary,N
+CASE036,P0351,False Lead,Y
+CASE036,P0595,Operational Member,N
+CASE036,P0851,Associate,N
+CASE036,P0437,Document Handler,N
+CASE036,P0442,Communicator,N
+CASE036,P0644,Operational Member,N
+CASE037,P0723,Coordinator,N
+CASE037,P0557,Financial Intermediary,N
+CASE037,P0004,False Lead,Y
+CASE037,P0441,Logistics Coordinator,N
+CASE037,P0599,Document Handler,N
+CASE037,P0094,Recruiter,N
+CASE037,P0926,Document Handler,N
+CASE037,P0063,Operational Member,N
+CASE037,P0159,Communicator,N
+CASE037,P0644,Vehicle Provider,N
+CASE037,P0047,Vehicle Provider,N
+CASE037,P0708,Communicator,N
+CASE037,P0419,Recruiter,N
+CASE037,P0852,Recruiter,N
+CASE037,P0545,Associate,N
+CASE037,P0881,Recruiter,N
+CASE037,P0609,Recruiter,N
+CASE038,P0899,Coordinator,N
+CASE038,P0938,Financial Intermediary,N
+CASE038,P0239,False Lead,Y
+CASE038,P0158,Bridge / Communicator,N
+CASE038,P0818,Document Handler,N
+CASE038,P0514,Vehicle Provider,N
+CASE038,P0426,Logistics Coordinator,N
+CASE038,P0781,Associate,N
+CASE039,P0826,Coordinator,N
+CASE039,P0285,Financial Intermediary,N
+CASE039,P0342,False Lead,Y
+CASE039,P0234,False Lead,Y
+CASE039,P0711,False Lead,Y
+CASE039,P0608,False Lead,Y
+CASE039,P0811,False Lead,Y
+CASE039,P0054,Logistics Coordinator,N
+CASE039,P0458,Logistics Coordinator,N
+CASE039,P0364,Recruiter,N
+CASE039,P0085,Communicator,N
+CASE039,P0244,Document Handler,N
+CASE039,P0463,Document Handler,N
+CASE039,P0730,Vehicle Provider,N
+CASE039,P0564,Communicator,N
+CASE039,P0279,Associate,N
+CASE039,P0981,Communicator,N
+CASE039,P0597,Unrelated Person,Y
+CASE039,P0143,Operational Member,N
+CASE039,P0581,Vehicle Provider,N
+CASE039,P0264,Communicator,N
+CASE039,P0817,Unrelated Person,Y
+CASE039,P0004,Operational Member,N
+CASE039,P0894,Operational Member,N
+CASE039,P0920,Unrelated Person,Y
+CASE039,P0425,Recruiter,N
+CASE039,P0490,Logistics Coordinator,N
+CASE039,P0984,Document Handler,N
+CASE039,P0737,Associate,N
+CASE039,P0047,Unrelated Person,Y
+CASE039,P0697,Vehicle Provider,N
+CASE039,P0961,Vehicle Provider,N
+CASE039,P0093,Logistics Coordinator,N
+CASE039,P0231,Operational Member,N
+CASE039,P0089,Recruiter,N
+CASE039,P0033,Logistics Coordinator,N
+CASE039,P0945,Logistics Coordinator,N
+CASE039,P0735,Recruiter,N
+CASE039,P0139,Communicator,N
+CASE039,P0947,Vehicle Provider,N
+CASE039,P0302,Communicator,N
+CASE039,P0477,Document Handler,N
+CASE039,P0621,Vehicle Provider,N
+CASE039,P0549,Vehicle Provider,N
+CASE039,P0413,Vehicle Provider,N
+CASE039,P0729,Logistics Coordinator,N
+CASE039,P0024,Document Handler,N
+CASE039,P0485,Recruiter,N
+CASE039,P0766,Recruiter,N
+CASE039,P0319,Unrelated Person,Y
+CASE039,P0733,Logistics Coordinator,N
+CASE040,P0869,Coordinator,N
+CASE040,P0581,Financial Intermediary,N
+CASE040,P0335,False Lead,Y
+CASE041,P0772,Coordinator,N
+CASE041,P0917,Financial Intermediary,N
+CASE041,P0759,False Lead,Y
+CASE041,P0636,False Lead,Y
+CASE041,P0671,Bridge / Communicator,N
+CASE041,P0714,Recruiter,N
+CASE041,P0659,Unrelated Person,Y
+CASE041,P0311,Unrelated Person,Y
+CASE041,P0176,Associate,N
+CASE041,P0535,Document Handler,N
+CASE041,P0186,Logistics Coordinator,N
+CASE041,P0095,Unrelated Person,Y
+CASE041,P0461,Associate,N
+CASE041,P0544,Communicator,N
+CASE041,P0153,Document Handler,N
+CASE041,P0640,Associate,N
+CASE041,P0382,Logistics Coordinator,N
+CASE041,P0954,Vehicle Provider,N
+CASE041,P0610,Communicator,N
+CASE041,P0124,Vehicle Provider,N
+CASE041,P0947,Vehicle Provider,N
+CASE041,P0928,Associate,N
+CASE041,P0729,Document Handler,N
+CASE041,P0410,Associate,N
+CASE041,P0310,Associate,N
+CASE041,P0534,Vehicle Provider,N
+CASE042,P0431,Coordinator,N
+CASE042,P0529,Financial Intermediary,N
+CASE042,P0194,False Lead,Y
+CASE042,P0513,Document Handler,N
+CASE042,P0754,Communicator,N
+CASE042,P0013,Logistics Coordinator,N
+CASE042,P0427,Recruiter,N
+CASE042,P0490,Operational Member,N
+CASE042,P0512,Logistics Coordinator,N
+CASE042,P0588,Operational Member,N
+CASE042,P0546,Logistics Coordinator,N
+CASE042,P0987,Document Handler,N
+CASE042,P0954,Unrelated Person,Y
+CASE042,P0217,Operational Member,N
+CASE042,P0468,Logistics Coordinator,N
+CASE042,P0772,Operational Member,N
+CASE042,P0583,Document Handler,N
+CASE042,P0907,Document Handler,N
+CASE042,P0043,Operational Member,N
+CASE043,P0310,Coordinator,N
+CASE043,P0133,Financial Intermediary,N
+CASE043,P0844,False Lead,Y
+CASE043,P0984,Logistics Coordinator,N
+CASE043,P0074,Logistics Coordinator,N
+CASE044,P0227,Coordinator,N
+CASE044,P0689,Financial Intermediary,N
+CASE044,P0052,False Lead,Y
+CASE044,P0758,Recruiter,N
+CASE044,P0747,Recruiter,N
+CASE044,P0800,Communicator,N
+CASE044,P0449,Recruiter,N
+CASE044,P0934,Operational Member,N
+CASE044,P0030,Unrelated Person,Y
+CASE044,P0823,Recruiter,N
+CASE044,P0481,Communicator,N
+CASE044,P0476,Associate,N
+CASE044,P0049,Logistics Coordinator,N
+CASE044,P0517,Vehicle Provider,N
+CASE044,P0976,Communicator,N
+CASE044,P0600,Vehicle Provider,N
+CASE044,P0919,Operational Member,N
+CASE044,P0892,Unrelated Person,Y
+CASE044,P0729,Document Handler,N
+CASE045,P0125,Coordinator,N
+CASE045,P0916,Financial Intermediary,N
+CASE045,P0281,False Lead,Y
+CASE045,P0573,Communicator,N
+CASE045,P0755,Vehicle Provider,N
+CASE045,P0242,Document Handler,N
+CASE045,P0748,Logistics Coordinator,N
+CASE045,P0768,Logistics Coordinator,N
+CASE045,P0297,Vehicle Provider,N
+CASE045,P0002,Document Handler,N
+CASE045,P0785,Operational Member,N
+CASE045,P0261,Unrelated Person,Y
+CASE045,P0491,Unrelated Person,Y
+CASE045,P0055,Associate,N
+CASE046,P0253,Coordinator,N
+CASE046,P0170,Financial Intermediary,N
+CASE046,P0296,False Lead,Y
+CASE046,P0498,Operational Member,N
+CASE047,P0296,Coordinator,N
+CASE047,P0817,Financial Intermediary,N
+CASE047,P0195,False Lead,Y
+CASE047,P0443,Bridge / Communicator,N
+CASE048,P0632,Coordinator,N
+CASE048,P0482,Financial Intermediary,N
+CASE048,P0419,False Lead,Y
+CASE048,P0961,False Lead,Y
+CASE048,P0144,False Lead,Y
+CASE048,P0394,Logistics Coordinator,N
+CASE048,P0947,Operational Member,N
+CASE048,P0378,Communicator,N
+CASE048,P0005,Document Handler,N
+CASE048,P0231,Operational Member,N
+CASE048,P0346,Unrelated Person,Y
+CASE048,P0228,Communicator,N
+CASE048,P0564,Communicator,N
+CASE048,P0593,Associate,N
+CASE048,P0930,Recruiter,N
+CASE048,P0053,Vehicle Provider,N
+CASE048,P0673,Unrelated Person,Y
+CASE048,P0124,Document Handler,N
+CASE048,P0894,Communicator,N
+CASE048,P0422,Recruiter,N
+CASE048,P0734,Document Handler,N
+CASE048,P0235,Communicator,N
+CASE048,P0264,Logistics Coordinator,N
+CASE048,P0359,Vehicle Provider,N
+CASE048,P0230,Document Handler,N
+CASE048,P0563,Unrelated Person,Y
+CASE048,P0709,Document Handler,N
+CASE048,P0506,Communicator,N
+CASE048,P0111,Document Handler,N
+CASE048,P0873,Associate,N
+CASE048,P0035,Document Handler,N
+CASE048,P0022,Unrelated Person,Y
+CASE048,P0297,Document Handler,N
+CASE048,P0533,Vehicle Provider,N
+CASE048,P0558,Unrelated Person,Y
+CASE048,P0731,Communicator,N
+CASE048,P0464,Unrelated Person,Y
+CASE049,P0736,Coordinator,N
+CASE049,P0837,Financial Intermediary,N
+CASE049,P0224,False Lead,Y
+CASE049,P0662,False Lead,Y
+CASE049,P0145,Communicator,N
+CASE049,P0923,Unrelated Person,Y
+CASE049,P0507,Document Handler,N
+CASE049,P0324,Associate,N
+CASE049,P0165,Document Handler,N
+CASE049,P0059,Communicator,N
+CASE049,P0998,Communicator,N
+CASE049,P0172,Recruiter,N
+CASE049,P0153,Unrelated Person,Y
+CASE049,P0896,Logistics Coordinator,N
+CASE049,P0405,Document Handler,N
+CASE049,P0156,Logistics Coordinator,N
+CASE049,P1000,Unrelated Person,Y
+CASE049,P0616,Vehicle Provider,N
+CASE049,P0274,Document Handler,N
+CASE049,P0843,Associate,N
+CASE049,P0147,Vehicle Provider,N
+CASE049,P0818,Communicator,N
+CASE049,P0287,Logistics Coordinator,N
+CASE049,P0417,Unrelated Person,Y
+CASE049,P0125,Document Handler,N
+CASE049,P0755,Logistics Coordinator,N
+CASE049,P0216,Operational Member,N
+CASE050,P0118,Coordinator,N
+CASE050,P0156,Financial Intermediary,N
+CASE050,P0942,False Lead,Y
+CASE050,P0278,False Lead,Y
+CASE050,P0430,False Lead,Y
+CASE050,P0843,False Lead,Y
+CASE050,P0700,Logistics Coordinator,N
+CASE050,P0393,Unrelated Person,Y
+CASE050,P0486,Recruiter,N
+CASE050,P0691,Communicator,N
+CASE050,P0046,Document Handler,N
+CASE050,P0433,Associate,N
+CASE050,P0503,Logistics Coordinator,N
+CASE050,P0272,Vehicle Provider,N
+CASE050,P0136,Unrelated Person,Y
+CASE050,P0630,Logistics Coordinator,N
+CASE050,P0544,Operational Member,N
+CASE050,P0533,Logistics Coordinator,N
+CASE050,P0080,Recruiter,N
+CASE050,P0065,Operational Member,N
+CASE050,P0575,Associate,N
+CASE050,P0653,Vehicle Provider,N
+CASE050,P0453,Document Handler,N
+CASE050,P0333,Recruiter,N
+CASE050,P0534,Document Handler,N
+CASE050,P0720,Logistics Coordinator,N
+CASE050,P0021,Document Handler,N
+CASE050,P0686,Associate,N
+CASE050,P0816,Communicator,N
+CASE050,P0984,Communicator,N
+CASE050,P0013,Vehicle Provider,N
+CASE050,P0938,Document Handler,N
+CASE050,P0190,Unrelated Person,Y
+CASE050,P0378,Vehicle Provider,N
+CASE050,P0582,Unrelated Person,Y
+CASE050,P0732,Communicator,N
+CASE050,P0956,Document Handler,N
+CASE050,P0998,Document Handler,N
+CASE050,P0180,Communicator,N
+CASE050,P0482,Vehicle Provider,N
+CASE050,P0227,Communicator,N
+CASE050,P0943,Logistics Coordinator,N
+CASE050,P0401,Associate,N
+CASE050,P0441,Vehicle Provider,N
+CASE051,P0009,Coordinator,N
+CASE051,P0201,Financial Intermediary,N
+CASE051,P0145,False Lead,Y
+CASE052,P0086,Coordinator,N
+CASE052,P0716,Financial Intermediary,N
+CASE052,P0783,False Lead,Y
+CASE052,P0102,Operational Member,N
+CASE053,P0968,Coordinator,N
+CASE053,P0494,Financial Intermediary,N
+CASE053,P0873,False Lead,Y
+CASE053,P0158,Bridge / Communicator,N
+CASE053,P0774,Operational Member,N
+CASE053,P0808,Communicator,N
+CASE053,P0438,Document Handler,N
+CASE053,P0874,Operational Member,N
+CASE053,P0241,Logistics Coordinator,N
+CASE053,P0988,Unrelated Person,Y
+CASE053,P0901,Vehicle Provider,N
+CASE053,P0688,Associate,N
+CASE054,P0497,Coordinator,N
+CASE054,P0366,Financial Intermediary,N
+CASE054,P0126,False Lead,Y
+CASE054,P0251,Document Handler,N
+CASE054,P0815,Communicator,N
+CASE054,P0287,Vehicle Provider,N
+CASE054,P0053,Document Handler,N
+CASE054,P0559,Vehicle Provider,N
+CASE055,P0476,Coordinator,N
+CASE055,P0101,Financial Intermediary,N
+CASE055,P0964,False Lead,Y
+CASE055,P0117,Operational Member,N
+CASE055,P0563,Logistics Coordinator,N
+CASE055,P0712,Logistics Coordinator,N
+CASE055,P0398,Unrelated Person,Y
+CASE055,P0856,Operational Member,N
+CASE055,P0430,Associate,N
+CASE055,P0426,Recruiter,N
+CASE055,P0402,Document Handler,N
+CASE055,P0981,Vehicle Provider,N
+CASE055,P0280,Vehicle Provider,N
+CASE055,P0996,Document Handler,N
+CASE055,P0711,Communicator,N
+CASE055,P0890,Vehicle Provider,N
+CASE055,P0011,Recruiter,N
+CASE056,P0179,Coordinator,N
+CASE056,P0725,Financial Intermediary,N
+CASE056,P0698,False Lead,Y
+CASE056,P0532,False Lead,Y
+CASE056,P0124,False Lead,Y
+CASE056,P0688,Unrelated Person,Y
+CASE056,P0485,Document Handler,N
+CASE056,P0986,Logistics Coordinator,N
+CASE056,P0379,Operational Member,N
+CASE056,P0687,Associate,N
+CASE056,P0783,Logistics Coordinator,N
+CASE056,P0607,Unrelated Person,Y
+CASE056,P0847,Communicator,N
+CASE056,P0315,Communicator,N
+CASE056,P0702,Logistics Coordinator,N
+CASE056,P0992,Operational Member,N
+CASE056,P0251,Recruiter,N
+CASE056,P0480,Operational Member,N
+CASE056,P0178,Vehicle Provider,N
+CASE056,P0728,Associate,N
+CASE056,P0966,Communicator,N
+CASE056,P0555,Vehicle Provider,N
+CASE056,P0192,Operational Member,N
+CASE056,P0809,Associate,N
+CASE056,P0406,Associate,N
+CASE056,P0822,Vehicle Provider,N
+CASE056,P0699,Vehicle Provider,N
+CASE056,P0775,Operational Member,N
+CASE056,P0297,Communicator,N
+CASE056,P0328,Vehicle Provider,N
+CASE056,P0429,Recruiter,N
+CASE057,P0851,Coordinator,N
+CASE057,P0285,Financial Intermediary,N
+CASE057,P0714,False Lead,Y
+CASE058,P0637,Coordinator,N
+CASE058,P0821,Financial Intermediary,N
+CASE058,P0187,False Lead,Y
+CASE058,P0828,Bridge / Communicator,N
+CASE058,P0193,Associate,N
+CASE058,P0543,Associate,N
+CASE058,P0487,Operational Member,N
+CASE058,P0862,Vehicle Provider,N
+CASE058,P0373,Associate,N
+CASE058,P0771,Operational Member,N
+CASE058,P0424,Logistics Coordinator,N
+CASE058,P0426,Associate,N
+CASE058,P0602,Document Handler,N
+CASE058,P0350,Unrelated Person,Y
+CASE059,P0780,Coordinator,N
+CASE059,P0642,Financial Intermediary,N
+CASE059,P0678,False Lead,Y
+CASE059,P0009,False Lead,Y
+CASE059,P0405,False Lead,Y
+CASE059,P0529,False Lead,Y
+CASE059,P0373,Communicator,N
+CASE059,P0223,Vehicle Provider,N
+CASE059,P0671,Document Handler,N
+CASE059,P0077,Associate,N
+CASE059,P0075,Document Handler,N
+CASE059,P0325,Associate,N
+CASE059,P0466,Operational Member,N
+CASE059,P0850,Document Handler,N
+CASE059,P0958,Operational Member,N
+CASE059,P0334,Associate,N
+CASE059,P0117,Associate,N
+CASE059,P0818,Associate,N
+CASE059,P0676,Recruiter,N
+CASE059,P0131,Associate,N
+CASE059,P0425,Document Handler,N
+CASE059,P0320,Document Handler,N
+CASE059,P0130,Document Handler,N
+CASE059,P0551,Communicator,N
+CASE059,P0296,Unrelated Person,Y
+CASE059,P0970,Operational Member,N
+CASE059,P0248,Operational Member,N
+CASE059,P0960,Operational Member,N
+CASE059,P0071,Recruiter,N
+CASE059,P0541,Document Handler,N
+CASE059,P0585,Vehicle Provider,N
+CASE059,P0019,Logistics Coordinator,N
+CASE059,P0503,Operational Member,N
+CASE059,P0445,Logistics Coordinator,N
+CASE059,P0617,Document Handler,N
+CASE059,P0426,Document Handler,N
+CASE059,P0157,Unrelated Person,Y
+CASE059,P0324,Unrelated Person,Y
+CASE059,P0140,Vehicle Provider,N
+CASE059,P0613,Document Handler,N
+CASE059,P0458,Vehicle Provider,N
+CASE059,P0193,Operational Member,N
+CASE059,P0603,Operational Member,N
+CASE059,P0885,Operational Member,N
+CASE059,P0207,Operational Member,N
+CASE059,P0584,Communicator,N
+CASE059,P0450,Document Handler,N
+CASE059,P0692,Associate,N
+CASE060,P0577,Coordinator,N
+CASE060,P0884,Financial Intermediary,N
+CASE060,P1000,False Lead,Y
+CASE060,P0557,False Lead,Y
+CASE060,P0354,False Lead,Y
+CASE060,P0062,Recruiter,N
+CASE060,P0713,Recruiter,N
+CASE060,P0373,Unrelated Person,Y
+CASE060,P0311,Communicator,N
+CASE060,P0358,Operational Member,N
+CASE060,P0374,Recruiter,N
+CASE060,P0758,Unrelated Person,Y
+CASE060,P0696,Associate,N
+CASE060,P0666,Associate,N
+CASE060,P0968,Communicator,N
+CASE060,P0498,Document Handler,N
+CASE060,P0371,Operational Member,N
+CASE060,P0917,Unrelated Person,Y
+CASE060,P0035,Recruiter,N
+CASE060,P0733,Logistics Coordinator,N
+CASE060,P0033,Associate,N
+CASE060,P0316,Recruiter,N
+CASE060,P0730,Unrelated Person,Y
+CASE060,P0934,Vehicle Provider,N
+CASE060,P0529,Operational Member,N
+CASE060,P0263,Recruiter,N
+CASE060,P0381,Associate,N
+CASE060,P0684,Unrelated Person,Y
+CASE060,P0981,Communicator,N
+CASE060,P0580,Unrelated Person,Y
+CASE060,P0550,Vehicle Provider,N
+CASE060,P0370,Vehicle Provider,N
+CASE060,P0830,Operational Member,N
+CASE060,P0559,Operational Member,N
+CASE060,P0851,Vehicle Provider,N
+CASE060,P0960,Recruiter,N
+CASE060,P0494,Unrelated Person,Y
+CASE060,P0697,Operational Member,N
+CASE060,P0241,Operational Member,N
+CASE061,P0353,Coordinator,N
+CASE061,P0432,Financial Intermediary,N
+CASE061,P0023,False Lead,Y
+CASE061,P0996,False Lead,Y
+CASE061,P0740,False Lead,Y
+CASE061,P0331,False Lead,Y
+CASE061,P0001,False Lead,Y
+CASE061,P0103,False Lead,Y
+CASE061,P0136,False Lead,Y
+CASE061,P0035,Communicator,N
+CASE061,P0715,Operational Member,N
+CASE061,P0133,Document Handler,N
+CASE061,P0497,Unrelated Person,Y
+CASE061,P0879,Operational Member,N
+CASE061,P0661,Unrelated Person,Y
+CASE061,P0414,Recruiter,N
+CASE061,P0198,Logistics Coordinator,N
+CASE061,P0474,Unrelated Person,Y
+CASE061,P0115,Communicator,N
+CASE061,P0411,Associate,N
+CASE061,P0617,Operational Member,N
+CASE061,P0711,Unrelated Person,Y
+CASE061,P0493,Logistics Coordinator,N
+CASE061,P0549,Logistics Coordinator,N
+CASE061,P0899,Communicator,N
+CASE061,P0294,Unrelated Person,Y
+CASE061,P0839,Operational Member,N
+CASE061,P0961,Associate,N
+CASE061,P0345,Communicator,N
+CASE061,P0826,Associate,N
+CASE061,P0544,Logistics Coordinator,N
+CASE061,P0923,Vehicle Provider,N
+CASE061,P0933,Operational Member,N
+CASE061,P0492,Communicator,N
+CASE061,P0050,Associate,N
+CASE061,P0456,Operational Member,N
+CASE061,P0116,Operational Member,N
+CASE061,P0356,Recruiter,N
+CASE061,P0363,Recruiter,N
+CASE061,P0908,Communicator,N
+CASE061,P0072,Recruiter,N
+CASE061,P0752,Associate,N
+CASE061,P0399,Communicator,N
+CASE061,P0855,Associate,N
+CASE061,P0114,Associate,N
+CASE061,P0800,Document Handler,N
+CASE061,P0510,Vehicle Provider,N
+CASE061,P0371,Recruiter,N
+CASE061,P0620,Operational Member,N
+CASE061,P0272,Unrelated Person,Y
+CASE061,P0288,Unrelated Person,Y
+CASE061,P0346,Vehicle Provider,N
+CASE061,P0816,Document Handler,N
+CASE061,P0968,Recruiter,N
+CASE061,P0779,Associate,N
+CASE061,P0350,Document Handler,N
+CASE061,P0298,Communicator,N
+CASE061,P0370,Associate,N
+CASE061,P0631,Document Handler,N
+CASE061,P0650,Associate,N
+CASE061,P0327,Operational Member,N
+CASE061,P0459,Document Handler,N
+CASE061,P0890,Document Handler,N
+CASE061,P0725,Document Handler,N
+CASE061,P0766,Unrelated Person,Y
+CASE061,P0902,Vehicle Provider,N
+CASE061,P0049,Associate,N
+CASE061,P0280,Vehicle Provider,N
+CASE061,P0435,Logistics Coordinator,N
+CASE061,P0501,Unrelated Person,Y
+CASE061,P0601,Logistics Coordinator,N
+CASE061,P0379,Communicator,N
+CASE061,P0821,Communicator,N
+CASE061,P0321,Operational Member,N
+CASE062,P0901,Coordinator,N
+CASE062,P0794,Financial Intermediary,N
+CASE062,P0395,False Lead,Y
+CASE062,P0816,False Lead,Y
+CASE062,P0625,Bridge / Communicator,N
+CASE062,P0404,False Lead,Y
+CASE062,P0314,Vehicle Provider,N
+CASE062,P0463,Operational Member,N
+CASE062,P0366,Vehicle Provider,N
+CASE062,P0108,Operational Member,N
+CASE062,P0757,Communicator,N
+CASE062,P0456,Logistics Coordinator,N
+CASE062,P0200,Logistics Coordinator,N
+CASE062,P0824,Document Handler,N
+CASE062,P0363,Associate,N
+CASE062,P0980,Associate,N
+CASE062,P0895,Communicator,N
+CASE062,P0328,Logistics Coordinator,N
+CASE062,P0519,Operational Member,N
+CASE062,P0664,Communicator,N
+CASE062,P0782,Communicator,N
+CASE062,P0199,Vehicle Provider,N
+CASE062,P0070,Unrelated Person,Y
+CASE062,P0359,Unrelated Person,Y
+CASE062,P0053,Document Handler,N
+CASE062,P0287,Logistics Coordinator,N
+CASE062,P0653,Document Handler,N
+CASE062,P0915,Associate,N
+CASE062,P0446,Operational Member,N
+CASE062,P0112,Associate,N
+CASE062,P0297,Operational Member,N
+CASE062,P0060,Recruiter,N
+CASE062,P0996,Recruiter,N
+CASE062,P0806,Operational Member,N
+CASE062,P0345,Document Handler,N
+CASE062,P0280,Communicator,N
+CASE062,P0853,Logistics Coordinator,N
+CASE062,P0370,Vehicle Provider,N
+CASE062,P0288,Operational Member,N
+CASE062,P0181,Logistics Coordinator,N
+CASE062,P0875,Communicator,N
+CASE062,P0469,Communicator,N
+CASE062,P0969,Communicator,N
+CASE062,P0544,Logistics Coordinator,N
+CASE063,P0148,Coordinator,N
+CASE063,P0471,Financial Intermediary,N
+CASE063,P0615,False Lead,Y
+CASE063,P0973,False Lead,Y
+CASE063,P0689,False Lead,Y
+CASE063,P0064,False Lead,Y
+CASE063,P0431,False Lead,Y
+CASE063,P0116,Associate,N
+CASE063,P0272,Communicator,N
+CASE063,P0694,Vehicle Provider,N
+CASE063,P0229,Operational Member,N
+CASE063,P0005,Associate,N
+CASE063,P0017,Document Handler,N
+CASE063,P0124,Associate,N
+CASE063,P0545,Document Handler,N
+CASE063,P0707,Unrelated Person,Y
+CASE063,P0223,Communicator,N
+CASE063,P0390,Recruiter,N
+CASE063,P0659,Unrelated Person,Y
+CASE063,P0806,Logistics Coordinator,N
+CASE063,P0607,Logistics Coordinator,N
+CASE063,P0307,Communicator,N
+CASE063,P0448,Associate,N
+CASE063,P0999,Document Handler,N
+CASE063,P0484,Logistics Coordinator,N
+CASE063,P0812,Unrelated Person,Y
+CASE063,P0370,Recruiter,N
+CASE063,P0168,Operational Member,N
+CASE063,P0289,Associate,N
+CASE063,P0930,Unrelated Person,Y
+CASE063,P0306,Logistics Coordinator,N
+CASE063,P0027,Associate,N
+CASE063,P0611,Unrelated Person,Y
+CASE063,P0986,Recruiter,N
+CASE063,P0145,Vehicle Provider,N
+CASE063,P0469,Recruiter,N
+CASE063,P0630,Communicator,N
+CASE063,P0451,Vehicle Provider,N
+CASE063,P0575,Vehicle Provider,N
+CASE063,P0216,Document Handler,N
+CASE063,P0135,Recruiter,N
+CASE063,P0646,Vehicle Provider,N
+CASE063,P0947,Recruiter,N
+CASE063,P0861,Operational Member,N
+CASE063,P0499,Unrelated Person,Y
+CASE063,P0786,Recruiter,N
+CASE063,P0134,Unrelated Person,Y
+CASE063,P0350,Logistics Coordinator,N
+CASE063,P0001,Vehicle Provider,N
+CASE063,P0206,Unrelated Person,Y
+CASE063,P0282,Operational Member,N
+CASE063,P0173,Associate,N
+CASE063,P0189,Operational Member,N
+CASE063,P0943,Operational Member,N
+CASE063,P0388,Recruiter,N
+CASE063,P0601,Logistics Coordinator,N
+CASE063,P0746,Associate,N
+CASE063,P0164,Communicator,N
+CASE064,P0753,Coordinator,N
+CASE064,P0462,Financial Intermediary,N
+CASE064,P0568,False Lead,Y
+CASE064,P0488,Vehicle Provider,N
+CASE064,P0519,Operational Member,N
+CASE064,P0169,Communicator,N
+CASE064,P0848,Vehicle Provider,N
+CASE065,P0790,Coordinator,N
+CASE065,P0560,Financial Intermediary,N
+CASE065,P0598,False Lead,Y
+CASE065,P0401,Unrelated Person,Y
+CASE065,P0795,Recruiter,N
+CASE065,P0015,Unrelated Person,Y
+CASE065,P0561,Operational Member,N
+CASE066,P0778,Coordinator,N
+CASE066,P0180,Financial Intermediary,N
+CASE066,P0368,False Lead,Y
+CASE066,P0107,False Lead,Y
+CASE066,P0930,False Lead,Y
+CASE066,P0969,False Lead,Y
+CASE066,P0942,False Lead,Y
+CASE066,P0795,False Lead,Y
+CASE066,P0724,False Lead,Y
+CASE066,P0671,Bridge / Communicator,N
+CASE066,P0743,Associate,N
+CASE066,P0845,Operational Member,N
+CASE066,P0956,Unrelated Person,Y
+CASE066,P0648,Operational Member,N
+CASE066,P0148,Unrelated Person,Y
+CASE066,P0853,Communicator,N
+CASE066,P0809,Unrelated Person,Y
+CASE066,P0389,Logistics Coordinator,N
+CASE066,P0940,Associate,N
+CASE066,P0606,Vehicle Provider,N
+CASE066,P0789,Unrelated Person,Y
+CASE066,P0132,Associate,N
+CASE066,P0274,Associate,N
+CASE066,P0859,Operational Member,N
+CASE066,P0213,Vehicle Provider,N
+CASE066,P0450,Logistics Coordinator,N
+CASE066,P0153,Associate,N
+CASE066,P0932,Associate,N
+CASE066,P0101,Recruiter,N
+CASE066,P0248,Logistics Coordinator,N
+CASE066,P0090,Document Handler,N
+CASE066,P0141,Unrelated Person,Y
+CASE066,P0189,Operational Member,N
+CASE066,P0601,Unrelated Person,Y
+CASE066,P0725,Recruiter,N
+CASE066,P0405,Associate,N
+CASE066,P0750,Vehicle Provider,N
+CASE066,P0688,Vehicle Provider,N
+CASE066,P0957,Unrelated Person,Y
+CASE066,P0830,Recruiter,N
+CASE066,P0113,Operational Member,N
+CASE066,P0171,Operational Member,N
+CASE066,P0475,Unrelated Person,Y
+CASE066,P0104,Logistics Coordinator,N
+CASE066,P0379,Operational Member,N
+CASE066,P0850,Vehicle Provider,N
+CASE066,P0584,Document Handler,N
+CASE066,P0580,Vehicle Provider,N
+CASE066,P0055,Operational Member,N
+CASE066,P0410,Associate,N
+CASE066,P0501,Associate,N
+CASE066,P0543,Vehicle Provider,N
+CASE066,P0391,Communicator,N
+CASE066,P0432,Unrelated Person,Y
+CASE066,P0498,Unrelated Person,Y
+CASE066,P0669,Recruiter,N
+CASE066,P0441,Document Handler,N
+CASE066,P0121,Vehicle Provider,N
+CASE066,P0713,Associate,N
+CASE066,P0697,Logistics Coordinator,N
+CASE066,P0878,Document Handler,N
+CASE066,P0444,Logistics Coordinator,N
+CASE066,P0357,Communicator,N
+CASE066,P0784,Unrelated Person,Y
+CASE066,P0964,Logistics Coordinator,N
+CASE066,P0553,Logistics Coordinator,N
+CASE066,P0003,Vehicle Provider,N
+CASE066,P0687,Unrelated Person,Y
+CASE066,P0469,Associate,N
+CASE066,P0806,Associate,N
+CASE066,P0159,Unrelated Person,Y
+CASE067,P0156,Coordinator,N
+CASE067,P0258,Financial Intermediary,N
+CASE067,P0847,False Lead,Y
+CASE068,P0763,Coordinator,N
+CASE068,P0309,Financial Intermediary,N
+CASE068,P0795,False Lead,Y
+CASE068,P0721,False Lead,Y
+CASE068,P0939,False Lead,Y
+CASE068,P0622,Document Handler,N
+CASE068,P0267,Vehicle Provider,N
+CASE068,P0115,Communicator,N
+CASE068,P0932,Recruiter,N
+CASE068,P0068,Recruiter,N
+CASE068,P0333,Vehicle Provider,N
+CASE068,P0225,Unrelated Person,Y
+CASE068,P0107,Operational Member,N
+CASE068,P0089,Logistics Coordinator,N
+CASE068,P0994,Unrelated Person,Y
+CASE068,P0845,Associate,N
+CASE068,P0923,Associate,N
+CASE068,P0280,Operational Member,N
+CASE068,P0051,Logistics Coordinator,N
+CASE068,P0510,Recruiter,N
+CASE068,P0971,Recruiter,N
+CASE068,P0238,Vehicle Provider,N
+CASE068,P0262,Recruiter,N
+CASE068,P0724,Communicator,N
+CASE068,P0103,Unrelated Person,Y
+CASE068,P0712,Recruiter,N
+CASE068,P0788,Document Handler,N
+CASE068,P0980,Communicator,N
+CASE068,P0512,Unrelated Person,Y
+CASE068,P0989,Document Handler,N
+CASE068,P0571,Operational Member,N
+CASE069,P0195,Coordinator,N
+CASE069,P0846,Financial Intermediary,N
+CASE069,P0180,False Lead,Y
+CASE069,P0914,Operational Member,N
+CASE069,P0906,Logistics Coordinator,N
+CASE069,P0326,Unrelated Person,Y
+CASE069,P0737,Document Handler,N
+CASE069,P0212,Unrelated Person,Y
+CASE069,P0700,Logistics Coordinator,N
+CASE069,P0757,Vehicle Provider,N
+CASE069,P0550,Operational Member,N
+CASE069,P0016,Logistics Coordinator,N
+CASE069,P0293,Logistics Coordinator,N
+CASE069,P0998,Associate,N
+CASE069,P0919,Document Handler,N
+CASE069,P0079,Recruiter,N
+CASE070,P0300,Coordinator,N
+CASE070,P0357,Financial Intermediary,N
+CASE070,P0128,False Lead,Y
+CASE070,P0316,False Lead,Y
+CASE070,P0270,Associate,N
+CASE070,P0738,Unrelated Person,Y
+CASE070,P0469,Recruiter,N
+CASE070,P0262,Unrelated Person,Y
+CASE070,P0663,Operational Member,N
+CASE070,P0084,Unrelated Person,Y
+CASE070,P0861,Vehicle Provider,N
+CASE070,P0853,Associate,N
+CASE070,P0710,Associate,N
+CASE070,P0418,Operational Member,N
+CASE070,P0212,Operational Member,N
+CASE070,P0563,Recruiter,N
+CASE070,P0766,Recruiter,N
+CASE070,P0240,Associate,N
+CASE070,P0510,Operational Member,N
+CASE070,P0175,Operational Member,N
+CASE070,P0770,Operational Member,N
+CASE070,P0383,Vehicle Provider,N
+CASE070,P0430,Document Handler,N
+CASE070,P0980,Operational Member,N
+CASE071,P0662,Coordinator,N
+CASE071,P0023,Financial Intermediary,N
+CASE071,P0549,False Lead,Y
+CASE071,P0499,False Lead,Y
+CASE071,P0197,False Lead,Y
+CASE071,P0482,False Lead,Y
+CASE071,P0508,Bridge / Communicator,N
+CASE071,P0683,Associate,N
+CASE071,P0693,Operational Member,N
+CASE071,P0061,Vehicle Provider,N
+CASE071,P0175,Operational Member,N
+CASE071,P0665,Unrelated Person,Y
+CASE071,P0341,Unrelated Person,Y
+CASE071,P0206,Recruiter,N
+CASE071,P0737,Recruiter,N
+CASE071,P0924,Associate,N
+CASE071,P0518,Recruiter,N
+CASE071,P0990,Recruiter,N
+CASE071,P0689,Unrelated Person,Y
+CASE071,P0126,Logistics Coordinator,N
+CASE071,P0736,Unrelated Person,Y
+CASE071,P0286,Unrelated Person,Y
+CASE071,P0954,Logistics Coordinator,N
+CASE071,P0059,Operational Member,N
+CASE071,P0072,Recruiter,N
+CASE071,P0314,Document Handler,N
+CASE071,P0459,Vehicle Provider,N
+CASE071,P0998,Document Handler,N
+CASE071,P0419,Associate,N
+CASE071,P0310,Vehicle Provider,N
+CASE071,P0401,Associate,N
+CASE071,P0484,Document Handler,N
+CASE071,P0381,Logistics Coordinator,N
+CASE071,P0724,Vehicle Provider,N
+CASE071,P0232,Communicator,N
+CASE071,P0437,Document Handler,N
+CASE071,P0378,Unrelated Person,Y
+CASE071,P0553,Communicator,N
+CASE071,P0411,Unrelated Person,Y
+CASE071,P0649,Vehicle Provider,N
+CASE071,P0651,Recruiter,N
+CASE071,P0057,Associate,N
+CASE071,P0745,Vehicle Provider,N
+CASE072,P0958,Coordinator,N
+CASE072,P0650,Financial Intermediary,N
+CASE072,P0311,False Lead,Y
+CASE072,P0240,False Lead,Y
+CASE072,P0751,False Lead,Y
+CASE072,P0754,False Lead,Y
+CASE072,P0065,False Lead,Y
+CASE072,P0588,False Lead,Y
+CASE072,P0172,Document Handler,N
+CASE072,P0938,Associate,N
+CASE072,P0663,Communicator,N
+CASE072,P0019,Recruiter,N
+CASE072,P0615,Logistics Coordinator,N
+CASE072,P0450,Vehicle Provider,N
+CASE072,P0935,Communicator,N
+CASE072,P0869,Unrelated Person,Y
+CASE072,P0825,Recruiter,N
+CASE072,P0837,Recruiter,N
+CASE072,P0336,Unrelated Person,Y
+CASE072,P0323,Operational Member,N
+CASE072,P0051,Communicator,N
+CASE072,P0281,Vehicle Provider,N
+CASE072,P0004,Communicator,N
+CASE072,P0261,Communicator,N
+CASE072,P0295,Document Handler,N
+CASE072,P0489,Unrelated Person,Y
+CASE072,P0401,Unrelated Person,Y
+CASE072,P0319,Vehicle Provider,N
+CASE072,P0691,Operational Member,N
+CASE072,P0379,Recruiter,N
+CASE072,P0757,Communicator,N
+CASE072,P0906,Logistics Coordinator,N
+CASE072,P0808,Logistics Coordinator,N
+CASE072,P0070,Recruiter,N
+CASE072,P0377,Recruiter,N
+CASE072,P0169,Vehicle Provider,N
+CASE072,P0146,Unrelated Person,Y
+CASE072,P0769,Vehicle Provider,N
+CASE072,P0604,Communicator,N
+CASE072,P0164,Operational Member,N
+CASE072,P0592,Recruiter,N
+CASE072,P0636,Vehicle Provider,N
+CASE072,P0214,Logistics Coordinator,N
+CASE072,P0047,Communicator,N
+CASE072,P0767,Operational Member,N
+CASE072,P0687,Recruiter,N
+CASE072,P0010,Unrelated Person,Y
+CASE072,P0968,Logistics Coordinator,N
+CASE072,P0599,Unrelated Person,Y
+CASE072,P0764,Unrelated Person,Y
+CASE072,P0887,Document Handler,N
+CASE072,P0048,Unrelated Person,Y
+CASE072,P0290,Logistics Coordinator,N
+CASE072,P0882,Document Handler,N
+CASE072,P0955,Document Handler,N
+CASE072,P0846,Vehicle Provider,N
+CASE072,P0883,Recruiter,N
+CASE072,P0834,Communicator,N
+CASE072,P0533,Vehicle Provider,N
+CASE072,P0920,Recruiter,N
+CASE072,P0481,Document Handler,N
+CASE072,P0541,Document Handler,N
+CASE072,P0108,Unrelated Person,Y
+CASE072,P0473,Vehicle Provider,N
+CASE072,P0670,Logistics Coordinator,N
+CASE072,P0403,Operational Member,N
+CASE072,P0289,Unrelated Person,Y
+CASE072,P0013,Logistics Coordinator,N
+CASE073,P0664,Coordinator,N
+CASE073,P0450,Financial Intermediary,N
+CASE073,P0955,False Lead,Y
+CASE073,P0235,False Lead,Y
+CASE073,P0358,False Lead,Y
+CASE073,P0286,Associate,N
+CASE073,P0572,Unrelated Person,Y
+CASE073,P0321,Document Handler,N
+CASE073,P0455,Communicator,N
+CASE073,P0409,Vehicle Provider,N
+CASE073,P0640,Operational Member,N
+CASE073,P0956,Document Handler,N
+CASE073,P0904,Communicator,N
+CASE073,P0987,Vehicle Provider,N
+CASE073,P0189,Associate,N
+CASE073,P0621,Communicator,N
+CASE073,P0830,Operational Member,N
+CASE073,P0428,Operational Member,N
+CASE073,P0547,Vehicle Provider,N
+CASE073,P0276,Associate,N
+CASE073,P0036,Vehicle Provider,N
+CASE073,P0821,Unrelated Person,Y
+CASE073,P0673,Associate,N
+CASE073,P0543,Logistics Coordinator,N
+CASE073,P0711,Communicator,N
+CASE073,P0650,Unrelated Person,Y
+CASE073,P0143,Operational Member,N
+CASE073,P0209,Communicator,N
+CASE073,P0086,Recruiter,N
+CASE073,P0626,Recruiter,N
+CASE073,P0954,Associate,N
+CASE073,P0897,Unrelated Person,Y
+CASE073,P0581,Logistics Coordinator,N
+CASE073,P0812,Communicator,N
+CASE073,P0055,Associate,N
+CASE073,P0011,Communicator,N
+CASE073,P0600,Operational Member,N
+CASE073,P0493,Unrelated Person,Y
+CASE073,P0994,Vehicle Provider,N
+CASE074,P0884,Coordinator,N
+CASE074,P0056,Financial Intermediary,N
+CASE074,P0935,False Lead,Y
+CASE074,P0898,False Lead,Y
+CASE074,P0344,False Lead,Y
+CASE074,P0398,False Lead,Y
+CASE074,P0909,False Lead,Y
+CASE074,P0845,False Lead,Y
+CASE074,P0577,False Lead,Y
+CASE074,P0329,Associate,N
+CASE074,P0251,Vehicle Provider,N
+CASE074,P0309,Vehicle Provider,N
+CASE074,P0036,Recruiter,N
+CASE074,P0821,Operational Member,N
+CASE074,P0040,Operational Member,N
+CASE074,P0498,Unrelated Person,Y
+CASE074,P0317,Operational Member,N
+CASE074,P0402,Communicator,N
+CASE074,P0875,Communicator,N
+CASE074,P0549,Communicator,N
+CASE074,P0964,Vehicle Provider,N
+CASE074,P0233,Associate,N
+CASE074,P0250,Associate,N
+CASE074,P0843,Logistics Coordinator,N
+CASE074,P0125,Logistics Coordinator,N
+CASE074,P0734,Recruiter,N
+CASE074,P0597,Associate,N
+CASE074,P0838,Vehicle Provider,N
+CASE074,P0958,Logistics Coordinator,N
+CASE074,P0683,Associate,N
+CASE074,P0308,Logistics Coordinator,N
+CASE074,P0351,Unrelated Person,Y
+CASE074,P0057,Document Handler,N
+CASE074,P0963,Document Handler,N
+CASE074,P0916,Associate,N
+CASE074,P0650,Unrelated Person,Y
+CASE074,P0401,Document Handler,N
+CASE074,P0678,Logistics Coordinator,N
+CASE074,P0372,Communicator,N
+CASE074,P0511,Recruiter,N
+CASE074,P0939,Communicator,N
+CASE074,P0934,Document Handler,N
+CASE074,P0319,Vehicle Provider,N
+CASE074,P0803,Logistics Coordinator,N
+CASE074,P0975,Document Handler,N
+CASE074,P0887,Associate,N
+CASE074,P0531,Logistics Coordinator,N
+CASE074,P0374,Document Handler,N
+CASE074,P0991,Recruiter,N
+CASE074,P0147,Unrelated Person,Y
+CASE074,P0184,Communicator,N
+CASE074,P0508,Logistics Coordinator,N
+CASE074,P0676,Unrelated Person,Y
+CASE074,P0016,Operational Member,N
+CASE074,P0500,Document Handler,N
+CASE074,P0273,Unrelated Person,Y
+CASE074,P0910,Logistics Coordinator,N
+CASE074,P0456,Operational Member,N
+CASE074,P0830,Recruiter,N
+CASE074,P0361,Recruiter,N
+CASE074,P0264,Associate,N
+CASE074,P0522,Logistics Coordinator,N
+CASE074,P0285,Communicator,N
+CASE074,P0258,Logistics Coordinator,N
+CASE074,P0217,Document Handler,N
+CASE074,P0651,Vehicle Provider,N
+CASE074,P0320,Logistics Coordinator,N
+CASE074,P0529,Unrelated Person,Y
+CASE074,P0071,Unrelated Person,Y
+CASE074,P0536,Recruiter,N
+CASE074,P0523,Communicator,N
+CASE074,P0978,Logistics Coordinator,N
+CASE075,P0460,Coordinator,N
+CASE075,P0571,Financial Intermediary,N
+CASE075,P0505,False Lead,Y
+CASE075,P0143,Operational Member,N
+CASE075,P0474,Document Handler,N
+CASE075,P0317,Vehicle Provider,N
+CASE075,P0014,Recruiter,N
+CASE076,P0947,Coordinator,N
+CASE076,P0559,Financial Intermediary,N
+CASE076,P0771,False Lead,Y
+CASE076,P0101,Associate,N
+CASE076,P0095,Vehicle Provider,N
+CASE076,P0240,Associate,N
+CASE077,P0664,Coordinator,N
+CASE077,P0775,Financial Intermediary,N
+CASE077,P0541,False Lead,Y
+CASE077,P0996,False Lead,Y
+CASE077,P0968,Vehicle Provider,N
+CASE077,P0690,Recruiter,N
+CASE077,P0343,Operational Member,N
+CASE077,P0649,Communicator,N
+CASE077,P0854,Vehicle Provider,N
+CASE077,P0397,Logistics Coordinator,N
+CASE077,P0144,Communicator,N
+CASE077,P0106,Logistics Coordinator,N
+CASE077,P0009,Vehicle Provider,N
+CASE077,P0286,Document Handler,N
+CASE077,P0352,Unrelated Person,Y
+CASE077,P0169,Logistics Coordinator,N
+CASE077,P0785,Vehicle Provider,N
+CASE077,P0572,Document Handler,N
+CASE077,P0230,Associate,N
+CASE077,P0692,Unrelated Person,Y
+CASE077,P0705,Document Handler,N
+CASE077,P0876,Communicator,N
+CASE077,P0737,Associate,N
+CASE077,P0904,Document Handler,N
+CASE077,P0436,Logistics Coordinator,N
+CASE077,P0618,Vehicle Provider,N
+CASE078,P0200,Coordinator,N
+CASE078,P0092,Financial Intermediary,N
+CASE078,P0269,False Lead,Y
+CASE078,P0711,False Lead,Y
+CASE078,P0056,False Lead,Y
+CASE078,P0128,False Lead,Y
+CASE078,P0801,False Lead,Y
+CASE078,P0346,Associate,N
+CASE078,P0248,Operational Member,N
+CASE078,P0856,Logistics Coordinator,N
+CASE078,P0052,Associate,N
+CASE078,P0832,Operational Member,N
+CASE078,P0445,Recruiter,N
+CASE078,P0107,Operational Member,N
+CASE078,P0981,Unrelated Person,Y
+CASE078,P0285,Vehicle Provider,N
+CASE078,P0148,Unrelated Person,Y
+CASE078,P0833,Vehicle Provider,N
+CASE078,P0691,Communicator,N
+CASE078,P0597,Unrelated Person,Y
+CASE078,P0864,Document Handler,N
+CASE078,P0905,Recruiter,N
+CASE078,P0612,Logistics Coordinator,N
+CASE078,P0777,Unrelated Person,Y
+CASE078,P0295,Associate,N
+CASE078,P0927,Recruiter,N
+CASE078,P0619,Communicator,N
+CASE078,P0325,Vehicle Provider,N
+CASE078,P0725,Logistics Coordinator,N
+CASE078,P0138,Vehicle Provider,N
+CASE078,P0536,Document Handler,N
+CASE078,P0985,Unrelated Person,Y
+CASE078,P0002,Document Handler,N
+CASE078,P0270,Communicator,N
+CASE078,P0240,Recruiter,N
+CASE078,P0868,Operational Member,N
+CASE078,P0658,Communicator,N
+CASE078,P0524,Recruiter,N
+CASE078,P0854,Communicator,N
+CASE078,P0489,Recruiter,N
+CASE078,P0036,Document Handler,N
+CASE078,P0160,Logistics Coordinator,N
+CASE078,P0019,Unrelated Person,Y
+CASE078,P0694,Unrelated Person,Y
+CASE078,P0796,Document Handler,N
+CASE078,P0328,Vehicle Provider,N
+CASE078,P0222,Unrelated Person,Y
+CASE078,P0969,Communicator,N
+CASE078,P0010,Unrelated Person,Y
+CASE078,P0561,Associate,N
+CASE078,P0341,Vehicle Provider,N
+CASE078,P0618,Communicator,N
+CASE078,P0701,Recruiter,N
+CASE078,P0474,Operational Member,N
+CASE078,P0225,Logistics Coordinator,N
+CASE078,P0719,Document Handler,N
+CASE079,P0701,Coordinator,N
+CASE079,P0139,Financial Intermediary,N
+CASE079,P0373,False Lead,Y
+CASE079,P0286,False Lead,Y
+CASE079,P0028,False Lead,Y
+CASE079,P0279,Bridge / Communicator,N
+CASE079,P0171,Vehicle Provider,N
+CASE079,P0267,Unrelated Person,Y
+CASE079,P0007,Vehicle Provider,N
+CASE079,P0313,Vehicle Provider,N
+CASE079,P0769,Communicator,N
+CASE079,P0451,Unrelated Person,Y
+CASE079,P0784,Operational Member,N
+CASE079,P0108,Document Handler,N
+CASE079,P0086,Operational Member,N
+CASE079,P0204,Document Handler,N
+CASE079,P0507,Communicator,N
+CASE079,P0832,Associate,N
+CASE079,P0644,Operational Member,N
+CASE079,P0837,Operational Member,N
+CASE079,P0465,Unrelated Person,Y
+CASE079,P0594,Communicator,N
+CASE079,P0867,Operational Member,N
+CASE079,P0541,Logistics Coordinator,N
+CASE079,P0066,Associate,N
+CASE079,P0341,Document Handler,N
+CASE079,P0670,Associate,N
+CASE079,P0745,Logistics Coordinator,N
+CASE079,P0210,Logistics Coordinator,N
+CASE079,P0535,Recruiter,N
+CASE079,P0704,Associate,N
+CASE079,P0746,Recruiter,N
+CASE079,P0367,Logistics Coordinator,N
+CASE080,P0303,Coordinator,N
+CASE080,P0779,Financial Intermediary,N
+CASE080,P0322,False Lead,Y
+CASE080,P0049,Document Handler,N
+CASE080,P0997,Logistics Coordinator,N
+CASE080,P0881,Vehicle Provider,N
+CASE080,P0869,Recruiter,N
+CASE080,P0699,Associate,N
+CASE080,P0105,Document Handler,N
+CASE080,P0735,Associate,N
+CASE080,P0155,Logistics Coordinator,N
+CASE080,P0131,Logistics Coordinator,N
+CASE080,P0643,Vehicle Provider,N
+CASE080,P0026,Recruiter,N
+CASE080,P0392,Unrelated Person,Y
+CASE081,P0582,Coordinator,N
+CASE081,P0548,Financial Intermediary,N
+CASE081,P0620,False Lead,Y
+CASE081,P0979,False Lead,Y
+CASE081,P0529,False Lead,Y
+CASE081,P0117,Logistics Coordinator,N
+CASE081,P0351,Unrelated Person,Y
+CASE081,P0233,Logistics Coordinator,N
+CASE081,P0433,Document Handler,N
+CASE081,P0872,Logistics Coordinator,N
+CASE081,P0789,Document Handler,N
+CASE081,P0525,Vehicle Provider,N
+CASE081,P0742,Unrelated Person,Y
+CASE081,P0493,Document Handler,N
+CASE081,P0562,Associate,N
+CASE081,P0107,Communicator,N
+CASE081,P0891,Vehicle Provider,N
+CASE081,P0429,Document Handler,N
+CASE081,P0585,Recruiter,N
+CASE081,P0499,Logistics Coordinator,N
+CASE081,P0439,Document Handler,N
+CASE081,P0075,Unrelated Person,Y
+CASE081,P0434,Operational Member,N
+CASE081,P0007,Associate,N
+CASE081,P0679,Unrelated Person,Y
+CASE081,P0505,Operational Member,N
+CASE081,P0986,Vehicle Provider,N
+CASE081,P0946,Document Handler,N
+CASE081,P0945,Document Handler,N
+CASE081,P0684,Recruiter,N
+CASE081,P0420,Recruiter,N
+CASE081,P0873,Document Handler,N
+CASE081,P0992,Document Handler,N
+CASE081,P0566,Recruiter,N
+CASE081,P0393,Vehicle Provider,N
+CASE081,P0261,Communicator,N
+CASE081,P0352,Vehicle Provider,N
+CASE081,P0295,Unrelated Person,Y
+CASE081,P0944,Logistics Coordinator,N
+CASE082,P0530,Coordinator,N
+CASE082,P0107,Financial Intermediary,N
+CASE082,P0528,False Lead,Y
+CASE082,P0042,False Lead,Y
+CASE082,P0404,False Lead,Y
+CASE082,P0279,Bridge / Communicator,N
+CASE082,P0243,Unrelated Person,Y
+CASE082,P0525,Operational Member,N
+CASE082,P0534,Unrelated Person,Y
+CASE082,P0397,Operational Member,N
+CASE082,P0701,Unrelated Person,Y
+CASE082,P0547,Operational Member,N
+CASE082,P0433,Operational Member,N
+CASE082,P0314,Document Handler,N
+CASE082,P0862,Recruiter,N
+CASE082,P0325,Recruiter,N
+CASE082,P0581,Unrelated Person,Y
+CASE082,P0284,Communicator,N
+CASE082,P0103,Vehicle Provider,N
+CASE082,P0186,Associate,N
+CASE082,P0504,Vehicle Provider,N
+CASE082,P0138,Logistics Coordinator,N
+CASE082,P0848,Recruiter,N
+CASE082,P0233,Vehicle Provider,N
+CASE082,P0614,Operational Member,N
+CASE082,P0145,Communicator,N
+CASE082,P0116,Vehicle Provider,N
+CASE082,P0248,Logistics Coordinator,N
+CASE082,P0387,Associate,N
+CASE082,P0255,Associate,N
+CASE082,P0236,Operational Member,N
+CASE083,P0241,Coordinator,N
+CASE083,P0435,Financial Intermediary,N
+CASE083,P0415,False Lead,Y
+CASE083,P0288,False Lead,Y
+CASE083,P0827,Associate,N
+CASE083,P0351,Associate,N
+CASE083,P0549,Operational Member,N
+CASE083,P0163,Communicator,N
+CASE083,P0277,Logistics Coordinator,N
+CASE083,P0661,Document Handler,N
+CASE083,P0371,Recruiter,N
+CASE083,P0321,Logistics Coordinator,N
+CASE083,P0929,Document Handler,N
+CASE083,P0793,Document Handler,N
+CASE083,P0259,Vehicle Provider,N
+CASE083,P0857,Document Handler,N
+CASE083,P0278,Associate,N
+CASE083,P0324,Recruiter,N
+CASE083,P0014,Operational Member,N
+CASE083,P0066,Recruiter,N
+CASE083,P0601,Unrelated Person,Y
+CASE083,P0671,Recruiter,N
+CASE083,P0158,Operational Member,N
+CASE083,P0229,Recruiter,N
+CASE083,P0660,Recruiter,N
+CASE083,P0052,Associate,N
+CASE083,P0850,Associate,N
+CASE083,P0247,Operational Member,N
+CASE084,P0647,Coordinator,N
+CASE084,P0862,Financial Intermediary,N
+CASE084,P0870,False Lead,Y
+CASE084,P0576,False Lead,Y
+CASE084,P0612,Operational Member,N
+CASE084,P0651,Vehicle Provider,N
+CASE084,P0198,Associate,N
+CASE084,P0960,Unrelated Person,Y
+CASE084,P0624,Recruiter,N
+CASE084,P0575,Vehicle Provider,N
+CASE084,P0567,Communicator,N
+CASE084,P0649,Logistics Coordinator,N
+CASE084,P0867,Associate,N
+CASE084,P0785,Recruiter,N
+CASE084,P0077,Associate,N
+CASE084,P0668,Operational Member,N
+CASE084,P0689,Vehicle Provider,N
+CASE084,P0096,Unrelated Person,Y
+CASE084,P0185,Logistics Coordinator,N
+CASE084,P0573,Communicator,N
+CASE084,P0699,Unrelated Person,Y
+CASE084,P0740,Unrelated Person,Y
+CASE084,P0875,Document Handler,N
+CASE084,P0719,Document Handler,N
+CASE084,P0496,Unrelated Person,Y
+CASE084,P0724,Logistics Coordinator,N
+CASE085,P0182,Coordinator,N
+CASE085,P0605,Financial Intermediary,N
+CASE085,P0426,False Lead,Y
+CASE085,P0158,Bridge / Communicator,N
+CASE085,P0957,Document Handler,N
+CASE085,P0105,Vehicle Provider,N
+CASE085,P0637,Vehicle Provider,N
+CASE085,P0577,Associate,N
+CASE085,P0329,Communicator,N
+CASE086,P0301,Coordinator,N
+CASE086,P0245,Financial Intermediary,N
+CASE086,P0751,False Lead,Y
+CASE086,P0443,Bridge / Communicator,N
+CASE086,P0771,Logistics Coordinator,N
+CASE086,P0445,Operational Member,N
+CASE086,P0839,Document Handler,N
+CASE086,P0020,Logistics Coordinator,N
+CASE086,P0469,Unrelated Person,Y
+CASE086,P0513,Associate,N
+CASE086,P0322,Associate,N
+CASE086,P0106,Recruiter,N
+CASE086,P0119,Logistics Coordinator,N
+CASE086,P0690,Logistics Coordinator,N
+CASE087,P0359,Coordinator,N
+CASE087,P0826,Financial Intermediary,N
+CASE087,P0638,False Lead,Y
+CASE087,P0857,Unrelated Person,Y
+CASE087,P0754,Recruiter,N
+CASE087,P0697,Vehicle Provider,N
+CASE087,P0024,Document Handler,N
+CASE088,P0651,Coordinator,N
+CASE088,P0187,Financial Intermediary,N
+CASE088,P0696,False Lead,Y
+CASE088,P0279,Bridge / Communicator,N
+CASE088,P0813,Document Handler,N
+CASE088,P0463,Vehicle Provider,N
+CASE088,P0985,Recruiter,N
+CASE088,P0775,Document Handler,N
+CASE088,P0016,Logistics Coordinator,N
+CASE088,P0759,Logistics Coordinator,N
+CASE088,P0714,Vehicle Provider,N
+CASE088,P0825,Recruiter,N
+CASE088,P0459,Communicator,N
+CASE089,P0172,Coordinator,N
+CASE089,P0777,Financial Intermediary,N
+CASE089,P0378,False Lead,Y
+CASE089,P0014,Associate,N
+CASE089,P0051,Vehicle Provider,N
+CASE090,P0906,Coordinator,N
+CASE090,P0623,Financial Intermediary,N
+CASE090,P0978,False Lead,Y
+CASE090,P0633,False Lead,Y
+CASE090,P0376,False Lead,Y
+CASE090,P0651,False Lead,Y
+CASE090,P0257,False Lead,Y
+CASE090,P0328,False Lead,Y
+CASE090,P0545,False Lead,Y
+CASE090,P0806,Vehicle Provider,N
+CASE090,P0749,Unrelated Person,Y
+CASE090,P0643,Operational Member,N
+CASE090,P0362,Recruiter,N
+CASE090,P0482,Logistics Coordinator,N
+CASE090,P0172,Logistics Coordinator,N
+CASE090,P0645,Document Handler,N
+CASE090,P0994,Operational Member,N
+CASE090,P0560,Recruiter,N
+CASE090,P0781,Communicator,N
+CASE090,P0263,Unrelated Person,Y
+CASE090,P0105,Document Handler,N
+CASE090,P0962,Associate,N
+CASE090,P0841,Vehicle Provider,N
+CASE090,P0316,Vehicle Provider,N
+CASE090,P0265,Logistics Coordinator,N
+CASE090,P0534,Recruiter,N
+CASE090,P0170,Vehicle Provider,N
+CASE090,P0700,Communicator,N
+CASE090,P0928,Document Handler,N
+CASE090,P0533,Associate,N
+CASE090,P0224,Communicator,N
+CASE090,P0758,Unrelated Person,Y
+CASE090,P0966,Recruiter,N
+CASE090,P0840,Operational Member,N
+CASE090,P0008,Unrelated Person,Y
+CASE090,P0486,Unrelated Person,Y
+CASE090,P0118,Logistics Coordinator,N
+CASE090,P0015,Associate,N
+CASE090,P0117,Associate,N
+CASE090,P0581,Document Handler,N
+CASE090,P0595,Document Handler,N
+CASE090,P0746,Vehicle Provider,N
+CASE090,P0067,Document Handler,N
+CASE090,P0507,Document Handler,N
+CASE090,P0195,Logistics Coordinator,N
+CASE090,P0986,Associate,N
+CASE090,P0152,Vehicle Provider,N
+CASE090,P0524,Document Handler,N
+CASE090,P0883,Unrelated Person,Y
+CASE090,P0222,Communicator,N
+CASE090,P0852,Document Handler,N
+CASE090,P0721,Logistics Coordinator,N
+CASE090,P0843,Associate,N
+CASE090,P0449,Vehicle Provider,N
+CASE090,P0078,Vehicle Provider,N
+CASE090,P0961,Logistics Coordinator,N
+CASE090,P0327,Operational Member,N
+CASE090,P0663,Recruiter,N
+CASE090,P0814,Document Handler,N
+CASE090,P0987,Operational Member,N
+CASE090,P0336,Document Handler,N
+CASE090,P0703,Operational Member,N
+CASE090,P0361,Document Handler,N
+CASE090,P0750,Communicator,N
+CASE090,P0691,Logistics Coordinator,N
+CASE090,P0847,Unrelated Person,Y
+CASE090,P0474,Unrelated Person,Y
+CASE090,P0812,Recruiter,N
+CASE090,P0086,Logistics Coordinator,N
+CASE090,P0945,Recruiter,N
+CASE090,P0348,Logistics Coordinator,N
+CASE090,P0589,Vehicle Provider,N
+CASE090,P0392,Logistics Coordinator,N
+CASE090,P0732,Unrelated Person,Y
+CASE090,P0740,Associate,N
+CASE091,P0462,Coordinator,N
+CASE091,P0095,Financial Intermediary,N
+CASE091,P0828,Bridge / Communicator,N
+CASE091,P0600,Document Handler,N
+CASE091,P0286,Logistics Coordinator,N
+CASE091,P0738,Logistics Coordinator,N
+CASE091,P0048,Vehicle Provider,N
+CASE091,P0657,Unrelated Person,Y
+CASE092,P0706,Coordinator,N
+CASE092,P0980,Financial Intermediary,N
+CASE092,P0136,False Lead,Y
+CASE092,P0472,Logistics Coordinator,N
+CASE092,P0024,Unrelated Person,Y
+CASE092,P0309,Operational Member,N
+CASE092,P0822,Communicator,N
+CASE092,P0232,Associate,N
+CASE092,P0187,Associate,N
+CASE092,P0840,Vehicle Provider,N
+CASE092,P0020,Operational Member,N
+CASE092,P0842,Associate,N
+CASE092,P0668,Document Handler,N
+CASE093,P0531,Coordinator,N
+CASE093,P0332,Financial Intermediary,N
+CASE093,P0455,False Lead,Y
+CASE093,P0723,Operational Member,N
+CASE093,P0811,Recruiter,N
+CASE093,P0039,Operational Member,N
+CASE093,P0583,Unrelated Person,Y
+CASE093,P0311,Associate,N
+CASE094,P0681,Coordinator,N
+CASE094,P0502,Financial Intermediary,N
+CASE094,P0255,False Lead,Y
+CASE094,P0269,False Lead,Y
+CASE094,P0954,False Lead,Y
+CASE094,P0268,False Lead,Y
+CASE094,P0286,False Lead,Y
+CASE094,P0733,Vehicle Provider,N
+CASE094,P0200,Logistics Coordinator,N
+CASE094,P0825,Communicator,N
+CASE094,P0104,Operational Member,N
+CASE094,P0638,Vehicle Provider,N
+CASE094,P0910,Recruiter,N
+CASE094,P0266,Vehicle Provider,N
+CASE094,P0777,Operational Member,N
+CASE094,P0979,Vehicle Provider,N
+CASE094,P0866,Associate,N
+CASE094,P0226,Logistics Coordinator,N
+CASE094,P0765,Logistics Coordinator,N
+CASE094,P0907,Unrelated Person,Y
+CASE094,P0750,Logistics Coordinator,N
+CASE094,P0372,Associate,N
+CASE094,P0186,Communicator,N
+CASE094,P0043,Communicator,N
+CASE094,P0921,Communicator,N
+CASE094,P0088,Operational Member,N
+CASE094,P0783,Operational Member,N
+CASE094,P0356,Logistics Coordinator,N
+CASE094,P0171,Communicator,N
+CASE094,P0228,Associate,N
+CASE094,P0437,Logistics Coordinator,N
+CASE094,P0352,Associate,N
+CASE094,P0501,Recruiter,N
+CASE094,P0841,Document Handler,N
+CASE094,P0865,Communicator,N
+CASE094,P0939,Logistics Coordinator,N
+CASE094,P0198,Unrelated Person,Y
+CASE094,P0026,Communicator,N
+CASE094,P0699,Operational Member,N
+CASE094,P0100,Logistics Coordinator,N
+CASE094,P0562,Vehicle Provider,N
+CASE094,P0637,Unrelated Person,Y
+CASE094,P0061,Operational Member,N
+CASE094,P0278,Recruiter,N
+CASE094,P0419,Logistics Coordinator,N
+CASE094,P0076,Communicator,N
+CASE094,P0872,Recruiter,N
+CASE094,P0067,Communicator,N
+CASE094,P0080,Communicator,N
+CASE094,P0902,Associate,N
+CASE094,P0151,Unrelated Person,Y
+CASE094,P0057,Logistics Coordinator,N
+CASE094,P0032,Logistics Coordinator,N
+CASE095,P0236,Coordinator,N
+CASE095,P0682,Financial Intermediary,N
+CASE095,P0125,False Lead,Y
+CASE095,P0315,False Lead,Y
+CASE095,P0933,Recruiter,N
+CASE095,P0661,Operational Member,N
+CASE095,P0653,Document Handler,N
+CASE095,P0987,Logistics Coordinator,N
+CASE095,P0260,Vehicle Provider,N
+CASE095,P0207,Communicator,N
+CASE095,P0814,Associate,N
+CASE095,P0519,Vehicle Provider,N
+CASE095,P0679,Logistics Coordinator,N
+CASE095,P0802,Vehicle Provider,N
+CASE095,P0652,Logistics Coordinator,N
+CASE095,P0224,Vehicle Provider,N
+CASE095,P0497,Unrelated Person,Y
+CASE095,P0729,Vehicle Provider,N
+CASE095,P0637,Logistics Coordinator,N
+CASE095,P0546,Document Handler,N
+CASE095,P0426,Unrelated Person,Y
+CASE095,P0876,Communicator,N
+CASE096,P0673,Coordinator,N
+CASE096,P0331,Financial Intermediary,N
+CASE096,P0332,False Lead,Y
+CASE096,P0692,False Lead,Y
+CASE096,P0546,False Lead,Y
+CASE096,P0812,False Lead,Y
+CASE096,P0818,False Lead,Y
+CASE096,P0997,False Lead,Y
+CASE096,P0279,Bridge / Communicator,N
+CASE096,P0304,Associate,N
+CASE096,P0851,Recruiter,N
+CASE096,P0238,Operational Member,N
+CASE096,P0198,Document Handler,N
+CASE096,P0660,Recruiter,N
+CASE096,P0907,Vehicle Provider,N
+CASE096,P0588,Recruiter,N
+CASE096,P0947,Logistics Coordinator,N
+CASE096,P0788,Operational Member,N
+CASE096,P0883,Logistics Coordinator,N
+CASE096,P0092,Vehicle Provider,N
+CASE096,P0285,Unrelated Person,Y
+CASE096,P0809,Operational Member,N
+CASE096,P0383,Communicator,N
+CASE096,P0605,Vehicle Provider,N
+CASE096,P0290,Associate,N
+CASE096,P0561,Logistics Coordinator,N
+CASE096,P0334,Recruiter,N
+CASE096,P0981,Associate,N
+CASE096,P0162,Recruiter,N
+CASE096,P0338,Operational Member,N
+CASE096,P0184,Document Handler,N
+CASE096,P0597,Recruiter,N
+CASE096,P0576,Associate,N
+CASE096,P0865,Communicator,N
+CASE096,P0448,Logistics Coordinator,N
+CASE096,P0461,Operational Member,N
+CASE096,P0256,Vehicle Provider,N
+CASE096,P0654,Recruiter,N
+CASE096,P0429,Recruiter,N
+CASE096,P0591,Vehicle Provider,N
+CASE096,P0980,Associate,N
+CASE096,P0158,Document Handler,N
+CASE096,P0301,Logistics Coordinator,N
+CASE096,P0884,Document Handler,N
+CASE096,P0249,Unrelated Person,Y
+CASE096,P0458,Vehicle Provider,N
+CASE096,P0674,Associate,N
+CASE096,P0743,Associate,N
+CASE096,P0072,Recruiter,N
+CASE096,P0362,Operational Member,N
+CASE096,P0214,Logistics Coordinator,N
+CASE096,P0211,Vehicle Provider,N
+CASE096,P0550,Unrelated Person,Y
+CASE096,P0045,Unrelated Person,Y
+CASE096,P0121,Recruiter,N
+CASE096,P0431,Communicator,N
+CASE096,P0790,Communicator,N
+CASE096,P0364,Unrelated Person,Y
+CASE096,P0227,Recruiter,N
+CASE096,P0294,Unrelated Person,Y
+CASE096,P0849,Recruiter,N
+CASE096,P0459,Communicator,N
+CASE096,P0084,Document Handler,N
+CASE096,P0656,Unrelated Person,Y
+CASE096,P0414,Document Handler,N
+CASE096,P0363,Unrelated Person,Y
+CASE096,P0102,Associate,N
+CASE097,P0890,Coordinator,N
+CASE097,P0664,Financial Intermediary,N
+CASE097,P0862,False Lead,Y
+CASE097,P0658,False Lead,Y
+CASE097,P0974,Bridge / Communicator,N
+CASE097,P0788,Unrelated Person,Y
+CASE097,P0676,Unrelated Person,Y
+CASE097,P0900,Unrelated Person,Y
+CASE097,P0714,Vehicle Provider,N
+CASE097,P0717,Document Handler,N
+CASE097,P0928,Logistics Coordinator,N
+CASE097,P0678,Vehicle Provider,N
+CASE097,P0003,Vehicle Provider,N
+CASE097,P0340,Unrelated Person,Y
+CASE097,P0535,Vehicle Provider,N
+CASE097,P0045,Operational Member,N
+CASE097,P0190,Logistics Coordinator,N
+CASE097,P0391,Communicator,N
+CASE097,P0792,Operational Member,N
+CASE097,P0593,Communicator,N
+CASE097,P0059,Vehicle Provider,N
+CASE097,P0299,Associate,N
+CASE098,P0224,Coordinator,N
+CASE098,P0103,Financial Intermediary,N
+CASE098,P0241,False Lead,Y
+CASE098,P0690,Logistics Coordinator,N
+CASE099,P0519,Coordinator,N
+CASE099,P0935,Financial Intermediary,N
+CASE099,P0062,False Lead,Y
+CASE099,P0599,False Lead,Y
+CASE099,P0677,False Lead,Y
+CASE099,P0931,False Lead,Y
+CASE099,P0134,False Lead,Y
+CASE099,P0777,False Lead,Y
+CASE099,P0061,False Lead,Y
+CASE099,P0229,Operational Member,N
+CASE099,P0270,Vehicle Provider,N
+CASE099,P0001,Communicator,N
+CASE099,P0246,Unrelated Person,Y
+CASE099,P0158,Recruiter,N
+CASE099,P0534,Logistics Coordinator,N
+CASE099,P0934,Recruiter,N
+CASE099,P0701,Unrelated Person,Y
+CASE099,P0230,Associate,N
+CASE099,P0666,Communicator,N
+CASE099,P0971,Logistics Coordinator,N
+CASE099,P0649,Recruiter,N
+CASE099,P0319,Unrelated Person,Y
+CASE099,P0476,Unrelated Person,Y
+CASE099,P0469,Unrelated Person,Y
+CASE099,P0918,Vehicle Provider,N
+CASE099,P0066,Logistics Coordinator,N
+CASE099,P0977,Unrelated Person,Y
+CASE099,P0700,Vehicle Provider,N
+CASE099,P0650,Operational Member,N
+CASE099,P0771,Unrelated Person,Y
+CASE099,P0038,Communicator,N
+CASE099,P0808,Recruiter,N
+CASE099,P0716,Logistics Coordinator,N
+CASE099,P0558,Recruiter,N
+CASE099,P0118,Associate,N
+CASE099,P0682,Recruiter,N
+CASE099,P0611,Logistics Coordinator,N
+CASE099,P0132,Operational Member,N
+CASE099,P0778,Vehicle Provider,N
+CASE099,P0799,Vehicle Provider,N
+CASE099,P0289,Vehicle Provider,N
+CASE099,P0513,Logistics Coordinator,N
+CASE099,P0169,Document Handler,N
+CASE099,P0624,Associate,N
+CASE099,P0437,Logistics Coordinator,N
+CASE099,P0457,Vehicle Provider,N
+CASE099,P0082,Vehicle Provider,N
+CASE099,P0815,Communicator,N
+CASE099,P0717,Operational Member,N
+CASE099,P0396,Communicator,N
+CASE099,P0911,Unrelated Person,Y
+CASE099,P0678,Communicator,N
+CASE099,P0614,Recruiter,N
+CASE099,P0190,Unrelated Person,Y
+CASE099,P0968,Vehicle Provider,N
+CASE099,P0630,Document Handler,N
+CASE099,P0107,Communicator,N
+CASE099,P0388,Operational Member,N
+CASE099,P0272,Operational Member,N
+CASE099,P0375,Vehicle Provider,N
+CASE099,P0401,Associate,N
+CASE099,P0427,Recruiter,N
+CASE099,P0350,Vehicle Provider,N
+CASE099,P0572,Logistics Coordinator,N
+CASE099,P0706,Recruiter,N
+CASE099,P0471,Vehicle Provider,N
+CASE099,P0535,Recruiter,N
+CASE099,P0097,Document Handler,N
+CASE099,P0282,Logistics Coordinator,N
+CASE099,P0423,Recruiter,N
+CASE099,P0510,Document Handler,N
+CASE099,P0913,Logistics Coordinator,N
+CASE099,P0866,Vehicle Provider,N
+CASE099,P0333,Recruiter,N
+CASE099,P0425,Recruiter,N
+CASE099,P0769,Operational Member,N
+CASE099,P0010,Logistics Coordinator,N
+CASE099,P0833,Recruiter,N
+CASE100,P0789,Coordinator,N
+CASE100,P0478,Financial Intermediary,N
+CASE100,P0348,False Lead,Y
+CASE100,P0625,Bridge / Communicator,N
+CASE100,P0863,Vehicle Provider,N
+CASE100,P0643,Operational Member,N
+CASE100,P0098,Communicator,N
+CASE100,P0019,Recruiter,N
+CASE100,P0946,Unrelated Person,Y
+CASE100,P0957,Associate,N
+CASE100,P0598,Associate,N
+CASE100,P0989,Vehicle Provider,N
+CASE100,P0306,Associate,N
+CASE100,P0198,Logistics Coordinator,N
+CASE100,P0950,Unrelated Person,Y
+CASE100,P0674,Logistics Coordinator,N

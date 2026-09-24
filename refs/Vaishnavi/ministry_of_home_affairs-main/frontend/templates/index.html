@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI-Powered Criminal Network Analysis System | MHA Blueprint</title>
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+  <!-- Top App Header -->
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="mha-emblem">🛡️</div>
+      <div>
+        <div class="brand-title">
+          <span>CRIMINAL NETWORK ANALYSIS SYSTEM</span>
+          <span class="role-badge" style="font-size:10px; background:rgba(6,182,212,0.15); color:var(--accent-cyan);">MHA CCTNS / OCND</span>
+        </div>
+        <div class="brand-subtitle">Ministry of Home Affairs • Intelligence & Graph-ML Prototype</div>
+      </div>
+    </div>
+
+    <!-- Live Network Metrics -->
+    <div class="header-metrics">
+      <div class="metric-pill">
+        <span class="dot green"></span>
+        <span id="metricTotalNodes">-- Nodes</span>
+      </div>
+      <div class="metric-pill">
+        <span class="dot blue"></span>
+        <span id="metricTotalEdges">-- Edges</span>
+      </div>
+      <!-- Global Search -->
+      <div style="position:relative; width:260px;">
+        <input type="text" id="globalSearchInput" class="form-control" placeholder="🔍 Search suspect, phone, car, FIR..." style="padding:6px 12px; font-size:12px; border-radius:20px;">
+      </div>
+    </div>
+
+    <!-- User Profile & Role Switcher -->
+    <div class="header-user-section">
+      <span id="headerOfficerName" style="font-size:12px; font-weight:600; color:var(--text-main);">Insp. Rajesh Kumar</span>
+      <span id="headerRoleBadge" class="role-badge">Investigating Officer</span>
+      <select id="headerRoleSelect" class="role-select" title="Switch Demonstration Role">
+        <option value="io_rajesh">👮 Insp. Rajesh (Investigating Officer)</option>
+        <option value="analyst_priya">🧠 Priya Nair (Intelligence Analyst)</option>
+        <option value="auditor_verma">⚖️ Sunil Verma (Compliance Auditor)</option>
+        <option value="admin">🔑 Dr. V. K. Sharma (MHA Admin)</option>
+      </select>
+    </div>
+  </header>
+
+  <!-- Main Layout -->
+  <div class="app-container">
+
+    <!-- Left Navigation Sidebar -->
+    <aside class="app-sidebar">
+      <ul class="nav-menu">
+        <li class="nav-item active" data-view="graph">
+          <span class="icon">🌐</span>
+          <span>Network Explorer</span>
+        </li>
+        <li class="nav-item" data-view="intake">
+          <span class="icon">📝</span>
+          <span>FIR & Case Intake</span>
+        </li>
+        <li class="nav-item" data-view="analytics">
+          <span class="icon">🏆</span>
+          <span>Key Players & Clusters</span>
+        </li>
+        <li class="nav-item" data-view="jurisdictions">
+          <span class="icon">🚨</span>
+          <span>Cross-Jurisdiction Radar</span>
+          <span id="navAlertsCount" class="badge-count">0</span>
+        </li>
+        <li class="nav-item" data-view="link-prediction">
+          <span class="icon">🔮</span>
+          <span>Link Prediction</span>
+        </li>
+        <li class="nav-item" data-view="audit">
+          <span class="icon">🛡️</span>
+          <span>Audit Trail & Integrity</span>
+        </li>
+        <li class="nav-item" data-view="blueprint">
+          <span class="icon">📚</span>
+          <span>Architecture & Blueprint</span>
+        </li>
+      </ul>
+
+      <!-- Sidebar Footer -->
+      <div class="sidebar-footer">
+        <button id="btnResetSynthetic" class="btn-reset-data" title="Re-seed all 3 Indian Crime Syndicates">
+          🔄 Reset Synthetic Data
+        </button>
+      </div>
+    </aside>
+
+    <!-- Center / Main Workspace Area -->
+    <main class="app-content">
+
+      <!-- VIEW 1: Network Graph Explorer -->
+      <section id="view-graph" class="view-panel active" style="padding:14px;">
+        <div class="graph-view-container">
+          
+          <div class="graph-canvas-wrapper">
+            <!-- Canvas Graph -->
+            <canvas id="networkCanvas"></canvas>
+
+            <!-- Graph Filter & Controls Bar -->
+            <div class="graph-controls-overlay">
+              <select id="filterNodeType" class="form-control" style="width:140px; font-size:11px; padding:5px 8px; background:var(--bg-glass);">
+                <option value="">All Entities</option>
+                <option value="Person">Suspects (Person)</option>
+                <option value="Case">Cases / FIRs</option>
+                <option value="Organization">Organizations</option>
+                <option value="Vehicle">Vehicles</option>
+                <option value="FinancialAccount">Financial Accounts</option>
+                <option value="CommunicationRecord">Phones</option>
+              </select>
+
+              <select id="filterCrimeCategory" class="form-control" style="width:160px; font-size:11px; padding:5px 8px; background:var(--bg-glass);">
+                <option value="">All Crime Categories</option>
+                <option value="Cyber Fraud & Phishing">Cyber Fraud & Phishing</option>
+                <option value="Hawala & Terror Financing">Hawala & Terror Financing</option>
+                <option value="Interstate Vehicle Theft">Interstate Vehicle Theft</option>
+                <option value="Organized Crime & Extortion">Organized Crime</option>
+              </select>
+
+              <button id="btnToggleClusterColor" class="btn btn-secondary" style="font-size:11px; padding:5px 10px;">
+                🎨 Color by Gang Cluster
+              </button>
+            </div>
+
+            <!-- Legend Overlay -->
+            <div class="graph-legend-overlay">
+              <div class="legend-item"><span class="legend-dot" style="background:#EF4444;"></span> Critical Kingpin</div>
+              <div class="legend-item"><span class="legend-dot" style="background:#F59E0B;"></span> Core Broker</div>
+              <div class="legend-item"><span class="legend-dot" style="background:#38BDF8;"></span> Operative / Mule</div>
+              <div class="legend-item"><span class="legend-dot" style="background:#6366F1;"></span> FIR Case</div>
+              <div class="legend-item"><span class="legend-dot" style="background:#EC4899;"></span> Organization</div>
+              <div class="legend-item"><span class="legend-dot" style="background:#8B5CF6;"></span> Account</div>
+            </div>
+          </div>
+
+          <!-- Right Node Inspector Drawer -->
+          <div id="graphInspectorPanel" class="graph-inspector-panel">
+            <div style="text-align:center; padding:30px 10px; color:var(--text-dim);">
+              <div style="font-size:32px; margin-bottom:8px;">🎯</div>
+              <strong>Select any Entity Node</strong>
+              <div style="font-size:12px; margin-top:4px;">Click on a suspect, case, vehicle, or account on the canvas to inspect connections and risk metrics.</div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- VIEW 2: FIR & Case Intake Studio -->
+      <section id="view-intake" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">📝 FIR & Case Intake Studio</div>
+            <div class="panel-subtitle">Ingest structured case records with real-time NLP entity recognition and graph linking</div>
+          </div>
+          <!-- Preset Scenario Buttons -->
+          <div style="display:flex; gap:8px;">
+            <span style="font-size:12px; color:var(--text-muted); align-self:center;">Load Demonstration Preset:</span>
+            <button class="btn btn-secondary btn-load-preset" data-preset="cyber" style="font-size:11px; padding:5px 10px;">
+              💻 Mewat Cyber Scam
+            </button>
+            <button class="btn btn-secondary btn-load-preset" data-preset="hawala" style="font-size:11px; padding:5px 10px;">
+              💰 Hawala Bullion
+            </button>
+            <button class="btn btn-secondary btn-load-preset" data-preset="vehicle" style="font-size:11px; padding:5px 10px;">
+              🚗 SUV Lifting Gang
+            </button>
+          </div>
+        </div>
+
+        <form id="caseIntakeForm" style="display:grid; grid-template-columns: 340px 1fr; gap:18px;">
+          <!-- Left: Structured Form Fields -->
+          <div class="glass-card">
+            <div class="form-group">
+              <label class="form-label">FIR Number *</label>
+              <input type="text" id="caseFirNumber" class="form-control" placeholder="e.g. 512/2026" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Police Station *</label>
+              <input type="text" id="caseStation" class="form-control" placeholder="e.g. Cyber Crime PS Rohini" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label">State / Jurisdiction</label>
+              <input type="text" id="caseState" class="form-control" value="Delhi" placeholder="State">
+            </div>
+            <div class="form-group">
+              <label class="form-label">Law Enforcement Agency (OCND)</label>
+              <select id="caseJurisdictionSelect" class="form-control"></select>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Crime Category</label>
+              <select id="caseCategorySelect" class="form-control">
+                <option value="Cyber Fraud & Phishing">Cyber Fraud & Phishing</option>
+                <option value="Hawala & Terror Financing">Hawala & Terror Financing</option>
+                <option value="Organized Crime & Extortion">Organized Crime & Extortion</option>
+                <option value="Interstate Vehicle Theft">Interstate Vehicle Theft</option>
+                <option value="Narcotics & Drug Trafficking">Narcotics & Drug Trafficking</option>
+                <option value="Fake Indian Currency Notes (FICN)">Fake Indian Currency (FICN)</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Investigating Officer (I.O.)</label>
+              <input type="text" id="caseIO" class="form-control" placeholder="e.g. Insp. Rajesh Kumar">
+            </div>
+            <button type="submit" class="btn btn-primary" style="width:100%; justify-content:center; margin-top:8px;">
+              ⚡ Ingest & Link into Network Graph
+            </button>
+          </div>
+
+          <!-- Right: Free-Text Case Narrative & Real-Time NLP Analyzer -->
+          <div style="display:flex; flex-direction:column; gap:14px;">
+            <div class="glass-card" style="flex:1; display:flex; flex-direction:column;">
+              <label class="form-label" style="font-size:13px; font-weight:700; color:var(--accent-blue);">
+                Case Narrative / Confession Statement (Free Text)
+              </label>
+              <textarea id="caseNarrativeInput" class="form-control" style="flex:1; min-height:160px;" placeholder="Paste FIR narrative, interrogation transcripts, or chargesheet details here. The AI NLP engine will extract suspects, phone numbers, vehicle numbers, bank accounts, and aliases in real-time..."></textarea>
+            </div>
+
+            <!-- NLP Real-Time Output Badges -->
+            <div class="glass-card">
+              <div id="nlpCategoryPrediction" style="border-bottom:1px solid var(--border-subtle); padding-bottom:8px; margin-bottom:10px;">
+                <span class="text-dim">AI Category Predictor ready...</span>
+              </div>
+              <div style="font-weight:700; font-size:12px; color:var(--text-muted); margin-bottom:8px;">
+                Extracted Entities & Relationships (Real-Time Tags):
+              </div>
+              <div id="nlpEntityPreview" style="min-height:48px;">
+                <span class="text-dim">Paste or type FIR narrative to see real-time AI entity recognition tags...</span>
+              </div>
+            </div>
+          </div>
+        </form>
+      </section>
+
+      <!-- VIEW 3: Key Players & Community Clusters -->
+      <section id="view-analytics" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">🏆 Key Players Leaderboard & Syndicate Cells</div>
+            <div class="panel-subtitle">Centrality metrics, Louvain gang clusters, and multi-hop shortest path solver</div>
+          </div>
+          <span id="modularityScoreBadge" class="role-badge" style="font-size:12px;">Modularity: --</span>
+        </div>
+
+        <!-- Shortest Path Query Bar -->
+        <div class="glass-card" style="margin-bottom:16px;">
+          <form id="shortestPathForm" style="display:flex; gap:12px; align-items:flex-end;">
+            <div style="flex:1;">
+              <label class="form-label">Suspect Alpha (Source)</label>
+              <select id="pathSourceSelect" class="form-control"></select>
+            </div>
+            <div style="flex:1;">
+              <label class="form-label">Suspect Beta (Target)</label>
+              <select id="pathTargetSelect" class="form-control"></select>
+            </div>
+            <button type="submit" class="btn btn-primary">
+              ⚡ Find Shortest Path
+            </button>
+          </form>
+          <div id="shortestPathResult"></div>
+        </div>
+
+        <!-- Community Clusters Cards -->
+        <div style="margin-bottom:16px;">
+          <div style="font-size:14px; font-weight:700; color:var(--text-main); margin-bottom:8px;">
+            🧩 Detected Crime Cells & Gangs (Louvain Method)
+          </div>
+          <div id="communitiesContainer" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:12px;"></div>
+        </div>
+
+        <!-- Key Players Table -->
+        <div class="glass-card">
+          <div style="font-size:14px; font-weight:700; color:var(--text-main); margin-bottom:10px;">
+            👑 Composite Suspect Risk & Centrality Ranking
+          </div>
+          <div class="data-table-container">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Suspect Name</th>
+                  <th>Operational Role</th>
+                  <th>Composite Risk (0-100)</th>
+                  <th>PageRank</th>
+                  <th>Betweenness</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody id="keyPlayersTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 4: Cross-Jurisdiction Syndicate Radar (OCND) -->
+      <section id="view-jurisdictions" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">🚨 Cross-Jurisdiction Syndicate Radar</div>
+            <div class="panel-subtitle">National Organized Crime Network Database (OCND) & CCTNS multi-station overlap detector</div>
+          </div>
+          <span class="badge-risk critical" id="jurisdictionAlertsBadge">0 Overlaps</span>
+        </div>
+
+        <div id="jurisdictionAlertsContainer"></div>
+      </section>
+
+      <!-- VIEW 5: Link Prediction & Missing Associates -->
+      <section id="view-link-prediction" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">🔮 Link Prediction & Hidden Associates</div>
+            <div class="panel-subtitle">Topological proximity AI models (Adamic-Adar, Jaccard) suggesting unrecorded relationships</div>
+          </div>
+        </div>
+
+        <div class="glass-card">
+          <div class="data-table-container">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Entity A</th>
+                  <th>Entity B</th>
+                  <th>Confidence</th>
+                  <th>Explainable Evidence & Common Associates</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody id="linkPredictionsTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 6: Audit Trail & Integrity Verification -->
+      <section id="view-audit" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">🛡️ Tamper-Evident SHA-256 Audit Trail</div>
+            <div class="panel-subtitle">Cryptographically chained evidentiary ledger of every investigator query, view, and export</div>
+          </div>
+          <button id="btnVerifyChain" class="btn btn-primary">
+            🛡️ Run Cryptographic Verification
+          </button>
+        </div>
+
+        <div id="chainStatusBadge" style="margin-bottom:14px;"></div>
+
+        <div class="glass-card">
+          <div class="data-table-container">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Seq #</th>
+                  <th>Timestamp (UTC)</th>
+                  <th>Officer</th>
+                  <th>Action</th>
+                  <th>Entity Target</th>
+                  <th>Previous Hash Pointer</th>
+                  <th>Current Block Hash (SHA-256)</th>
+                </tr>
+              </thead>
+              <tbody id="auditLogsTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 7: Architecture & MHA Blueprint Reference -->
+      <section id="view-blueprint" class="view-panel">
+        <div class="panel-header">
+          <div>
+            <div class="panel-title">📚 Architecture & MHA Project Blueprint Reference</div>
+            <div class="panel-subtitle">Technical documentation, schema specifications, and evaluation benchmarks</div>
+          </div>
+        </div>
+
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px;">
+          <div class="glass-card">
+            <div style="font-weight:700; color:var(--accent-blue); font-size:15px; margin-bottom:8px;">
+              🏛️ Alignment with Indian Law Enforcement Initiatives
+            </div>
+            <ul style="font-size:13px; color:var(--text-muted); display:flex; flex-direction:column; gap:8px; padding-left:16px;">
+              <li><strong>CCTNS (NCRB):</strong> Ingests FIRs and crime records across stations for unified relational linkage.</li>
+              <li><strong>OCND (NIA & NATGRID):</strong> Surfaces cross-state links where the same suspect, vehicle, or phone appears in multiple jurisdictions.</li>
+              <li><strong>I4C (Cyber Crime Coordination Centre):</strong> NLP text extraction, mule account clustering, and cyber scam classification.</li>
+              <li><strong>SIMBA / Crime GPT:</strong> Fast suspect profiling, network visualization, and multi-hop connection queries.</li>
+            </ul>
+          </div>
+
+          <div class="glass-card">
+            <div style="font-weight:700; color:var(--accent-cyan); font-size:15px; margin-bottom:8px;">
+              🔬 AI, NLP & Graph-ML Engine Components
+            </div>
+            <ul style="font-size:13px; color:var(--text-muted); display:flex; flex-direction:column; gap:8px; padding-left:16px;">
+              <li><strong>Entity Extraction (NER):</strong> Regex + Pattern token extraction for Indian phones, vehicles, bank accounts, and aliases.</li>
+              <li><strong>Entity Resolution:</strong> Levenshtein & Jaro-Winkler fuzzy deduplication with human-in-the-loop merge controls.</li>
+              <li><strong>Centrality Algorithms:</strong> Degree, Betweenness (broker detection), Closeness, and PageRank (kingpin identification).</li>
+              <li><strong>Louvain Modularity:</strong> Partitioning of network into distinct operational gangs/cells.</li>
+              <li><strong>Link Prediction:</strong> Adamic-Adar & Jaccard index scoring for hidden accomplice discovery.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- 360° Suspect Investigation Dossier Modal -->
+  <div id="dossierModal" class="modal-overlay">
+    <div class="modal-card" style="width:850px;">
+      <div style="display:flex; justify-content:flex-end;">
+        <button class="btn btn-secondary" onclick="window.SuspectDossier?.closeDossier()" style="padding:4px 10px;">✕ Close</button>
+      </div>
+      <div id="dossierModalContent"></div>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div id="toastContainer"></div>
+
+  <!-- JavaScript Modules -->
+  <script src="/static/js/auth.js"></script>
+  <script src="/static/js/graph_viz.js"></script>
+  <script src="/static/js/case_intake.js"></script>
+  <script src="/static/js/analytics_view.js"></script>
+  <script src="/static/js/cross_jurisdiction.js"></script>
+  <script src="/static/js/suspect_dossier.js"></script>
+  <script src="/static/js/audit_logs.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,301 @@
+location_id:ID(Location),location_name
+LOC0001,Transport Nagar Railway Station
+LOC0002,Phase 5 Industrial Estate Bus Terminal
+LOC0003,Sector 29 Storage Yard
+LOC0004,Phase 7 Industrial Estate Public Ground
+LOC0005,New Township Sector 50 Logistics Warehouse
+LOC0006,Commercial Block C Bus Terminal
+LOC0007,Commercial Block D Business Tower
+LOC0008,Civil Lines Market
+LOC0009,Housing Board Colony Public Ground
+LOC0010,Housing Board Colony Industrial Estate
+LOC0011,Model Town Block D Public Ground
+LOC0012,Transport Nagar Housing Complex
+LOC0013,Housing Board Colony Multi-level Parking
+LOC0014,Housing Board Colony Dhaba
+LOC0015,Railway Colony Community Park
+LOC0016,New Township Sector 53 Dhaba
+LOC0017,Phase 8 Industrial Estate Trade Centre
+LOC0018,Phase 27 Industrial Estate Multi-level Parking
+LOC0019,Hotel Model Town Block D Regency
+LOC0020,New Township Sector 22 Public Parking
+LOC0021,Phase 59 Industrial Estate Bus Terminal
+LOC0022,New Township Sector 32 Trade Centre
+LOC0023,Model Town Block A Dhaba
+LOC0024,Old City Market Commercial Complex
+LOC0025,Phase 45 Industrial Estate Dhaba
+LOC0026,Transport Nagar Trade Centre
+LOC0027,Civil Lines Logistics Warehouse
+LOC0028,New Township Sector 19 Multi-level Parking
+LOC0029,New Township Sector 11 Public Ground
+LOC0030,Sector 59 Corporate Plaza
+LOC0031,Old City Market Market
+LOC0032,Railway Colony Inn
+LOC0033,Railway Colony Inn
+LOC0034,Sector 39 Railway Station
+LOC0035,Old City Market Trade Centre
+LOC0036,Sector 14 Storage Yard
+LOC0037,Hotel Transport Nagar Regency
+LOC0038,Sector 19 Community Park
+LOC0039,Phase 51 Industrial Estate Market
+LOC0040,New Township Sector 54 Warehouse Zone
+LOC0041,Civil Lines Railway Station
+LOC0042,Transport Nagar Industrial Estate
+LOC0043,New Township Sector 41 Bus Terminal
+LOC0044,Railway Colony Warehouse Zone
+LOC0045,Commercial Block A Industrial Estate
+LOC0046,Sector 24 Trade Centre
+LOC0047,Commercial Block A Market
+LOC0048,Hotel Model Town Block B Regency
+LOC0049,Transport Nagar Logistics Warehouse
+LOC0050,Phase 59 Industrial Estate Railway Station
+LOC0051,Old City Market Multi-level Parking
+LOC0052,Commercial Block D Industrial Estate
+LOC0053,Phase 31 Industrial Estate Dhaba
+LOC0054,Phase 19 Industrial Estate Residency
+LOC0055,Sector 21 Residency
+LOC0056,Housing Board Colony Railway Station
+LOC0057,Transport Nagar Inn
+LOC0058,Old City Market Inn
+LOC0059,Sector 28 Market
+LOC0060,New Township Sector 26 Warehouse Zone
+LOC0061,Civil Lines Dhaba
+LOC0062,Phase 3 Industrial Estate Apartments
+LOC0063,Civil Lines Industrial Estate
+LOC0064,Housing Board Colony Family Restaurant
+LOC0065,Housing Board Colony Public Ground
+LOC0066,Housing Board Colony Inn
+LOC0067,Commercial Block D Corporate Plaza
+LOC0068,Phase 41 Industrial Estate Logistics Warehouse
+LOC0069,Railway Colony Market
+LOC0070,Phase 46 Industrial Estate Storage Yard
+LOC0071,Hotel Civil Lines Regency
+LOC0072,New Township Sector 18 Storage Yard
+LOC0073,Railway Colony Logistics Warehouse
+LOC0074,Sector 48 Public Parking
+LOC0075,Old City Market Residency
+LOC0076,Phase 29 Industrial Estate Community Park
+LOC0077,Civil Lines Corporate Plaza
+LOC0078,New Township Sector 29 Multi-level Parking
+LOC0079,Commercial Block B Trade Centre
+LOC0080,Housing Board Colony Business Tower
+LOC0081,Sector 20 Apartments
+LOC0082,New Township Sector 7 Dhaba
+LOC0083,Model Town Block D Commercial Complex
+LOC0084,New Township Sector 31 Public Ground
+LOC0085,Transport Nagar Community Park
+LOC0086,Sector 54 Railway Station
+LOC0087,Old City Market Commercial Complex
+LOC0088,Phase 59 Industrial Estate Public Ground
+LOC0089,Hotel Old City Market Regency
+LOC0090,Phase 26 Industrial Estate Inn
+LOC0091,Transport Nagar Inn
+LOC0092,New Township Sector 58 Trade Centre
+LOC0093,Railway Colony Family Restaurant
+LOC0094,Sector 34 Warehouse Zone
+LOC0095,Model Town Block B Storage Yard
+LOC0096,Old City Market Community Park
+LOC0097,Transport Nagar Public Parking
+LOC0098,Sector 53 Public Parking
+LOC0099,Railway Colony Warehouse Zone
+LOC0100,Housing Board Colony Railway Station
+LOC0101,Phase 45 Industrial Estate Industrial Estate
+LOC0102,Sector 30 Family Restaurant
+LOC0103,Railway Colony Community Park
+LOC0104,Old City Market Family Restaurant
+LOC0105,Phase 4 Industrial Estate Inn
+LOC0106,New Township Sector 5 Commercial Complex
+LOC0107,Old City Market Corporate Plaza
+LOC0108,Housing Board Colony Dhaba
+LOC0109,Civil Lines Residency
+LOC0110,Hotel Model Town Block C Regency
+LOC0111,Commercial Block A Community Park
+LOC0112,Civil Lines Industrial Estate
+LOC0113,Model Town Block B Commercial Complex
+LOC0114,Civil Lines Dhaba
+LOC0115,Commercial Block B Inn
+LOC0116,Model Town Block B Logistics Warehouse
+LOC0117,Transport Nagar Warehouse Zone
+LOC0118,Sector 18 Family Restaurant
+LOC0119,Old City Market Apartments
+LOC0120,Transport Nagar Apartments
+LOC0121,Housing Board Colony Corporate Plaza
+LOC0122,Transport Nagar Apartments
+LOC0123,Sector 57 Logistics Warehouse
+LOC0124,Model Town Block D Corporate Plaza
+LOC0125,Railway Colony Inn
+LOC0126,New Township Sector 36 Residency
+LOC0127,Model Town Block B Family Restaurant
+LOC0128,Transport Nagar Dhaba
+LOC0129,Housing Board Colony Public Ground
+LOC0130,Model Town Block A Multi-level Parking
+LOC0131,Transport Nagar Dhaba
+LOC0132,Railway Colony Apartments
+LOC0133,Commercial Block D Railway Station
+LOC0134,New Township Sector 58 Dhaba
+LOC0135,Civil Lines Inn
+LOC0136,New Township Sector 9 Family Restaurant
+LOC0137,Civil Lines Residency
+LOC0138,Railway Colony Public Parking
+LOC0139,Phase 12 Industrial Estate Corporate Plaza
+LOC0140,Transport Nagar Industrial Estate
+LOC0141,Old City Market Dhaba
+LOC0142,Old City Market Storage Yard
+LOC0143,Hotel Sector 55 Regency
+LOC0144,Railway Colony Logistics Warehouse
+LOC0145,Sector 30 Housing Complex
+LOC0146,Phase 1 Industrial Estate Public Parking
+LOC0147,Hotel Railway Colony Regency
+LOC0148,Phase 39 Industrial Estate Multi-level Parking
+LOC0149,Phase 37 Industrial Estate Housing Complex
+LOC0150,Railway Colony Storage Yard
+LOC0151,Transport Nagar Business Tower
+LOC0152,Sector 55 Community Park
+LOC0153,Commercial Block C Residency
+LOC0154,New Township Sector 41 Business Tower
+LOC0155,Transport Nagar Railway Station
+LOC0156,Commercial Block C Warehouse Zone
+LOC0157,Commercial Block A Public Ground
+LOC0158,Model Town Block C Family Restaurant
+LOC0159,Phase 34 Industrial Estate Family Restaurant
+LOC0160,Civil Lines Trade Centre
+LOC0161,Railway Colony Industrial Estate
+LOC0162,New Township Sector 40 Trade Centre
+LOC0163,New Township Sector 29 Bus Terminal
+LOC0164,Transport Nagar Dhaba
+LOC0165,Housing Board Colony Commercial Complex
+LOC0166,Transport Nagar Dhaba
+LOC0167,Transport Nagar Corporate Plaza
+LOC0168,Sector 47 Multi-level Parking
+LOC0169,Commercial Block D Warehouse Zone
+LOC0170,Model Town Block C Housing Complex
+LOC0171,Sector 52 Multi-level Parking
+LOC0172,Housing Board Colony Railway Station
+LOC0173,Transport Nagar Community Park
+LOC0174,Old City Market Inn
+LOC0175,Housing Board Colony Logistics Warehouse
+LOC0176,Old City Market Multi-level Parking
+LOC0177,New Township Sector 5 Multi-level Parking
+LOC0178,Commercial Block B Family Restaurant
+LOC0179,Model Town Block A Industrial Estate
+LOC0180,Housing Board Colony Inn
+LOC0181,Hotel Commercial Block D Regency
+LOC0182,Transport Nagar Community Park
+LOC0183,Old City Market Logistics Warehouse
+LOC0184,Transport Nagar Inn
+LOC0185,New Township Sector 5 Logistics Warehouse
+LOC0186,Old City Market Logistics Warehouse
+LOC0187,Commercial Block A Logistics Warehouse
+LOC0188,Commercial Block B Dhaba
+LOC0189,Commercial Block B Commercial Complex
+LOC0190,Civil Lines Multi-level Parking
+LOC0191,Commercial Block C Bus Terminal
+LOC0192,Railway Colony Family Restaurant
+LOC0193,Commercial Block B Apartments
+LOC0194,Model Town Block C Family Restaurant
+LOC0195,Model Town Block A Residency
+LOC0196,Old City Market Dhaba
+LOC0197,Civil Lines Public Parking
+LOC0198,Hotel Old City Market Regency
+LOC0199,Housing Board Colony Public Parking
+LOC0200,Hotel Commercial Block A Regency
+LOC0201,Sector 51 Business Tower
+LOC0202,Model Town Block D Warehouse Zone
+LOC0203,Civil Lines Multi-level Parking
+LOC0204,Transport Nagar Market
+LOC0205,Model Town Block A Public Ground
+LOC0206,Phase 41 Industrial Estate Dhaba
+LOC0207,Hotel Model Town Block D Regency
+LOC0208,Old City Market Housing Complex
+LOC0209,Railway Colony Railway Station
+LOC0210,Old City Market Industrial Estate
+LOC0211,Sector 33 Business Tower
+LOC0212,Civil Lines Railway Station
+LOC0213,Civil Lines Logistics Warehouse
+LOC0214,New Township Sector 11 Commercial Complex
+LOC0215,Hotel Phase 21 Industrial Estate Regency
+LOC0216,New Township Sector 48 Family Restaurant
+LOC0217,Housing Board Colony Market
+LOC0218,Model Town Block A Corporate Plaza
+LOC0219,New Township Sector 22 Commercial Complex
+LOC0220,Railway Colony Trade Centre
+LOC0221,Transport Nagar Railway Station
+LOC0222,New Township Sector 48 Market
+LOC0223,Civil Lines Warehouse Zone
+LOC0224,Housing Board Colony Dhaba
+LOC0225,Hotel Commercial Block D Regency
+LOC0226,Railway Colony Business Tower
+LOC0227,Railway Colony Storage Yard
+LOC0228,Phase 31 Industrial Estate Business Tower
+LOC0229,Transport Nagar Storage Yard
+LOC0230,Sector 30 Railway Station
+LOC0231,New Township Sector 15 Trade Centre
+LOC0232,Model Town Block C Railway Station
+LOC0233,New Township Sector 20 Commercial Complex
+LOC0234,Model Town Block B Trade Centre
+LOC0235,Civil Lines Railway Station
+LOC0236,Railway Colony Commercial Complex
+LOC0237,Transport Nagar Commercial Complex
+LOC0238,Transport Nagar Railway Station
+LOC0239,Old City Market Storage Yard
+LOC0240,Commercial Block A Multi-level Parking
+LOC0241,Old City Market Public Ground
+LOC0242,Commercial Block B Logistics Warehouse
+LOC0243,Railway Colony Railway Station
+LOC0244,Commercial Block A Housing Complex
+LOC0245,Civil Lines Commercial Complex
+LOC0246,New Township Sector 45 Public Ground
+LOC0247,Commercial Block B Industrial Estate
+LOC0248,Housing Board Colony Railway Station
+LOC0249,Housing Board Colony Warehouse Zone
+LOC0250,Hotel Sector 41 Regency
+LOC0251,Railway Colony Railway Station
+LOC0252,Model Town Block A Railway Station
+LOC0253,Railway Colony Inn
+LOC0254,Housing Board Colony Storage Yard
+LOC0255,Housing Board Colony Bus Terminal
+LOC0256,New Township Sector 53 Public Ground
+LOC0257,Phase 3 Industrial Estate Public Parking
+LOC0258,Sector 40 Industrial Estate
+LOC0259,Phase 9 Industrial Estate Railway Station
+LOC0260,New Township Sector 54 Public Parking
+LOC0261,Civil Lines Corporate Plaza
+LOC0262,Civil Lines Logistics Warehouse
+LOC0263,Phase 12 Industrial Estate Warehouse Zone
+LOC0264,Old City Market Housing Complex
+LOC0265,New Township Sector 44 Residency
+LOC0266,Model Town Block D Trade Centre
+LOC0267,Housing Board Colony Corporate Plaza
+LOC0268,Sector 14 Warehouse Zone
+LOC0269,Civil Lines Multi-level Parking
+LOC0270,Civil Lines Corporate Plaza
+LOC0271,Commercial Block B Public Ground
+LOC0272,Phase 51 Industrial Estate Corporate Plaza
+LOC0273,Sector 51 Market
+LOC0274,Transport Nagar Community Park
+LOC0275,Sector 39 Corporate Plaza
+LOC0276,Phase 50 Industrial Estate Trade Centre
+LOC0277,Commercial Block A Inn
+LOC0278,Phase 5 Industrial Estate Family Restaurant
+LOC0279,Commercial Block C Multi-level Parking
+LOC0280,Transport Nagar Commercial Complex
+LOC0281,Transport Nagar Housing Complex
+LOC0282,Transport Nagar Business Tower
+LOC0283,New Township Sector 35 Storage Yard
+LOC0284,Transport Nagar Logistics Warehouse
+LOC0285,Phase 37 Industrial Estate Housing Complex
+LOC0286,Civil Lines Apartments
+LOC0287,Sector 49 Logistics Warehouse
+LOC0288,New Township Sector 54 Community Park
+LOC0289,Model Town Block A Family Restaurant
+LOC0290,Old City Market Railway Station
+LOC0291,Phase 23 Industrial Estate Apartments
+LOC0292,Phase 29 Industrial Estate Apartments
+LOC0293,Old City Market Storage Yard
+LOC0294,Phase 51 Industrial Estate Business Tower
+LOC0295,Railway Colony Industrial Estate
+LOC0296,Old City Market Public Ground
+LOC0297,Civil Lines Market
+LOC0298,Railway Colony Inn
+LOC0299,Commercial Block B Family Restaurant
+LOC0300,Old City Market Warehouse Zone

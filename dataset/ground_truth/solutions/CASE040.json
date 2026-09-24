@@ -1,0 +1,46 @@
+{
+  "case_id": "CASE040",
+  "true_network": [
+    "P0869",
+    "P0581",
+    "P0335"
+  ],
+  "key_entities": [
+    "P0869",
+    "P0581"
+  ],
+  "bridge_entities": [],
+  "false_leads": [
+    "P0335"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0869",
+      "target": "P0581",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0040"
+      ]
+    },
+    {
+      "source": "P0581",
+      "target": "P0335",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0040"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX1856",
+    "CASE040-LE0203",
+    "CASE040-LE0204"
+  ],
+  "timeline": [
+    "CASE040-EVT001",
+    "CASE040-EVT002",
+    "CASE040-EVT003"
+  ]
+}

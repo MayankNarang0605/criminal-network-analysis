@@ -1,0 +1,4 @@
+DOCUMENT_TYPE: FIR
+CASE: CASE012
+
+Preliminary inquiry into the matter revealed that Siddharth Saxena was in contact with the complainant. A vehicle matching the description of BH-27-EV-0275 was observed near Hotel Sector 41 Regency. Witnesses gave differing accounts of the timeline.

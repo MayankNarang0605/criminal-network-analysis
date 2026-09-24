@@ -1,0 +1,191 @@
+{
+  "case_id": "CASE069",
+  "true_network": [
+    "P0195",
+    "P0846",
+    "P0914",
+    "P0906",
+    "P0326",
+    "P0180",
+    "P0737",
+    "P0212",
+    "P0700",
+    "P0757",
+    "P0550",
+    "P0016",
+    "P0293",
+    "P0998",
+    "P0919",
+    "P0079"
+  ],
+  "key_entities": [
+    "P0195",
+    "P0846"
+  ],
+  "bridge_entities": [],
+  "false_leads": [
+    "P0180"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0195",
+      "target": "P0846",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0914",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0906",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0326",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0180",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0737",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0212",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0700",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0757",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0550",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0016",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0293",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0998",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0919",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    },
+    {
+      "source": "P0195",
+      "target": "P0079",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0070"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX3246",
+    "TX3247",
+    "TX3248",
+    "CASE069-LE0354",
+    "CASE069-LE0355"
+  ],
+  "timeline": [
+    "CASE069-EVT001",
+    "CASE069-EVT002",
+    "CASE069-EVT003",
+    "CASE069-EVT004",
+    "CASE069-EVT005",
+    "CASE069-EVT006",
+    "CASE069-EVT007",
+    "CASE069-EVT008",
+    "CASE069-EVT009",
+    "CASE069-EVT010",
+    "CASE069-EVT011",
+    "CASE069-EVT012",
+    "CASE069-EVT013",
+    "CASE069-EVT014",
+    "CASE069-EVT015",
+    "CASE069-EVT016"
+  ]
+}

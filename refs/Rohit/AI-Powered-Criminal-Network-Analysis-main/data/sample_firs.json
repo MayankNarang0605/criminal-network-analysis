@@ -1,0 +1,198 @@
+[
+  {
+    "fir_id": "FIR-2024-MH-00142",
+    "station": "Bandra Police Station",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "date_filed": "2024-03-15",
+    "ipc_sections": ["420", "468", "471"],
+    "complainant": {"name": "Ravi Sharma", "phone": "9876543210", "address": "14, Hill Road, Bandra West, Mumbai"},
+    "accused": [
+      {"name": "Vikram Desai", "alias": "Vicky", "phone": "9123456780", "age": 35, "gender": "Male"},
+      {"name": "Priya Nair", "phone": "9234567891", "age": 28, "gender": "Female"}
+    ],
+    "description": "Complainant alleges that accused Vikram Desai, along with associate Priya Nair, orchestrated a financial fraud scheme involving forged bank documents and unauthorized fund transfers totaling Rs 45 lakhs from SBI account no. 30142567890 to multiple shell company accounts including ABC Enterprises (HDFC 50198765432) and XYZ Trading Co (ICICI 60287654321). Accused used forged signatures and fraudulent KYC documents.",
+    "status": "Under Investigation",
+    "investigating_officer": "Inspector Rajesh Patil",
+    "vehicles_involved": ["MH02-AB-1234", "MH04-CD-5678"],
+    "locations_mentioned": ["Bandra West", "Andheri East", "Pune"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-DL-00398",
+    "station": "Saket Police Station",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "date_filed": "2024-04-02",
+    "ipc_sections": ["302", "34", "201"],
+    "complainant": {"name": "Sunita Devi", "phone": "9345678901", "address": "B-12, Saket, New Delhi"},
+    "accused": [
+      {"name": "Ramesh Gupta", "alias": "Ramu", "phone": "9456789012", "age": 42, "gender": "Male"},
+      {"name": "Sunil Yadav", "phone": "9567890123", "age": 38, "gender": "Male"},
+      {"name": "Deepak Thakur", "alias": "DK", "phone": "9678901234", "age": 30, "gender": "Male"}
+    ],
+    "description": "Murder case: Victim Anil Kumar found dead near Mehrauli on 01-Apr-2024. Witnesses report seeing accused Ramesh Gupta and Sunil Yadav at the scene. CCTV footage from nearby shop shows vehicle DL-3C-AK-4521 near the location. Call records indicate frequent communication between all three accused in the 48 hours preceding the incident. Deepak Thakur suspected of destroying evidence.",
+    "status": "Charge Sheet Filed",
+    "investigating_officer": "SI Kavita Mehra",
+    "vehicles_involved": ["DL-3C-AK-4521"],
+    "locations_mentioned": ["Saket", "Mehrauli", "Vasant Kunj"],
+    "priority": "Critical"
+  },
+  {
+    "fir_id": "FIR-2024-KA-00215",
+    "station": "Whitefield Police Station",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "date_filed": "2024-03-28",
+    "ipc_sections": ["384", "506", "120B"],
+    "complainant": {"name": "Arjun Reddy", "phone": "9789012345", "address": "42, ITPL Main Road, Whitefield, Bengaluru"},
+    "accused": [
+      {"name": "Mohan Kumar", "alias": "MK", "phone": "9890123456", "age": 45, "gender": "Male"},
+      {"name": "Farhan Sheikh", "phone": "9901234567", "age": 33, "gender": "Male"}
+    ],
+    "description": "Extortion racket operating in Whitefield IT corridor. Accused Mohan Kumar and Farhan Sheikh demanded Rs 20 lakhs protection money from complainant's software company TechVista Solutions. Threats made via WhatsApp messages and anonymous calls from multiple numbers. Investigation reveals similar complaints from 8 other IT companies. Accused connected to organized crime syndicate operating in Bengaluru, Chennai, and Hyderabad. Bank account SBI 40156789012 used for receiving extortion payments.",
+    "status": "Under Investigation",
+    "investigating_officer": "Inspector Venkatesh S.",
+    "vehicles_involved": ["KA01-MH-9876"],
+    "locations_mentioned": ["Whitefield", "Mahadevapura", "Electronic City"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-UP-00567",
+    "station": "Hazratganj Police Station",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "date_filed": "2024-05-10",
+    "ipc_sections": ["363", "366", "370"],
+    "complainant": {"name": "Mohammad Hussain", "phone": "8012345678", "address": "Aminabad, Lucknow"},
+    "accused": [
+      {"name": "Sanjay Mishra", "phone": "8123456789", "age": 40, "gender": "Male"},
+      {"name": "Rekha Devi", "phone": "8234567890", "age": 35, "gender": "Female"},
+      {"name": "Pappu Singh", "alias": "Pappu", "phone": "8345678901", "age": 28, "gender": "Male"}
+    ],
+    "description": "Human trafficking network operating across UP and Bihar. Accused Sanjay Mishra is suspected kingpin coordinating through Rekha Devi who recruits victims from rural areas. Pappu Singh handles transport using vehicle UP32-GH-7890. Network active since 2022. Intelligence reports suggest connections to similar networks in West Bengal and Jharkhand. 15 victims rescued from various locations. Financial trail shows transactions through accounts at PNB (70198765432) and BOI (80287654321).",
+    "status": "Under Investigation",
+    "investigating_officer": "Inspector Amit Saxena",
+    "vehicles_involved": ["UP32-GH-7890", "UP78-KL-3456"],
+    "locations_mentioned": ["Aminabad", "Charbagh", "Patna", "Kolkata"],
+    "priority": "Critical"
+  },
+  {
+    "fir_id": "FIR-2024-TN-00321",
+    "station": "T. Nagar Police Station",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "date_filed": "2024-04-18",
+    "ipc_sections": ["420", "406", "409"],
+    "complainant": {"name": "Lakshmi Sundaram", "phone": "8456789012", "address": "15, Pondy Bazaar, T. Nagar, Chennai"},
+    "accused": [
+      {"name": "Rajasekar M.", "alias": "Raja", "phone": "8567890123", "age": 50, "gender": "Male"},
+      {"name": "Kannan S.", "phone": "8678901234", "age": 38, "gender": "Male"}
+    ],
+    "description": "Ponzi scheme defrauding senior citizens. Accused Rajasekar M. operated fake investment firm 'Golden Returns Pvt Ltd' promising 24% annual returns. Over 200 victims invested total of Rs 8.5 crores. Funds diverted to personal accounts and real estate purchases. Co-accused Kannan S. managed operations and recruited agents. Company registered at fake address in Anna Nagar. Multiple bank accounts used: Canara Bank (90156789012), Axis Bank (10287654321). Connected to similar schemes in Coimbatore and Madurai.",
+    "status": "Arrested",
+    "investigating_officer": "Inspector Murugan K.",
+    "vehicles_involved": ["TN01-AZ-5678"],
+    "locations_mentioned": ["T. Nagar", "Anna Nagar", "Coimbatore", "Madurai"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-WB-00189",
+    "station": "Park Street Police Station",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "date_filed": "2024-06-05",
+    "ipc_sections": ["379", "411", "413", "120B"],
+    "complainant": {"name": "Debashish Banerjee", "phone": "7012345678", "address": "22, Park Street, Kolkata"},
+    "accused": [
+      {"name": "Tapan Mondal", "alias": "Tapan Da", "phone": "7123456789", "age": 48, "gender": "Male"},
+      {"name": "Bittu Roy", "phone": "7234567890", "age": 25, "gender": "Male"},
+      {"name": "Shankar Das", "phone": "7345678901", "age": 32, "gender": "Male"}
+    ],
+    "description": "Organized vehicle theft ring operating across Kolkata, Howrah, and North 24 Parganas. Tapan Mondal runs the network, Bittu Roy specializes in stealing luxury vehicles, Shankar Das handles forging RC documents and selling stolen vehicles. 35 vehicles recovered. Network uses godown in Howrah for dismantling vehicles. Financial transactions traced through UBI account (20198765432). Links found to inter-state stolen vehicle racket extending to Bihar and Jharkhand.",
+    "status": "Under Investigation",
+    "investigating_officer": "Inspector Partha Ghosh",
+    "vehicles_involved": ["WB06-CD-1234", "WB02-EF-5678"],
+    "locations_mentioned": ["Park Street", "Howrah", "Salt Lake", "Dum Dum"],
+    "priority": "Medium"
+  },
+  {
+    "fir_id": "FIR-2024-RJ-00445",
+    "station": "MI Road Police Station",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "date_filed": "2024-05-22",
+    "ipc_sections": ["25", "27"],
+    "complainant": {"name": "Station Duty Officer", "phone": "1412565000", "address": "MI Road PS, Jaipur"},
+    "accused": [
+      {"name": "Pappu Gujjar", "alias": "Pappu Bhai", "phone": "6012345678", "age": 38, "gender": "Male"},
+      {"name": "Salim Khan", "phone": "6123456789", "age": 42, "gender": "Male"}
+    ],
+    "description": "Arms seizure during routine check at MI Road. Accused Pappu Gujjar found carrying 2 country-made pistols and 15 live cartridges. Co-accused Salim Khan was driving vehicle RJ14-SA-9012. Investigation reveals accused are part of arms supply network operating in Rajasthan-MP border area. Previous cases registered in Ajmer and Udaipur. Intelligence suggests connection to larger organized crime group involved in extortion and land grabbing.",
+    "status": "Charge Sheet Filed",
+    "investigating_officer": "Inspector Dharmendra Singh",
+    "vehicles_involved": ["RJ14-SA-9012"],
+    "locations_mentioned": ["MI Road", "Ajmer", "Udaipur", "Kota"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-MH-00678",
+    "station": "Cyber Crime Cell",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "date_filed": "2024-06-15",
+    "ipc_sections": ["66C", "66D"],
+    "complainant": {"name": "Anand Kulkarni", "phone": "6234567890", "address": "Koregaon Park, Pune"},
+    "accused": [
+      {"name": "Akash Verma", "phone": "6345678901", "age": 26, "gender": "Male"},
+      {"name": "Neha Joshi", "phone": "6456789012", "age": 24, "gender": "Female"},
+      {"name": "Rohit Patel", "alias": "RJ", "phone": "6567890123", "age": 29, "gender": "Male"}
+    ],
+    "description": "Cyber fraud ring operating phishing and vishing attacks targeting bank customers. Accused Akash Verma is the technical mastermind creating fake banking websites. Neha Joshi handles social engineering calls. Rohit Patel manages money mule accounts for laundering stolen funds. Over Rs 2.3 crores stolen from 150+ victims across Maharashtra and Gujarat. Email IDs used: support@sbi-secure-verify.com, alerts@hdfc-safety.net. Cryptocurrency wallet addresses found on accused devices. Connected to Vikram Desai (FIR-2024-MH-00142).",
+    "status": "Under Investigation",
+    "investigating_officer": "Cyber Inspector Pratik Sawant",
+    "vehicles_involved": ["MH12-PQ-3456"],
+    "locations_mentioned": ["Koregaon Park", "Hinjewadi", "Ahmedabad"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-GJ-00234",
+    "station": "Satellite Police Station",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "date_filed": "2024-07-01",
+    "ipc_sections": ["420", "467", "468", "471", "120B"],
+    "complainant": {"name": "Mehul Shah", "phone": "6678901234", "address": "SG Highway, Ahmedabad"},
+    "accused": [
+      {"name": "Dinesh Prajapati", "alias": "Danny", "phone": "6789012345", "age": 45, "gender": "Male"},
+      {"name": "Jignesh Bhatt", "phone": "6890123456", "age": 38, "gender": "Male"}
+    ],
+    "description": "Land fraud syndicate forging property documents and selling government land to unsuspecting buyers. Accused Dinesh Prajapati is the mastermind with political connections. Jignesh Bhatt operates as document forger and broker. 12 cases of fraudulent land sales worth Rs 35 crores identified. Victims include NRI investors. Shell companies used: Dev Constructions, Patel Realtors. Bank accounts at Kotak (11198765432) and Yes Bank (12287654321). Investigation reveals connection to Rohit Patel (cyber fraud).",
+    "status": "Under Investigation",
+    "investigating_officer": "Inspector Hardik Raval",
+    "vehicles_involved": ["GJ01-HS-7890"],
+    "locations_mentioned": ["Satellite", "SG Highway", "Gandhinagar", "Surat"],
+    "priority": "High"
+  },
+  {
+    "fir_id": "FIR-2024-AP-00156",
+    "station": "Jubilee Hills Police Station",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "date_filed": "2024-07-18",
+    "ipc_sections": ["21", "22", "29"],
+    "complainant": {"name": "NCB Hyderabad Unit", "phone": "4023456789", "address": "NCB Office, Hyderabad"},
+    "accused": [
+      {"name": "Rajendra Reddy", "alias": "Reddy Anna", "phone": "5012345678", "age": 52, "gender": "Male"},
+      {"name": "Imran Qureshi", "phone": "5123456789", "age": 35, "gender": "Male"},
+      {"name": "Lakshmi Prasad", "phone": "5234567890", "age": 40, "gender": "Male"},
+      {"name": "Arun Gowda", "phone": "5345678901", "age": 28, "gender": "Male"}
+    ],
+    "description": "Major drug trafficking network busted. Rajendra Reddy is the kingpin operating from Jubilee Hills. Imran Qureshi handles procurement from Goa and Mumbai. Lakshmi Prasad manages distribution in Hyderabad and Bengaluru. Arun Gowda is the courier using vehicle TS09-EP-4567. 50kg MDMA and 20kg cocaine seized. Hawala transactions worth Rs 15 crores traced through multiple accounts. Network connected to international suppliers. Surveillance shows meetings at Novotel Hotel, Banjara Hills.",
+    "status": "Arrested",
+    "investigating_officer": "DSP Venkata Rao",
+    "vehicles_involved": ["TS09-EP-4567", "AP16-GH-2345"],
+    "locations_mentioned": ["Jubilee Hills", "Banjara Hills", "Goa", "Mumbai", "Bengaluru"],
+    "priority": "Critical"
+  }
+]

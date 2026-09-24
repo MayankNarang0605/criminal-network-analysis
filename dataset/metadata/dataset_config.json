@@ -1,0 +1,25 @@
+{
+  "seed": 2026,
+  "demo_scale": false,
+  "n_cases": 100,
+  "n_persons": 1000,
+  "n_organizations": 150,
+  "n_vehicles": 300,
+  "n_phones": 1200,
+  "n_accounts": 800,
+  "n_locations": 300,
+  "difficulty_distribution": {
+    "Basic": 20,
+    "Intermediate": 30,
+    "Advanced": 30,
+    "Expert": 20
+  },
+  "noise_config": {
+    "missing_data": 0.07,
+    "duplicates": 0.04,
+    "aliases": 0.08,
+    "spelling_variations": 0.05,
+    "contradictions": 0.03,
+    "false_leads": 0.1
+  }
+}

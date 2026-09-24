@@ -1,0 +1,104 @@
+fir_id,case_id,victim_gender,is_women_safety_case,location_id,area,city
+FIR0001,CASE001,M,N,LOC0233,New Township Sector 20,Dehradun
+FIR0002,CASE002,M,N,LOC0038,Sector 19,Hyderabad
+FIR0003,CASE003,M,N,LOC0240,Commercial Block A,Patna
+FIR0004,CASE004,F,N,LOC0220,Railway Colony,Gurugram
+FIR0005,CASE005,F,Y,LOC0019,Model Town Block D,Faridabad
+FIR0006,CASE006,F,N,LOC0261,Civil Lines,Bhubaneswar
+FIR0007,CASE007,F,N,LOC0292,Phase 29 Industrial Estate,Noida
+FIR0008,CASE008,F,N,LOC0134,New Township Sector 58,Noida
+FIR0009,CASE009,F,N,LOC0249,Housing Board Colony,Bengaluru
+FIR0010,CASE010,M,N,LOC0067,Commercial Block D,Lucknow
+FIR0011,CASE011,M,N,LOC0195,Model Town Block A,Bhopal
+FIR0012,CASE012,M,N,LOC0028,New Township Sector 19,Kanpur
+FIR0013,CASE013,F,N,LOC0219,New Township Sector 22,Lucknow
+FIR0014,CASE014,M,N,LOC0189,Commercial Block B,Chandigarh
+FIR0015,CASE015,F,N,LOC0292,Phase 29 Industrial Estate,Noida
+FIR0016,CASE016,M,N,LOC0093,Railway Colony,Kolkata
+FIR0017,CASE017,F,N,LOC0023,Model Town Block A,Gurugram
+FIR0018,CASE018,M,N,LOC0007,Commercial Block D,Chandigarh
+FIR0019,CASE019,F,N,LOC0122,Transport Nagar,Noida
+FIR0020,CASE020,F,N,LOC0046,Sector 24,Amritsar
+FIR0021,CASE021,M,N,LOC0090,Phase 26 Industrial Estate,Lucknow
+FIR0022,CASE022,M,N,LOC0015,Railway Colony,Surat
+FIR0023,CASE023,F,N,LOC0152,Sector 55,Agra
+FIR0024,CASE024,M,N,LOC0188,Commercial Block B,Patna
+FIR0025,CASE025,M,N,LOC0118,Sector 18,Amritsar
+FIR0026,CASE026,F,N,LOC0191,Commercial Block C,Ranchi
+FIR0027,CASE027,M,N,LOC0204,Transport Nagar,Haridwar
+FIR0028,CASE028,F,N,LOC0088,Phase 59 Industrial Estate,Bhopal
+FIR0029,CASE029,M,N,LOC0224,Housing Board Colony,Jaipur
+FIR0030,CASE030,M,N,LOC0280,Transport Nagar,Kanpur
+FIR0031,CASE031,F,N,LOC0226,Railway Colony,Agra
+FIR0032,CASE032,F,N,LOC0260,New Township Sector 54,Bhubaneswar
+FIR0033,CASE033,F,N,LOC0176,Old City Market,Pune
+FIR0034,CASE034,F,Y,LOC0214,New Township Sector 11,Chennai
+FIR0035,CASE035,F,N,LOC0117,Transport Nagar,Faridabad
+FIR0036,CASE036,F,N,LOC0033,Railway Colony,Patna
+FIR0037,CASE037,F,N,LOC0122,Transport Nagar,Noida
+FIR0038,CASE038,M,N,LOC0078,New Township Sector 29,Ahmedabad
+FIR0039,CASE039,F,N,LOC0056,Housing Board Colony,Kanpur
+FIR0040,CASE040,F,N,LOC0110,Model Town Block C,Noida
+FIR0041,CASE041,M,N,LOC0255,Housing Board Colony,Agra
+FIR0042,CASE042,M,N,LOC0099,Railway Colony,Dehradun
+FIR0043,CASE043,M,N,LOC0223,Civil Lines,Agra
+FIR0044,CASE044,M,N,LOC0151,Transport Nagar,Haridwar
+FIR0045,CASE045,M,N,LOC0144,Railway Colony,Patna
+FIR0046,CASE046,M,N,LOC0057,Transport Nagar,Gurugram
+FIR0047,CASE047,,N,LOC0021,Phase 59 Industrial Estate,Mumbai
+FIR0048,CASE048,M,N,LOC0275,Sector 39,Dehradun
+FIR0049,CASE049,F,Y,LOC0113,Model Town Block B,Ghaziabad
+FIR0050,CASE050,M,N,LOC0209,Railway Colony,Patna
+FIR0051,CASE051,F,N,LOC0192,Railway Colony,Surat
+FIR0052,CASE052,F,N,LOC0193,Commercial Block B,Ghaziabad
+FIR0053,CASE052,F,N,LOC0193,Commercial Block B,Ghaziabad
+FIR0054,CASE053,M,N,LOC0274,Transport Nagar,Patna
+FIR0055,CASE054,,N,LOC0132,Railway Colony,Ghaziabad
+FIR0056,CASE055,M,N,LOC0223,Civil Lines,Agra
+FIR0057,CASE056,M,N,LOC0049,Transport Nagar,Amritsar
+FIR0058,CASE057,F,Y,LOC0152,Sector 55,Agra
+FIR0059,CASE058,M,N,LOC0050,Phase 59 Industrial Estate,Haridwar
+FIR0060,CASE059,M,N,LOC0054,Phase 19 Industrial Estate,Chennai
+FIR0061,CASE060,F,N,LOC0113,Model Town Block B,Ghaziabad
+FIR0062,CASE061,M,N,LOC0135,Civil Lines,Faridabad
+FIR0063,CASE062,M,N,LOC0185,New Township Sector 5,Patna
+FIR0064,CASE063,M,N,LOC0146,Phase 1 Industrial Estate,Agra
+FIR0065,CASE064,F,N,LOC0116,Model Town Block B,Dehradun
+FIR0066,CASE065,,N,LOC0116,Model Town Block B,Dehradun
+FIR0067,CASE066,,N,LOC0100,Housing Board Colony,Hyderabad
+FIR0068,CASE067,F,N,LOC0002,Phase 5 Industrial Estate,Ahmedabad
+FIR0069,CASE068,F,N,LOC0013,Housing Board Colony,Chennai
+FIR0070,CASE069,F,N,LOC0115,Commercial Block B,Delhi
+FIR0071,CASE070,,N,LOC0033,Railway Colony,Patna
+FIR0072,CASE071,F,Y,LOC0253,Railway Colony,Bhopal
+FIR0073,CASE072,M,N,LOC0195,Model Town Block A,Bhopal
+FIR0074,CASE073,F,Y,LOC0214,New Township Sector 11,Chennai
+FIR0075,CASE074,M,N,LOC0013,Housing Board Colony,Chennai
+FIR0076,CASE075,M,N,LOC0297,Civil Lines,Amritsar
+FIR0077,CASE076,M,N,LOC0073,Railway Colony,Ranchi
+FIR0078,CASE077,,N,LOC0211,Sector 33,Pune
+FIR0079,CASE078,F,Y,LOC0102,Sector 30,Haridwar
+FIR0080,CASE079,F,Y,LOC0195,Model Town Block A,Bhopal
+FIR0081,CASE080,M,N,LOC0245,Civil Lines,Ludhiana
+FIR0082,CASE081,F,Y,LOC0177,New Township Sector 5,Agra
+FIR0083,CASE082,M,N,LOC0120,Transport Nagar,Mumbai
+FIR0084,CASE082,M,N,LOC0120,Transport Nagar,Mumbai
+FIR0085,CASE083,,N,LOC0175,Housing Board Colony,Haridwar
+FIR0086,CASE084,F,Y,LOC0123,Sector 57,Bhopal
+FIR0087,CASE085,M,N,LOC0129,Housing Board Colony,Patna
+FIR0088,CASE086,F,N,LOC0175,Housing Board Colony,Haridwar
+FIR0089,CASE087,M,N,LOC0177,New Township Sector 5,Agra
+FIR0090,CASE088,F,N,LOC0029,New Township Sector 11,Kolkata
+FIR0091,CASE089,F,N,LOC0158,Model Town Block C,Haridwar
+FIR0092,CASE090,F,N,LOC0052,Commercial Block D,Agra
+FIR0093,CASE091,,N,LOC0180,Housing Board Colony,Gurugram
+FIR0094,CASE091,,N,LOC0180,Housing Board Colony,Gurugram
+FIR0095,CASE092,M,N,LOC0285,Phase 37 Industrial Estate,Kolkata
+FIR0096,CASE093,,N,LOC0245,Civil Lines,Ludhiana
+FIR0097,CASE094,F,N,LOC0229,Transport Nagar,Kolkata
+FIR0098,CASE095,F,Y,LOC0266,Model Town Block D,Ludhiana
+FIR0099,CASE096,F,N,LOC0128,Transport Nagar,Mumbai
+FIR0100,CASE097,F,N,LOC0107,Old City Market,Lucknow
+FIR0101,CASE098,M,N,LOC0124,Model Town Block D,Surat
+FIR0102,CASE099,F,Y,LOC0280,Transport Nagar,Kanpur
+FIR0103,CASE100,M,N,LOC0080,Housing Board Colony,Delhi

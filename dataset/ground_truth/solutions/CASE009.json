@@ -1,0 +1,1659 @@
+{
+  "case_id": "CASE009",
+  "true_network": [
+    "P0763",
+    "P0399",
+    "P0967",
+    "P0979",
+    "P0013",
+    "P0351",
+    "P0838",
+    "P0016",
+    "P0472",
+    "P0529",
+    "P0137",
+    "P0141",
+    "P0029",
+    "P0858",
+    "P0012",
+    "P0871",
+    "P0055",
+    "P0725",
+    "P0208",
+    "P0124",
+    "P0430",
+    "P0547",
+    "P0225",
+    "P0083",
+    "P0798",
+    "P0125",
+    "P0670",
+    "P0228",
+    "P0340",
+    "P0282",
+    "P0374",
+    "P0517",
+    "P0814",
+    "P0599",
+    "P0905",
+    "P0426",
+    "P0380",
+    "P0103",
+    "P0964",
+    "P0076",
+    "P0315",
+    "P0255",
+    "P0740",
+    "P0505",
+    "P0332",
+    "P0445",
+    "P0008",
+    "P0140",
+    "P0400",
+    "P0886",
+    "P0538",
+    "P0164",
+    "P0709",
+    "P0397",
+    "P0248",
+    "P0609",
+    "P0436",
+    "P0200",
+    "P0133",
+    "P0567",
+    "P0323",
+    "P0755",
+    "P0041",
+    "P0250",
+    "P0826",
+    "P0840",
+    "P0990",
+    "P0440",
+    "P0421",
+    "P0787",
+    "P0376",
+    "P0572",
+    "P0651",
+    "P0247",
+    "P0153",
+    "P0658",
+    "P0294",
+    "P0861",
+    "P0827"
+  ],
+  "key_entities": [
+    "P0763",
+    "P0399"
+  ],
+  "bridge_entities": [],
+  "false_leads": [
+    "P0029",
+    "P0440",
+    "P0008",
+    "P0798",
+    "P0083",
+    "P0247",
+    "P0228"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0763",
+      "target": "P0399",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0763",
+      "target": "P0967",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0399",
+      "target": "P0967",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0399",
+      "target": "P0979",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0967",
+      "target": "P0979",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0967",
+      "target": "P0013",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0979",
+      "target": "P0013",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0979",
+      "target": "P0351",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0013",
+      "target": "P0351",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0013",
+      "target": "P0838",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0351",
+      "target": "P0838",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0351",
+      "target": "P0016",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0838",
+      "target": "P0016",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0838",
+      "target": "P0472",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0016",
+      "target": "P0472",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0016",
+      "target": "P0529",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0472",
+      "target": "P0529",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0472",
+      "target": "P0137",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0529",
+      "target": "P0137",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0529",
+      "target": "P0141",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0137",
+      "target": "P0141",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0137",
+      "target": "P0029",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0141",
+      "target": "P0029",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0141",
+      "target": "P0858",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0029",
+      "target": "P0858",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0029",
+      "target": "P0012",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0858",
+      "target": "P0012",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0858",
+      "target": "P0871",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0012",
+      "target": "P0871",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0012",
+      "target": "P0055",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0871",
+      "target": "P0055",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0871",
+      "target": "P0725",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0055",
+      "target": "P0725",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0055",
+      "target": "P0208",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0725",
+      "target": "P0208",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0725",
+      "target": "P0124",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0208",
+      "target": "P0124",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0208",
+      "target": "P0430",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0124",
+      "target": "P0430",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0124",
+      "target": "P0547",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0430",
+      "target": "P0547",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0430",
+      "target": "P0225",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0547",
+      "target": "P0225",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0547",
+      "target": "P0083",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0225",
+      "target": "P0083",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0225",
+      "target": "P0798",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0083",
+      "target": "P0798",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0083",
+      "target": "P0125",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0798",
+      "target": "P0125",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0798",
+      "target": "P0670",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0125",
+      "target": "P0670",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0125",
+      "target": "P0228",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0670",
+      "target": "P0228",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0670",
+      "target": "P0340",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0228",
+      "target": "P0340",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0228",
+      "target": "P0282",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0340",
+      "target": "P0282",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0340",
+      "target": "P0374",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0282",
+      "target": "P0374",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0282",
+      "target": "P0517",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0374",
+      "target": "P0517",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0374",
+      "target": "P0814",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0517",
+      "target": "P0814",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0517",
+      "target": "P0599",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0814",
+      "target": "P0599",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0814",
+      "target": "P0905",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0599",
+      "target": "P0905",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0599",
+      "target": "P0426",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0905",
+      "target": "P0426",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0905",
+      "target": "P0380",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0426",
+      "target": "P0380",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0426",
+      "target": "P0103",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0380",
+      "target": "P0103",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0380",
+      "target": "P0964",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0103",
+      "target": "P0964",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0103",
+      "target": "P0076",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0964",
+      "target": "P0076",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0964",
+      "target": "P0315",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0076",
+      "target": "P0315",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0076",
+      "target": "P0255",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0315",
+      "target": "P0255",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0315",
+      "target": "P0740",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0255",
+      "target": "P0740",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0255",
+      "target": "P0505",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0740",
+      "target": "P0505",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0740",
+      "target": "P0332",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0505",
+      "target": "P0332",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0505",
+      "target": "P0445",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0332",
+      "target": "P0445",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0332",
+      "target": "P0008",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0445",
+      "target": "P0008",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0445",
+      "target": "P0140",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0008",
+      "target": "P0140",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0008",
+      "target": "P0400",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0140",
+      "target": "P0400",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0140",
+      "target": "P0886",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0400",
+      "target": "P0886",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0400",
+      "target": "P0538",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0886",
+      "target": "P0538",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0886",
+      "target": "P0164",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0538",
+      "target": "P0164",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0538",
+      "target": "P0709",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0164",
+      "target": "P0709",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0164",
+      "target": "P0397",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0709",
+      "target": "P0397",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0709",
+      "target": "P0248",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0397",
+      "target": "P0248",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0397",
+      "target": "P0609",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0248",
+      "target": "P0609",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0248",
+      "target": "P0436",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0609",
+      "target": "P0436",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0609",
+      "target": "P0200",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0436",
+      "target": "P0200",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0436",
+      "target": "P0133",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0200",
+      "target": "P0133",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0200",
+      "target": "P0567",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0133",
+      "target": "P0567",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0133",
+      "target": "P0323",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0567",
+      "target": "P0323",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0567",
+      "target": "P0755",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0323",
+      "target": "P0755",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0323",
+      "target": "P0041",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0755",
+      "target": "P0041",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0755",
+      "target": "P0250",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0041",
+      "target": "P0250",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0041",
+      "target": "P0826",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0250",
+      "target": "P0826",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0250",
+      "target": "P0840",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0826",
+      "target": "P0840",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0826",
+      "target": "P0990",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0840",
+      "target": "P0990",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0840",
+      "target": "P0440",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0990",
+      "target": "P0440",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0990",
+      "target": "P0421",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0440",
+      "target": "P0421",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0440",
+      "target": "P0787",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0421",
+      "target": "P0787",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0421",
+      "target": "P0376",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0787",
+      "target": "P0376",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0787",
+      "target": "P0572",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0376",
+      "target": "P0572",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0376",
+      "target": "P0651",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0572",
+      "target": "P0651",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0572",
+      "target": "P0247",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0651",
+      "target": "P0247",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0651",
+      "target": "P0153",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0247",
+      "target": "P0153",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0247",
+      "target": "P0658",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0153",
+      "target": "P0658",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0153",
+      "target": "P0294",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0658",
+      "target": "P0294",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0658",
+      "target": "P0861",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0294",
+      "target": "P0861",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0294",
+      "target": "P0827",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    },
+    {
+      "source": "P0861",
+      "target": "P0827",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0009"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX0381",
+    "TX0382",
+    "CASE009-LE0042",
+    "CASE009-LE0043"
+  ],
+  "timeline": [
+    "CASE009-EVT001",
+    "CASE009-EVT002",
+    "CASE009-EVT003",
+    "CASE009-EVT004",
+    "CASE009-EVT005",
+    "CASE009-EVT006",
+    "CASE009-EVT007",
+    "CASE009-EVT008",
+    "CASE009-EVT009",
+    "CASE009-EVT010",
+    "CASE009-EVT011",
+    "CASE009-EVT012",
+    "CASE009-EVT013",
+    "CASE009-EVT014",
+    "CASE009-EVT015",
+    "CASE009-EVT016",
+    "CASE009-EVT017",
+    "CASE009-EVT018",
+    "CASE009-EVT019",
+    "CASE009-EVT020",
+    "CASE009-EVT021",
+    "CASE009-EVT022",
+    "CASE009-EVT023",
+    "CASE009-EVT024",
+    "CASE009-EVT025",
+    "CASE009-EVT026",
+    "CASE009-EVT027",
+    "CASE009-EVT028",
+    "CASE009-EVT029",
+    "CASE009-EVT030",
+    "CASE009-EVT031",
+    "CASE009-EVT032",
+    "CASE009-EVT033",
+    "CASE009-EVT034",
+    "CASE009-EVT035",
+    "CASE009-EVT036",
+    "CASE009-EVT037",
+    "CASE009-EVT038",
+    "CASE009-EVT039",
+    "CASE009-EVT040",
+    "CASE009-EVT041",
+    "CASE009-EVT042",
+    "CASE009-EVT043",
+    "CASE009-EVT044",
+    "CASE009-EVT045",
+    "CASE009-EVT046",
+    "CASE009-EVT047",
+    "CASE009-EVT048",
+    "CASE009-EVT049",
+    "CASE009-EVT050",
+    "CASE009-EVT051",
+    "CASE009-EVT052",
+    "CASE009-EVT053",
+    "CASE009-EVT054",
+    "CASE009-EVT055",
+    "CASE009-EVT056",
+    "CASE009-EVT057",
+    "CASE009-EVT058",
+    "CASE009-EVT059",
+    "CASE009-EVT060",
+    "CASE009-EVT061",
+    "CASE009-EVT062",
+    "CASE009-EVT063",
+    "CASE009-EVT064",
+    "CASE009-EVT065",
+    "CASE009-EVT066",
+    "CASE009-EVT067",
+    "CASE009-EVT068",
+    "CASE009-EVT069",
+    "CASE009-EVT070",
+    "CASE009-EVT071",
+    "CASE009-EVT072",
+    "CASE009-EVT073",
+    "CASE009-EVT074",
+    "CASE009-EVT075",
+    "CASE009-EVT076",
+    "CASE009-EVT077",
+    "CASE009-EVT078",
+    "CASE009-EVT079",
+    "CASE009-EVT080",
+    "CASE009-EVT081",
+    "CASE009-EVT082",
+    "CASE009-EVT083",
+    "CASE009-EVT084",
+    "CASE009-EVT085",
+    "CASE009-EVT086",
+    "CASE009-EVT087",
+    "CASE009-EVT088",
+    "CASE009-EVT089",
+    "CASE009-EVT090",
+    "CASE009-EVT091",
+    "CASE009-EVT092",
+    "CASE009-EVT093",
+    "CASE009-EVT094",
+    "CASE009-EVT095",
+    "CASE009-EVT096",
+    "CASE009-EVT097",
+    "CASE009-EVT098",
+    "CASE009-EVT099",
+    "CASE009-EVT100",
+    "CASE009-EVT101",
+    "CASE009-EVT102",
+    "CASE009-EVT103",
+    "CASE009-EVT104",
+    "CASE009-EVT105",
+    "CASE009-EVT106",
+    "CASE009-EVT107",
+    "CASE009-EVT108",
+    "CASE009-EVT109",
+    "CASE009-EVT110",
+    "CASE009-EVT111",
+    "CASE009-EVT112",
+    "CASE009-EVT113",
+    "CASE009-EVT114",
+    "CASE009-EVT115",
+    "CASE009-EVT116",
+    "CASE009-EVT117",
+    "CASE009-EVT118",
+    "CASE009-EVT119",
+    "CASE009-EVT120",
+    "CASE009-EVT121",
+    "CASE009-EVT122",
+    "CASE009-EVT123",
+    "CASE009-EVT124",
+    "CASE009-EVT125",
+    "CASE009-EVT126",
+    "CASE009-EVT127",
+    "CASE009-EVT128",
+    "CASE009-EVT129",
+    "CASE009-EVT130",
+    "CASE009-EVT131",
+    "CASE009-EVT132",
+    "CASE009-EVT133",
+    "CASE009-EVT134",
+    "CASE009-EVT135",
+    "CASE009-EVT136",
+    "CASE009-EVT137",
+    "CASE009-EVT138",
+    "CASE009-EVT139",
+    "CASE009-EVT140",
+    "CASE009-EVT141",
+    "CASE009-EVT142",
+    "CASE009-EVT143",
+    "CASE009-EVT144",
+    "CASE009-EVT145",
+    "CASE009-EVT146",
+    "CASE009-EVT147",
+    "CASE009-EVT148",
+    "CASE009-EVT149",
+    "CASE009-EVT150",
+    "CASE009-EVT151",
+    "CASE009-EVT152",
+    "CASE009-EVT153",
+    "CASE009-EVT154",
+    "CASE009-EVT155",
+    "CASE009-EVT156"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "case_id": "CASE007",
+  "true_network": [
+    "P0207",
+    "P0303",
+    "P0586",
+    "P0918",
+    "P0267",
+    "P0584",
+    "P0053",
+    "P0158"
+  ],
+  "key_entities": [
+    "P0207",
+    "P0303",
+    "P0158"
+  ],
+  "bridge_entities": [
+    "P0158"
+  ],
+  "false_leads": [
+    "P0586"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0207",
+      "target": "P0303",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0303",
+      "target": "P0586",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0586",
+      "target": "P0918",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0267",
+      "target": "P0584",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0584",
+      "target": "P0053",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0053",
+      "target": "P0158",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    },
+    {
+      "source": "P0918",
+      "target": "P0267",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0007"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX0285",
+    "TX0286",
+    "TX0287",
+    "CASE007-LE0031",
+    "CASE007-LE0032",
+    "CASE007-LE0033"
+  ],
+  "timeline": [
+    "CASE007-EVT001",
+    "CASE007-EVT002",
+    "CASE007-EVT003",
+    "CASE007-EVT004",
+    "CASE007-EVT005",
+    "CASE007-EVT006",
+    "CASE007-EVT007",
+    "CASE007-EVT008"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "case_id": "CASE005",
+  "true_network": [
+    "P0509",
+    "P0765",
+    "P0639",
+    "P0450",
+    "P0705",
+    "P0327",
+    "P0414",
+    "P0432",
+    "P0782",
+    "P0093",
+    "P0622"
+  ],
+  "key_entities": [
+    "P0509",
+    "P0765"
+  ],
+  "bridge_entities": [],
+  "false_leads": [
+    "P0327"
+  ],
+  "important_relationships": [
+    {
+      "source": "P0509",
+      "target": "P0765",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0639",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0450",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0705",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0327",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0414",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0432",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0782",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0093",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    },
+    {
+      "source": "P0509",
+      "target": "P0622",
+      "type": "NETWORK_EDGE",
+      "evidence": [
+        "CDR",
+        "FIR0005"
+      ]
+    }
+  ],
+  "anomalies": [
+    "TX0191",
+    "TX0192",
+    "CASE005-LE0021",
+    "CASE005-LE0022"
+  ],
+  "timeline": [
+    "CASE005-EVT001",
+    "CASE005-EVT002",
+    "CASE005-EVT003",
+    "CASE005-EVT004",
+    "CASE005-EVT005",
+    "CASE005-EVT006",
+    "CASE005-EVT007",
+    "CASE005-EVT008",
+    "CASE005-EVT009",
+    "CASE005-EVT010",
+    "CASE005-EVT011"
+  ]
+}

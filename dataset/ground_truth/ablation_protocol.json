@@ -1,0 +1,59 @@
+{
+  "description": "Named evidence-layer configurations for reproducible ablation experiments. For each config, run the system under test with only the listed evidence tables/documents visible, then score against ground_truth/solutions/*.json using the standard metrics in README.md.",
+  "configs": {
+    "full": {
+      "include": [
+        "all"
+      ],
+      "note": "every evidence table + documents + new modalities (SIM/IMEI, CCTV/ANPR, hashes)"
+    },
+    "no_cdr": {
+      "exclude": [
+        "cdr.csv",
+        "sim_cards.csv",
+        "devices.csv",
+        "phone_sim_imei_device.csv"
+      ],
+      "note": "tests reliance on call-detail/device evidence"
+    },
+    "no_financial": {
+      "exclude": [
+        "transactions.csv",
+        "bank_accounts.csv",
+        "transactions_typology.csv"
+      ],
+      "note": "tests reliance on financial evidence"
+    },
+    "no_documents": {
+      "exclude": [
+        "documents/",
+        "documents_pdf/",
+        "scanned_images/"
+      ],
+      "note": "structured evidence only, no FIR/witness narrative text"
+    },
+    "no_location": {
+      "exclude": [
+        "location_events.csv",
+        "cctv_anpr_events.csv",
+        "cctv_cameras.csv"
+      ],
+      "note": "tests reliance on movement/surveillance evidence"
+    },
+    "no_cctv_anpr": {
+      "exclude": [
+        "cctv_anpr_events.csv",
+        "cctv_cameras.csv"
+      ],
+      "note": "isolates the value of the CCTV/ANPR modality specifically"
+    },
+    "text_only": {
+      "include": [
+        "cases.csv",
+        "fir.csv",
+        "documents/"
+      ],
+      "note": "narrative-only baseline; hardest configuration"
+    }
+  }
+}
